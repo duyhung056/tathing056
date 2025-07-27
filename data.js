@@ -1,5 +1,26 @@
 const MOVIES_DATA = [
     {
+        "id": "truong-hoc-noi-loan-class-of-disobedience-1997",
+        "title": "Trường Học Nổi Loạn -Class of Disobedience",
+        "year": "1997",
+        "poster": "img/truong-hoc-noi-loan-class-of-disobedience-1997.webp",
+        "country": "Hồng Kông",
+        "movie-genre": "Drama",
+        "actor": "Trương Triệu Huy, Lương Uyển Tịnh, Ngô Gia Lạc, Huỳnh Kỷ Doanh, Trần Ngạn Hành",
+        "category": "phim-le",
+        "age": "",
+        "slide": "1",
+        "description": "Bộ phim kể về câu chuyện của Liu Guodong (do Zhang Zhaohui thủ vai), một bác sĩ trở về từ Hoa Kỳ, người đóng vai trò là hiệu trưởng của \"lớp loại bỏ\" của một trường tư thục, và bắt đầu một trò chơi với một nhóm bướng bỉnh do học sinh Ken (do Wu Jiale thủ vai) dẫn đầu. Giáo viên âm nhạc Lo Wing-man (Leung Wan-jing) khuyến khích Liu Guodong chú ý đến tài năng âm nhạc của học sinh Ma Jiahui (Huang Jiying). Ma Jiahui đã cố gắng tự tử để trả đũa vì đã báo cáo những hành động xấu xa trong khuôn viên trường, và Liu Guodong dần dần được sinh viên công nhận sau khi được giải cứu. Ken bị cô lập và lên kế hoạch trả đũa, nhưng bất ngờ khiến mình rơi vào khủng hoảng, và cuối cùng Lưu Quốc Đông đã chọn từ chức",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/-AMHyeeAW"
+                }
+            ]
+        }
+    },
+    {
         "id": "vong-oan-nghiet-vanishing-twin-2000",
         "title": "VÒNG OAN NGHIỆT - Vanishing Twin",
         "year": "2000",
