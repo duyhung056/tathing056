@@ -1,5 +1,26 @@
 const MOVIES_DATA = [
     {
+        "id": "vo-toi-la-vua-co-bac-my-wife-is-a-gambling-maestro-2008",
+        "title": "Vợ Tôi Là Vua Cờ Bạc - My Wife is a Gambling Maestro",
+        "year": "2008",
+        "poster": "img/vo-toi-la-vua-co-bac-my-wife-is-a-gambling-maestro-2008.webp",
+        "country": "Hong Kong",
+        "movie-genre": "Comedy, Gambling",
+        "actor": "Trương Gia Huy, La Lan, Ngô Chí Hùng, Ngô Quân Như",
+        "category": "phim-le",
+        "age": "",
+        "slide": "1",
+        "description": "Một người đàn ông xui xẻo phát hiện ra vợ mình có kỹ năng đánh bạc đáng kinh ngạc và đã lợi dụng tài năng của cô để cố gắng thắng lớn",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/xot7iIWAq"
+                }
+            ]
+        }
+    },
+    {
         "id": "truong-hoc-noi-loan-class-of-disobedience-1997",
         "title": "Trường Học Nổi Loạn -Class of Disobedience",
         "year": "1997",
