@@ -67,7 +67,7 @@ const MOVIES_DATA = [
         "title": "Vua Lừa Bịp - Wise Guys Never Die",
         "year": "2006",
         "poster": "img/vua-lua-bip-wise-guys-never-die-2006.webp",
-        "country": "Việt Nam",
+        "country": "Hồng Kông",
         "movie-genre": "Hành động, Cờ Bạc, Hài Hước",
         "actor": "Trương Gia Huy, Vương Tinh",
         "category": "phim-le",
