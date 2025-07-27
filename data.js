@@ -1,16 +1,58 @@
 const MOVIES_DATA = [
     {
+        "id": "xa-hoi-encom-mafiacom-2000",
+        "title": "Xã Hội Đen.com - Mafia.com",
+        "year": "2000",
+        "poster": "img/xa-hoi-encom-mafiacom-2000.webp",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành động, Tội phạm, Giật gân",
+        "actor": "Lý Tu Hiền, Lữ Tụng Hiền, Trương Diệu Dương",
+        "category": "phim-le",
+        "age": "",
+        "slide": "1",
+        "description": "Lớn lên tại một ngôi làng nhỏ có tường bao quanh ở Hồng Kông, ba người bạn là những chiến binh đường phố khao khát danh tiếng trong xã hội đen.",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/El3GDB2H3"
+                }
+            ]
+        }
+    },
+    {
+        "id": "vua-lua-bip-wise-guys-never-die-2006",
+        "title": "Vua Lừa Bịp - Wise Guys Never Die",
+        "year": "2006",
+        "poster": "img/vua-lua-bip-wise-guys-never-die-2006.webp",
+        "country": "Việt Nam",
+        "movie-genre": "Hành động, Cờ Bạc, Hài Hước",
+        "actor": "Trương Gia Huy, Vương Tinh",
+        "category": "phim-le",
+        "age": "",
+        "slide": "1",
+        "description": "Ông hoàng phim cờ bạc, đạo diễn Vương Tinh lại một lần nữa gây ấn tượng mạnh mẽ trong bộ phim ly kỳ hấp dẫn này. Anh chàng kế toán trẻ tuổi Nick bị gài bẫy vì tội biển thủ công quỹ và bị tống vào tù. Tại đây, anh gặp gỡ Teddy, một gã thông thái và lừa đảo chuyên nghiệp, người đã dạy anh mọi thứ cần biết về lừa đảo. Sau khi ra tù, Nick đồng ý trả thù Teddy bằng cách chống lại Dragon, kẻ thù không đội trời chung của người thầy. Với những tình tiết bất ngờ và những màn đánh bạc mãn nhãn, WISE GUYS NEVER DIE sẽ khiến bạn phải đoán già đoán non cho đến tận phút cuối.",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/Q0H8e-Cdr"
+                }
+            ]
+        }
+    },
+    {
         "id": "xac-chet-trong-thung-giay-justice-in-blind-1993",
         "title": "Xác Chết Trong Thùng Giấy - Justice In Blind",
         "year": "1993",
         "poster": "img/xac-chet-trong-thung-giay-justice-in-blind-1993.webp",
         "country": "Hồng Kông",
-        "movie-genre": "Crime, Drama, Thriller",
-        "actor": "Mary McDonnell, Michael Rooker, Dylan Walsh, Richard Riehle, John Carroll Lynch",
+        "movie-genre": "Tội phạm, Kinh dị",
+        "actor": "Liêu Vĩ Hùng, Thương Thiên Nga, Lê Hán Trì",
         "category": "phim-le",
         "age": "",
         "slide": "1",
-        "description": "In December 1974, a 16-year-old girl was murdered after borrowing a phone at an ice cream shop. The next day, her naked body was found hidden in a TV box on the street. The only suspect in the case was the owner of the ice cream shop, Au-Yeung Wing Cheung.",
+        "description": "Vào tháng 12 năm 1974, một cô gái 16 tuổi đã bị sát hại sau khi mượn điện thoại ở một cửa hàng kem. Ngày hôm sau, thi thể trần truồng của cô được tìm thấy giấu trong một hộp TV trên phố. Nghi phạm duy nhất trong vụ án là chủ cửa hàng kem, Au-Yeung Wing Cheung.",
         "sources": {
             "Lồng Tiếng": [
                 {
