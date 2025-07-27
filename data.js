@@ -1,5 +1,26 @@
 const MOVIES_DATA = [
     {
+        "id": "vong-oan-nghiet-vanishing-twin-2000",
+        "title": "VÒNG OAN NGHIỆT - Vanishing Twin",
+        "year": "2000",
+        "poster": "img/vong-oan-nghiet-vanishing-twin-2000.webp",
+        "country": "Hàn Quốc",
+        "movie-genre": "Kinh Dị",
+        "actor": "Shin Hyun-joo, Choi Ji-eun, Lim Ji-eun",
+        "category": "phim-le",
+        "age": "",
+        "slide": "1",
+        "description": "Yu-jin nghe tin chị gái song sinh Seung-jin sẽ từ Mỹ về thành phố. Cuối cùng, chỉ có anh rể của cô đến mang theo tin khủng khiếp về vụ tự tử của chị gái. Khi anh rể cố gắng quyến rũ cô, cô cảm thấy một sự quen thuộc kỳ lạ về mặt thể xác với anh ta. Yu-jin gặp một người lạ trên mạng tự xưng là người yêu nghệ thuật. Anh ta ám chỉ đến những tình tiết đáng ngờ xung quanh cái chết của Seung-jin, và Yu-jin phát hiện ra quá khứ của chị gái mình.",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/HMCH7qp8v"
+                }
+            ]
+        }
+    },
+    {
         "id": "xa-hoi-encom-mafiacom-2000",
         "title": "Xã Hội Đen.com - Mafia.com",
         "year": "2000",
