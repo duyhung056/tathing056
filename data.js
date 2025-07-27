@@ -1,5 +1,26 @@
 const MOVIES_DATA = [
     {
+        "id": "xin-chao-baby-hello-babies-2014",
+        "title": "Xin chào Baby - Hello Babies",
+        "year": "2014",
+        "poster": "img/xin-chao-baby-hello-babies-2014.webp",
+        "country": "Hồng Kông",
+        "movie-genre": "Comedy, Family",
+        "actor": "Ngô Quân Như, Lâm Phong, Tăng Chí Vĩ, Hoàng Bách Minh",
+        "category": "phim-le",
+        "age": "",
+        "slide": "1",
+        "description": "Hello Babies kể về những người cao tuổi Trung Quốc muốn thế hệ trẻ có con càng sớm càng tốt. Nội dung câu chuyện xoay quanh những người vì muốn được định cư tại Hong Kong nên ra sức thuyết phục con ...",
+        "sources": {
+            "Thuyết Minh": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/IaJzEjaXy"
+                }
+            ]
+        }
+    },
+    {
         "id": "vo-toi-la-vua-co-bac-my-wife-is-a-gambling-maestro-2008",
         "title": "Vợ Tôi Là Vua Cờ Bạc - My Wife is a Gambling Maestro",
         "year": "2008",
