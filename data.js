@@ -1,5 +1,47 @@
 const MOVIES_DATA = [
     {
+        "id": "trong-an-that-luc-organized-crime-triad-bureau-1994",
+        "title": "Trọng Án Thất Lục - Organized Crime & Triad Bureau",
+        "year": "1994",
+        "poster": "img/trong-an-that-luc-organized-crime-triad-bureau-1994.webp",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành động, Hình sự, Tâm lý",
+        "actor": "Lý Tu Hiền, Huỳnh Thu Sanh, Diệp Đồng, Phàn Thiếu Hoàng",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Phim xoay quanh các vụ án hình sự phức tạp, đòi hỏi sự phối hợp chặt chẽ giữa các đơn vị cảnh sát để triệt phá các băng nhóm tội phạm có tổ chức và các hoạt động liên quan đến xã hội đen.",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/RVV9dcxw5u"
+                }
+            ]
+        }
+    },
+    {
+        "id": "truy-nhat-a-chinese-legend-1991",
+        "title": "Truy Nhật - A Chinese Legend",
+        "year": "1991",
+        "poster": "img/truy-nhat-a-chinese-legend-1991.webp",
+        "country": "Hong Kong",
+        "movie-genre": "Hành động, Phiêu lưu, Giả tưởng",
+        "actor": "Trương Học Hữu, Vương Tổ Hiền, Ngọ Mã, Hồ Phong, Lưu Triệu Minh, Hàn Nghĩa Sinh",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Câu chuyện kể về Nhật (do Trương Học Hữu thủ vai), một người thợ săn dũng cảm, vô tình giải thoát Xích Long khỏi phong ấn ngàn năm. Để chuộc lại lỗi lầm, Nhật lên đường tìm kiếm viên ngọc Truy Nhật, bảo vật duy nhất có khả năng tiêu diệt Xích Long. Trên hành trình đầy gian nan, Nhật gặp gỡ và nảy sinh tình cảm với Nguyệt (do Vương Tổ Hiền thủ vai), một cô gái xinh đẹp và mạnh mẽ, người cùng anh chiến đấu chống lại thế lực hắc ám.",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/mCAunJ-cE"
+                }
+            ]
+        }
+    },
+    {
         "id": "sat-nhan-o-gia-oc-resort-massacre-2000",
         "title": "Sát Nhân Độ Giả Ốc - Resort Massacre",
         "year": "2000",
