@@ -1,5 +1,341 @@
 const MOVIES_DATA = [
     {
+        "id": "vay-binh-set-to-kill-2005",
+        "title": "Vây Binh - Set To Kill",
+        "year": "2005",
+        "poster": "img/vay-binh-set-to-kill-2005.webp",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành Động",
+        "actor": "Dư Văn Lạc, Ninh Tĩnh, Ngô Đình Diệp",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Câu chuyện xoay quanh một sĩ quan cảnh sát chìm, người phải xâm nhập vào một băng đảng xã hội đen nguy hiểm để ngăn chặn một cuộc chiến tranh băng đảng sắp xảy ra. Anh ta phải đối mặt với những thử thách lớn khi cố gắng giữ bí mật danh tính của mình và ngăn chặn bạo lực leo thang.",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/vm-2AZNJ3"
+                }
+            ]
+        }
+    },
+    {
+        "id": "vo-ich-cua-gai-l-o-v-e-love-1997",
+        "title": "Vô Địch Cua Gái - L - O - V - E ..... LOVE",
+        "year": "1997",
+        "poster": "img/vo-ich-cua-gai-l-o-v-e-love-1997.webp",
+        "country": "Hồng Kông",
+        "movie-genre": "Hài, Tình Cảm",
+        "actor": "Trần Bách Tường, Thư Kỳ, Từ Nhược Tuyên, Đào Đại Vũ, Lâm Hiểu Phong, Cát Dân Huy",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Bốn người đàn ông (bao gồm một doanh nhân triệu phú đang cố gắng thoát khỏi áp lực công việc) điều hành một nhà hàng sushi đang gặp khó khăn ở Hồng Kông theo chân một nhóm thí sinh dự thi sắc đẹp đến Thái Lan với hy vọng chiếm được trái tim họ. Bốn chàng trai lạc lõng phải thuyết phục các cô gái xinh đẹp về giá trị của mình trong việc hẹn hò, đồng thời chống lại một nhóm đối thủ đáng gờm. Liệu họ có thành công, hay sẽ trở về nhà một mình với trái tim tan vỡ?",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/4lsXmcFWS"
+                }
+            ]
+        }
+    },
+    {
+        "id": "vien-ngoc-than-ky-magic-crystal-1986",
+        "title": "Viên Ngọc Thần Kỳ - Magic Crystal",
+        "year": "1986",
+        "poster": "img/vien-ngoc-than-ky-magic-crystal-1986.webp",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành Động",
+        "actor": "Lưu Đức Hoa, Cynthia Rothrock, Trần Bách Tường, Vương Tinh",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Người Nga và chính quyền Hồng Kông đang truy tìm một tảng đá bí ẩn được phát hiện ở Athens, Hy Lạp, có chứa sức mạnh kỳ lạ.",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/iyys6Dnei"
+                }
+            ]
+        }
+    },
+    {
+        "id": "tinh-trang-truy-nu-tu-love-is-a-many-stupid-thing-2004",
+        "title": "Tinh Trang Truy Nữ Tử - Love Is a Many Stupid Thing",
+        "year": "2004",
+        "poster": "img/tinh-trang-truy-nu-tu-love-is-a-many-stupid-thing-2004.webp",
+        "country": "Hồng Kông",
+        "movie-genre": "Comedy, Romance",
+        "actor": "Tăng Chí Vĩ, Trần Bách Tường, Tô Văn Trạch, Dư Văn Lạc, Mạch Gia Kỳ",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Chung nhận lời cầu hôn của bạn trai mình, nhưng sớm phát hiện ra rằng anh ta đang ngoại tình. Anh ta rời bỏ cô, và cô sớm gặp một người đàn ông tên là Leon. Cả hai sớm nảy sinh tình cảm với nhau.",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/BNTLz7_6t"
+                }
+            ]
+        }
+    },
+    {
+        "id": "ngu-nhac-chi-vuong-the-lord-of-amusement-1999",
+        "title": "Ngu Nhạc Chi Vương - The Lord of Amusement",
+        "year": "1999",
+        "poster": "img/ngu-nhac-chi-vuong-the-lord-of-amusement-1999.webp",
+        "country": "Hồng Kông",
+        "movie-genre": "Hài Hước",
+        "actor": "Trương Gia Huy, Ngô Trấn Vũ, Ngô Mẫn Đạt",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Bộ phim kể về Đổng Chí Long, một người thông minh và lém lỉnh, luôn tìm cách để giải trí và mang lại niềm vui cho mọi người. Anh vô tình bị cuốn vào một cuộc tranh giành quyền lực và phải sử dụng trí thông minh của mình để bảo vệ bản thân và những người xung quanh.",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/cTN6nohV8"
+                }
+            ]
+        }
+    },
+    {
+        "id": "o-hiep-chi-nhan-inh-thang-thien-fate-fighter-2003",
+        "title": "Đổ Hiệp Chi Nhân Định Thắng Thiên - Fate Fighter",
+        "year": "2003",
+        "poster": "img/o-hiep-chi-nhan-inh-thang-thien-fate-fighter-2003.webp",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành động, Hài, Cờ bạc",
+        "actor": "Trương Gia Huy, Dương Cung Như, Vương Tinh, Ứng Thể Nhi, Trần Bách Tường, Lương Tiểu Băng",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Bộ phim kể về một người đàn ông tên là Tề Hoan Sướng, một người đàn ông thông minh và may mắn, người sử dụng kỹ năng cờ bạc của mình để giúp đỡ người khác. Anh ta gặp một người phụ nữ tên là Phân Ni, và họ yêu nhau. Tuy nhiên, mối quan hệ của họ bị đe dọa bởi một tay xã hội đen tên là Lôi Đao.",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/Emmbsvzcs"
+                }
+            ]
+        }
+    },
+    {
+        "id": "tu-ai-tham-truong-powerful-four-1992",
+        "title": "Tứ Đại Thám Trưởng - Powerful Four",
+        "year": "1992",
+        "poster": "img/tu-ai-tham-truong-powerful-four-1992.webp",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành động, Xã hội đen",
+        "actor": "Lý Tu Hiền, Nhậm Đạt Hoa, Trịnh Tắc Sĩ, Lý Tử Hùng",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Bộ phim kể về bốn thám trưởng tài năng và dũng cảm trong lực lượng cảnh sát Hong Kong những năm 1960-1970, mỗi người có một phong cách và phương pháp riêng để chống lại tội phạm và bảo vệ công lý.",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/HjDrwgsFS"
+                }
+            ]
+        }
+    },
+    {
+        "id": "vo-hiep-that-cong-chua-holy-weapon-1993",
+        "title": "Võ Hiệp Thất Công Chúa - Holy Weapon",
+        "year": "1993",
+        "poster": "img/vo-hiep-that-cong-chua-holy-weapon-1993.webp",
+        "country": "Hồng Kông",
+        "movie-genre": "Võ Thuật, Hài Hước",
+        "actor": "Trương Mạn Ngọc, Lưu Tùng Nhân, Dương Tử Quỳnh, Trương Mẫn, Ngô Quân Như",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Bảy nữ chiến binh, mỗi người có kỹ năng và vũ khí riêng, cùng nhau bảo vệ công chúa và chiến đấu chống lại thế lực xấu xa.",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/1d4R6URnP"
+                }
+            ]
+        }
+    },
+    {
+        "id": "truy-sat-ngay-15-thang-8-hidden-heroes-2004",
+        "title": "Truy sát ngày 15 tháng 8 - Hidden heroes",
+        "year": "2004",
+        "poster": "img/truy-sat-ngay-15-thang-8-hidden-heroes-2004.webp",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành Động, Hài Hước",
+        "actor": "Trịnh Trung Cơ, Thác Trác Nghiên, Huỳnh Hạo Nhiên",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Văn phòng Yohji Ho gặp một nữ người máy đến từ tương lai trong một cuộc đột kích buôn ma túy. Nhiệm vụ của người máy là đảm bảo cái chết của Yohji, anh trai của \"Cha đẻ của Chip điện tử\" tương lai, để giúp nhà khoa học tương lai trở thành chính mình. Cùng lúc đó, Yohji bị tình nghi là kẻ giết một sĩ quan cảnh sát. Sợ hãi và bối rối, Yohji bỏ trốn và đến gặp Mei Ling, người có ngoại hình giống hệt người máy, để xin hộ chiếu giả. Biết Mei Ling là vợ tương lai của anh trai mình, Yohji quyết định giết cô để cứu mạng mình. Bị cảnh sát và người máy truy đuổi, Yohji bỏ trốn cùng Mei Ling và bắt đầu cuộc phiêu lưu của họ.",
+        "sources": {
+            "Thuyết Minh": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/rYgpP1ojM"
+                }
+            ]
+        }
+    },
+    {
+        "id": "phi-ho-hung-su-the-new-option-2002",
+        "title": "Phi Hổ Hùng Sư - The New Option",
+        "year": "2002",
+        "poster": "img/phi-ho-hung-su-the-new-option-2002.webp",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành động",
+        "actor": "Vương Mẫn Đức, Dư Văn Lạc, Đàm Diệu Văn, Huỳnh Hạo Nhiên",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Câu chuyện xoay quanh đội Phi Hổ, một đơn vị cảnh sát đặc biệt của Hồng Kông, chuyên xử lý các vụ án nguy hiểm và phức tạp. Phim tập trung vào quá trình huấn luyện khắc nghiệt và những nhiệm vụ đầy thử thách mà các thành viên Phi Hổ phải đối mặt, đồng thời khai thác những mối quan hệ cá nhân và tinh thần đồng đội của họ.",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/UFhCdXXct"
+                }
+            ]
+        }
+    },
+    {
+        "id": "tan-nan-huynh-nan-e-he-aint-heavy-hes-my-father-1993",
+        "title": "Tân Nan Huynh Nan Đệ - He Ain't Heavy, He's My Father!",
+        "year": "1993",
+        "poster": "img/tan-nan-huynh-nan-e-he-aint-heavy-hes-my-father-1993.webp",
+        "country": "Hồng Kông",
+        "movie-genre": "Comedy",
+        "actor": "Lương Gia Huy, Lương Triều Vỹ, Lưu Gia Linh, Viên Vịnh Nghi",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Hai anh em nuôi, một kẻ lừa đảo và một cảnh sát, cố gắng lừa đảo và bảo vệ một bà lão giàu có, trong khi giữa họ và hai đứa cháu gái của bà nảy sinh tình cảm.",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/XPp7m65sO"
+                }
+            ]
+        }
+    },
+    {
+        "id": "ong-mong-ky-duyen-wait-til-youre-older-2005",
+        "title": "Đồng Mộng Kỳ Duyên - Wait 'Til You're Older",
+        "year": "2005",
+        "poster": "img/ong-mong-ky-duyen-wait-til-youre-older-2005.webp",
+        "country": "Hồng Kông",
+        "movie-genre": "Hài Hước, Lãng Mạn",
+        "actor": "Lưu Đức Hoa, Mạc Văn Úy, Lâm Gia Đống",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Một người đàn ông trung niên bất mãn đột nhiên thấy mình trở lại thành một cậu bé 20 tuổi, cho anh ta cơ hội để thay đổi cuộc đời mình.",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/NRnhaUpii"
+                }
+            ]
+        }
+    },
+    {
+        "id": "ao-the-blade-1995",
+        "title": "Đao - The Blade",
+        "year": "1995",
+        "poster": "img/ao-the-blade-1995.webp",
+        "country": "Hồng Kông",
+        "movie-genre": "Võ Thuật",
+        "actor": "Triệu Văn Trác, Hồng Hân Hân",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Một bộ phim võ thuật lấy bối cảnh tại một xưởng rèn kiếm, nơi một người đàn ông cụt một tay tìm cách trả thù cho cái chết của cha mình.",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/HSPAumCls"
+                }
+            ]
+        }
+    },
+    {
+        "id": "tuyet-menh-quay-roi-devil-touch-2002",
+        "title": "Tuyệt Mệnh Quấy Rối - Devil Touch",
+        "year": "2002",
+        "poster": "img/tuyet-menh-quay-roi-devil-touch-2002.webp",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành động, Tội phạm",
+        "actor": "Phương Trung Tín, Đào Đại Vũ, Trương Văn Từ",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Một bộ phim hành động tội phạm kể về cuộc chiến giữa cảnh sát và thế giới ngầm.",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/tXCV0Y0Oq"
+                }
+            ]
+        }
+    },
+    {
+        "id": "tuyet-chung-thiet-kim-cuong-the-spy-dad-2003",
+        "title": "Tuyệt Chủng Thiết Kim Cương - The Spy Dad",
+        "year": "2003",
+        "poster": "img/tuyet-chung-thiet-kim-cuong-the-spy-dad-2003.webp",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành Động, Hài Hước",
+        "actor": "Lương Gia Huy, Chung Hân Đồng, Trần Tiểu Xuân, Mao Thuần Quân",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Một điệp viên bí mật phải nghỉ hưu để chăm sóc hai đứa con của mình, nhưng anh ta buộc phải quay trở lại nghề khi những người bạn cũ của anh ta bị giết.",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/ybqlzAh77"
+                }
+            ]
+        }
+    },
+    {
+        "id": "tuyet-sac-than-thau-martial-angels-2001",
+        "title": "Tuyệt Sắc Thần Thâu - Martial Angels",
+        "year": "2001",
+        "poster": "img/tuyet-sac-than-thau-martial-angels-2001.webp",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành Động",
+        "actor": "Thư Kỳ, Trương Trí Lâm, Mạch Gia Kỳ",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Zi Yang là bạn trai của Cat, cả hai đều là những tên trộm siêu đặng. Trong một phim vụ, Zi Yang bị bắt, Cat đành nhờ đến những người bạn cũ của mình giúp đỡ, chống chọi lại bọn bắt cóc. Để rồi phát hiện ra Zi Yang và người bạn thân nhất bấy lâu nay đã gạt tình cảm của mình....",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/xnvhuUeLF"
+                }
+            ]
+        }
+    },
+    {
         "id": "trong-an-that-luc-organized-crime-triad-bureau-1994",
         "title": "Trọng Án Thất Lục - Organized Crime & Triad Bureau",
         "year": "1994",
