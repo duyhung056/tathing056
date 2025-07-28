@@ -1,5 +1,26 @@
 const MOVIES_DATA = [
     {
+        "id": "sat-nhan-o-gia-oc-resort-massacre-2000",
+        "title": "Sát Nhân Độ Giả Ốc - Resort Massacre",
+        "year": "2000",
+        "poster": "img/sat-nhan-o-gia-oc-resort-massacre-2000.webp",
+        "country": "Hồng Kông",
+        "movie-genre": "Kinh dị",
+        "actor": "Trịnh Hạo Nam, Nhan Thiên Vấn, La Lan, Hà Gia Câu",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Một nhóm du khách đến một khu nghỉ dưỡng hẻo lánh và trở thành con mồi của một kẻ giết người hàng loạt điên cuồng.",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/et9zcU7Os"
+                }
+            ]
+        }
+    },
+    {
         "id": "hac-tam-quy-three-wishes--1988",
         "title": "Hắc Tâm Quỷ - Three Wishes",
         "year": "1988",
