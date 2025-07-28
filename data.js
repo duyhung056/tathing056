@@ -1,15 +1,57 @@
 const MOVIES_DATA = [
     {
+        "id": "hac-tam-quy-three-wishes--1988",
+        "title": "Hắc Tâm Quỷ - Three Wishes",
+        "year": "1988",
+        "poster": "img/hac-tam-quy-three-wishes--1988.webp",
+        "country": "Hồng Kông",
+        "movie-genre": "Kinh dị, Hài Hước",
+        "actor": "Mai Diễm Phương, Mạc Thiếu Thông, Ngọ Mã, Ngô Quân Như, Trần Bách Tường, Trần Hữu, Diệp Đức Nhàn",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Ma Quỷ bị đày đến sống trong cái đầu to bằng căn phòng của một hồn ma sau khi không thể giao linh hồn cho Quỷ Dữ. Một hướng dẫn viên du lịch, người đang cho khách du lịch xem mô hình quái vật bằng sáp, cũng bị hút vào đầu hồn ma.",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/iISGuLGtod"
+                }
+            ]
+        }
+    },
+    {
+        "id": "tu-van-son-thap-tam-thai-bao-those-were-the-days-1995",
+        "title": "Từ Vân Sơn Thập Tam Thái Bảo - Those Were The Days",
+        "year": "1995",
+        "poster": "img/tu-van-son-thap-tam-thai-bao-those-were-the-days-1995.webp",
+        "country": "Hồng Kông",
+        "movie-genre": "Tội phạm, Xã hội đen",
+        "actor": "Vu Khải Hiền, Trần Hào, Trần Quốc Bang, Trịnh Tắc Sĩ, Huỳnh Tử Dương",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Bộ phim kể về 13 người con nuôi của Từ Vân Sơn, mỗi người có một tài năng đặc biệt, cùng nhau chống lại thế lực xấu xa để bảo vệ công lý và bình yên cho người dân.",
+        "sources": {
+            "Thuyết Minh": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/CJslIcwjZ"
+                }
+            ]
+        }
+    },
+    {
         "id": "xin-chao-baby-hello-babies-2014",
         "title": "Xin chào Baby - Hello Babies",
         "year": "2014",
         "poster": "img/xin-chao-baby-hello-babies-2014.webp",
         "country": "Hồng Kông",
-        "movie-genre": "Comedy, Family",
+        "movie-genre": "Hài Hước",
         "actor": "Ngô Quân Như, Lâm Phong, Tăng Chí Vĩ, Hoàng Bách Minh",
         "category": "phim-le",
         "age": "",
-        "slide": "1",
+        "slide": "0",
         "description": "Hello Babies kể về những người cao tuổi Trung Quốc muốn thế hệ trẻ có con càng sớm càng tốt. Nội dung câu chuyện xoay quanh những người vì muốn được định cư tại Hong Kong nên ra sức thuyết phục con ...",
         "sources": {
             "Thuyết Minh": [
@@ -25,12 +67,12 @@ const MOVIES_DATA = [
         "title": "Vợ Tôi Là Vua Cờ Bạc - My Wife is a Gambling Maestro",
         "year": "2008",
         "poster": "img/vo-toi-la-vua-co-bac-my-wife-is-a-gambling-maestro-2008.webp",
-        "country": "Hong Kong",
-        "movie-genre": "Comedy, Gambling",
+        "country": "Hồng Kông",
+        "movie-genre": "Hài Hước, Cờ Bạc",
         "actor": "Trương Gia Huy, La Lan, Ngô Chí Hùng, Ngô Quân Như",
         "category": "phim-le",
         "age": "",
-        "slide": "1",
+        "slide": "0",
         "description": "Một người đàn ông xui xẻo phát hiện ra vợ mình có kỹ năng đánh bạc đáng kinh ngạc và đã lợi dụng tài năng của cô để cố gắng thắng lớn",
         "sources": {
             "Lồng Tiếng": [
@@ -51,7 +93,7 @@ const MOVIES_DATA = [
         "actor": "Trương Triệu Huy, Lương Uyển Tịnh, Ngô Gia Lạc, Huỳnh Kỷ Doanh, Trần Ngạn Hành",
         "category": "phim-le",
         "age": "",
-        "slide": "1",
+        "slide": "0",
         "description": "Bộ phim kể về câu chuyện của Liu Guodong (do Zhang Zhaohui thủ vai), một bác sĩ trở về từ Hoa Kỳ, người đóng vai trò là hiệu trưởng của \"lớp loại bỏ\" của một trường tư thục, và bắt đầu một trò chơi với một nhóm bướng bỉnh do học sinh Ken (do Wu Jiale thủ vai) dẫn đầu. Giáo viên âm nhạc Lo Wing-man (Leung Wan-jing) khuyến khích Liu Guodong chú ý đến tài năng âm nhạc của học sinh Ma Jiahui (Huang Jiying). Ma Jiahui đã cố gắng tự tử để trả đũa vì đã báo cáo những hành động xấu xa trong khuôn viên trường, và Liu Guodong dần dần được sinh viên công nhận sau khi được giải cứu. Ken bị cô lập và lên kế hoạch trả đũa, nhưng bất ngờ khiến mình rơi vào khủng hoảng, và cuối cùng Lưu Quốc Đông đã chọn từ chức",
         "sources": {
             "Lồng Tiếng": [
@@ -72,7 +114,7 @@ const MOVIES_DATA = [
         "actor": "Shin Hyun-joo, Choi Ji-eun, Lim Ji-eun",
         "category": "phim-le",
         "age": "",
-        "slide": "1",
+        "slide": "0",
         "description": "Yu-jin nghe tin chị gái song sinh Seung-jin sẽ từ Mỹ về thành phố. Cuối cùng, chỉ có anh rể của cô đến mang theo tin khủng khiếp về vụ tự tử của chị gái. Khi anh rể cố gắng quyến rũ cô, cô cảm thấy một sự quen thuộc kỳ lạ về mặt thể xác với anh ta. Yu-jin gặp một người lạ trên mạng tự xưng là người yêu nghệ thuật. Anh ta ám chỉ đến những tình tiết đáng ngờ xung quanh cái chết của Seung-jin, và Yu-jin phát hiện ra quá khứ của chị gái mình.",
         "sources": {
             "Lồng Tiếng": [
@@ -93,7 +135,7 @@ const MOVIES_DATA = [
         "actor": "Lý Tu Hiền, Lữ Tụng Hiền, Trương Diệu Dương",
         "category": "phim-le",
         "age": "",
-        "slide": "1",
+        "slide": "0",
         "description": "Lớn lên tại một ngôi làng nhỏ có tường bao quanh ở Hồng Kông, ba người bạn là những chiến binh đường phố khao khát danh tiếng trong xã hội đen.",
         "sources": {
             "Vietsub": [
@@ -114,7 +156,7 @@ const MOVIES_DATA = [
         "actor": "Trương Gia Huy, Vương Tinh",
         "category": "phim-le",
         "age": "",
-        "slide": "1",
+        "slide": "0",
         "description": "Ông hoàng phim cờ bạc, đạo diễn Vương Tinh lại một lần nữa gây ấn tượng mạnh mẽ trong bộ phim ly kỳ hấp dẫn này. Anh chàng kế toán trẻ tuổi Nick bị gài bẫy vì tội biển thủ công quỹ và bị tống vào tù. Tại đây, anh gặp gỡ Teddy, một gã thông thái và lừa đảo chuyên nghiệp, người đã dạy anh mọi thứ cần biết về lừa đảo. Sau khi ra tù, Nick đồng ý trả thù Teddy bằng cách chống lại Dragon, kẻ thù không đội trời chung của người thầy. Với những tình tiết bất ngờ và những màn đánh bạc mãn nhãn, WISE GUYS NEVER DIE sẽ khiến bạn phải đoán già đoán non cho đến tận phút cuối.",
         "sources": {
             "Lồng Tiếng": [
@@ -135,7 +177,7 @@ const MOVIES_DATA = [
         "actor": "Liêu Vĩ Hùng, Thương Thiên Nga, Lê Hán Trì",
         "category": "phim-le",
         "age": "",
-        "slide": "1",
+        "slide": "0",
         "description": "Vào tháng 12 năm 1974, một cô gái 16 tuổi đã bị sát hại sau khi mượn điện thoại ở một cửa hàng kem. Ngày hôm sau, thi thể trần truồng của cô được tìm thấy giấu trong một hộp TV trên phố. Nghi phạm duy nhất trong vụ án là chủ cửa hàng kem, Au-Yeung Wing Cheung.",
         "sources": {
             "Lồng Tiếng": [
