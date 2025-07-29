@@ -4,15 +4,14 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="shortcut icon" href="favion.png">
+    <link rel="shortcut icon" href="https://i.ibb.co/GQgB7KT7/favion.png">
     <title>Cập nhật dữ liệu phim</title>
-    
-    <link rel="stylesheet" href="style.css" />
-    <link rel="stylesheet" href="update.css" />
+
+    <link rel="stylesheet" href="styles/style.css" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" />
 </head>
 
-<body>
+<body class="update-page">
 
     <div id="password-overlay">
         <div id="password-prompt">
@@ -30,7 +29,7 @@
     <div id="main-content" style="display: none;">
         <header>
             <div class="header-container">
-                <a href="index.html" id="logo-link"><img id="logo" src="logo.png" alt="Logo Phim Nhanh"></a>
+                <a href="update.html" id="logo-link"><img id="logo" src="https://i.ibb.co/GQgB7KT7/favion.png" alt="Logo"></a>
                 <div class="search-group">
                     <input type="search" id="search-input" placeholder="Tìm phim trong danh sách..." />
                     <button id="search-btn"><i class="fas fa-search"></i></button>
@@ -38,28 +37,47 @@
             </div>
         </header>
 
-        <main class="update-container" style="padding-top: 104px;">
+        <main class="update-container">
             <div class="update-header">
                 <div>
                     <h1>Danh sách phim</h1>
                     <span id="movie-count-display"></span>
+                    <div style="margin-top: 10px; display: flex; justify-content: space-between; align-items: center;">
+                        <div>
+                            <label style="cursor: pointer;">
+                                <input type="checkbox" id="select-all-checkbox" style="margin-right: 5px;">
+                                Chọn tất cả (trong trang này)
+                            </label>
+                            <button class="action-btn secondary-btn" id="bulk-delete-btn"
+                                style="margin-left: 20px; background-color: #dc3545;">
+                                <i class="fas fa-trash-alt"></i> Xóa đã chọn
+                            </button>
+                        </div>
+                        <div>
+                            <button class="action-btn" id="open-filter-btn"
+                                style="background-color: #17a2b8; margin-left: 20px;">
+                                <i class="fas fa-filter"></i> Lọc phim
+                            </button>
+                        </div>
+                    </div>
                 </div>
-                <div>
-                    <button class="action-btn add-btn" id="add-new-movie-btn"><i class="fas fa-plus"></i> Thêm phim mới</button>
-                    <button class="action-btn download-btn" id="download-btn"><i class="fas fa-download"></i> Tạo và Tải file data.js</button>
+                <div class="header-buttons"> <button class="action-btn add-btn" id="add-new-movie-btn"><i
+                            class="fas fa-plus"></i> Thêm phim mới</button>
+                    <button class="action-btn download-btn" id="download-btn"><i class="fas fa-download"></i> Tạo và Tải
+                        file data.js</button>
                 </div>
             </div>
             <div id="movie-list">
-                </div>
-            <div id="pagination-container">
-                </div>
+            </div>
+            <div id="pagination-container" class="pagination-controls">
+            </div>
         </main>
-        
+
         <footer>
             <div class="footer-container">
                 <div class="footer-top">
                     <div class="footer-col about-us">
-                        <img class="footer-logo" src="logo.png" alt="Logo Phim Nhanh">
+                        <img class="footer-logo" src="https://i.ibb.co/GQgB7KT7/favion.png" alt="Logo">
                         <p>HONGKONG MOVIE VIETSUB<br>
                             Web xem phim chủ chất lượng của TatHing.</p>
                         <ul class="contact-info">
@@ -68,7 +86,7 @@
                             <li><i class="fas fa-phone"></i>(+84) 918 273645 </li>
                         </ul>
                     </div>
-    
+
                     <div class="footer-col links-group">
                         <div class="quick-links">
                             <h3>Liên Kết Nhanh</h3>
@@ -82,16 +100,17 @@
                             <h3>Kết Nối</h3>
                             <p>Theo dõi chúng tôi trên các mạng xã hội để không bỏ lỡ những bộ phim hay nhất.</p>
                             <div class="social-icons">
-                                <a href="https://www.facebook.com/tathingsubber" target="_blank" aria-label="Facebook"><i
-                                        class="fab fa-facebook-f"></i></a>
-                                <a href="#" target="_blank" aria-label="Telegram"><i class="fab fa-telegram-plane"></i></a>
+                                <a href="https://www.facebook.com/tathingsubber" target="_blank"
+                                    aria-label="Facebook"><i class="fab fa-facebook-f"></i></a>
+                                <a href="#" target="_blank" aria-label="Telegram"><i
+                                        class="fab fa-telegram-plane"></i></a>
                                 <a href="#" target="_blank" aria-label="YouTube"><i class="fab fa-youtube"></i></a>
                                 <a href="#" target="_blank" aria-label="Web"><i class="fab fa-github"></i></a>
                             </div>
                         </div>
                     </div>
                 </div>
-    
+
                 <div class="footer-map-row">
                     <h3>Bản Đồ</h3>
                     <div class="map-container">
@@ -115,7 +134,7 @@
                 <h2 id="modal-title">Thêm/Sửa phim</h2>
                 <span class="close-btn">×</span>
             </div>
-            
+
             <form id="edit-form">
                 <input type="hidden" id="movie-id-input">
                 <div class="form-grid">
@@ -127,19 +146,12 @@
                         <label for="year">Năm sản xuất</label>
                         <input type="text" id="year">
                     </div>
-
-                    <div class="form-group autofill-group">
-                        <button type="button" class="action-btn add-btn" id="autofill-btn"><i class="fas fa-magic"></i> Lấy thông tin tự động</button>
-                        <div class="loader" id="autofill-loader"></div>
-                        <span style="color: var(--color-text-tertiary); font-size: 0.8rem;">(Dựa vào Tiêu đề và Năm)</span>
-                    </div>
-
                     <div class="form-group">
                         <label for="id">ID (tự động tạo)</label>
                         <input type="text" id="id" required>
                     </div>
-                    <div class="form-group">
-                        <label for="poster">Link Poster (tự động tạo)</label>
+                    <div class="form-group full-width">
+                        <label for="poster">Link Poster</label>
                         <input type="text" id="poster">
                     </div>
                     <div class="form-group">
@@ -154,9 +166,12 @@
                         <label for="actor">Diễn viên (cách nhau bởi dấu phẩy ,)</label>
                         <input type="text" id="actor">
                     </div>
-                     <div class="form-group">
-                        <label for="category">Phân loại (phim-le, phim-bo)</label>
-                        <input type="text" id="category" value="phim-le">
+                    <div class="form-group">
+                        <label for="category">Phân loại</label>
+                        <select id="category">
+                            <option value="phim-le">Phim lẻ</option>
+                            <option value="phim-bo">Phim bộ</option>
+                        </select>
                     </div>
                     <div class="form-group">
                         <label for="age">Giới hạn tuổi</label>
@@ -172,20 +187,30 @@
                             <option value="1">Có</option>
                         </select>
                     </div>
+                    <div id="poster-slide-container" class="full-width" style="grid-column: 1 / -1; display: none;">
+                        <div class="form-group">
+                            <label for="poster-slide-input">Link Poster Slide</label>
+                            <input type="text" id="poster-slide-input">
+                        </div>
+                    </div>
                     <div class="form-group full-width">
                         <label for="description">Mô tả</label>
                         <textarea id="description"></textarea>
                     </div>
-                    
+
                     <div class="form-group full-width">
                         <label>Nguồn phát</label>
                         <div id="sources-container">
-                            </div>
-                        <button type="button" class="action-btn add-btn" id="add-source-type-btn" style="margin-top: 10px; width: fit-content;"><i class="fas fa-plus"></i> Thêm Nguồn Phát</button>
+                        </div>
+                        <button type="button" class="action-btn add-btn" id="add-source-type-btn"
+                            style="margin-top: 10px; width: fit-content;"><i class="fas fa-plus"></i> Thêm Nguồn
+                            Phát</button>
                     </div>
                 </div>
 
                 <div class="modal-footer">
+                    <button type="button" class="action-btn secondary-btn" id="clear-draft-btn"
+                        style="display: none;">Xóa Nháp</button>
                     <button type="submit" class="action-btn add-btn">Lưu thay đổi</button>
                 </div>
             </form>
@@ -204,7 +229,38 @@
     </div>
 
     <script src="data.js"></script>
-    <script src="update.js"></script>
+    <script src="logic/update.js"></script>
+    <div id="filter-overlay" style="display: none;"></div>
+    <div id="filter-popup" style="display: none;">
+        <div class="filter-header">
+            <h3><i class="fas fa-filter"></i> Bộ lọc phim</h3>
+            <button class="filter-close-btn">&times;</button>
+        </div>
+        <div class="filter-body">
+            <div class="filter-group">
+                <label for="filter-year">Lọc theo năm sản xuất</label>
+                <input type="text" id="filter-year" class="form-group" style="width: 100%; padding: 10px;"
+                    placeholder="Nhập năm, ví dụ: 1999">
+            </div>
+            <div class="filter-group">
+                <label>Lọc theo thuộc tính</label>
+                <div class="checkbox-container" style="max-height: none; grid-template-columns: 1fr;">
+                    <div class="checkbox-item">
+                        <input type="checkbox" id="filter-is-18plus">
+                        <label for="filter-is-18plus">Chỉ hiển thị phim 18+</label>
+                    </div>
+                    <div class="checkbox-item">
+                        <input type="checkbox" id="filter-is-slide">
+                        <label for="filter-is-slide">Chỉ hiển thị phim trên Slide</label>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="filter-footer">
+            <button class="filter-reset-btn" id="reset-filter-btn"><i class="fas fa-sync-alt"></i> Xóa bộ lọc</button>
+            <button id="apply-filter-btn"><i class="fas fa-check"></i> Áp dụng</button>
+        </div>
+    </div>
 </body>
 
 </html>
