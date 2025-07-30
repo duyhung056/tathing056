@@ -1,5 +1,379 @@
 const MOVIES_DATA = [
     {
+        "id": "nguoi-trong-giang-ho-long-tranh-ho-au-young-and-dangerous-5-1998",
+        "title": "Người Trong Giang Hồ: Long Tranh Hổ Đấu - Young and Dangerous 5",
+        "year": "1998",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzg2OGY0MjAtNzk5Mi00YzU0LTk4NmQtODEwZjJlYzUzOTVmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Tội phạm, Hình sự, Hành động",
+        "actor": "Trịnh Y Kiện, Trịnh Hạo Nam, Tạ Thiên Hoa, Trần Tiểu Xuân, Tiền Tiểu Hào, Lâm Hiểu Phong, Ngô Quân Như",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Chan Ho Nam (Trịnh Hạo Nam) tiếp tục cuộc đấu tranh chiếm vị trí chi nhánh Causeway Bay trong Hội Tam Hoàng Hung Hing. Trong khi đó Szeto – một thành viên băng Tung Sing – ra tay gây rối để giành quyền lực; còn bạn thân Big Head (Jordan Chan) sau 8 năm tù trở về và muốn sống cuộc sống bình lặng. Hung Hing bị chia rẽ với áp lực từ Tung Sing, cả nhóm phải bảo vệ lãnh đạo và uy tín của mình. Mâu thuẫn giữa lòng trung thành và quyền lực bùng nổ trong các trận chiến nội bộ. Những cảnh hành động rượt đuổi, đấu súng và bạo lực xét nét váy đen tội phạm. Cuộc chiến giữa giang hồ trẻ trung và thế lực ngầm thời thập niên 90 phản ánh thực tế hỗn loạn của Hồng Kông. Bộ phim cũng cho thấy sự thay đổi trong tinh thần và quan hệ của những nhân vật chủ chốt: từ cạnh tranh đến hiểu nhau hơn.",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/WS4_JBlSq"
+                }
+            ]
+        }
+    },
+    {
+        "id": "trong-an-song-hung-heat-team-2004",
+        "title": "Trọng Án Song Hùng - Heat Team",
+        "year": "2004",
+        "poster": "https://hkmdb.com/db/images/movies/10553/HeatTeam+2004-76-b.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành Động",
+        "actor": "Quách Phú Thành, Trần Dịch Tấn, Trịnh Hy Di, Vương Kiệt, Lý Tu Hiền",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Lee Yu-ting (Quách Phú Thành) và Wong Kai-chung (Trần Ân Trạch) là hai cảnh sát tinh nhuệ thuộc các đơn vị Regional Crime khác nhau tại Hồng Kông và Kowloon. Dù chưa từng quen biết, cả hai đều được lựa chọn vào một team đặc nhiệm để xử lý một vụ trộm kim cương quốc tế. Hai người có cá tính trái chiều: Yu-ting cởi mở, hài hước; Kai-chung trầm ổn, tinh ranh – khiến bộ đôi thường cãi nhau trong công việc. Fung Po‑Po (Chung Vận Mỹ), nữ cảnh sát được giao làm cấp trên tạm thời, cũng không thể hòa giải hoàn toàn hai nhân cách đó. Khi Ken Ma (Hoàng Bính Viên) cùng bạn gái thực hiện vụ trộm trên và bị truy đuổi, nhóm cảnh sát phải hợp lực bảo vệ người tình của hắn – cũng là người sở hữu kim cương – để đổi lấy danh tính thật của Ken. Trong quá trình điều tra, họ phải vượt qua lòng kiêu ngạo, xây dựng tinh thần đồng đội và học cách tin tưởng nhau. Cuối phim, Kai-chung bị bắn và nằm viện; Yu-ting đến thăm, đánh dấu khởi đầu tình bạn dựa trên sự kính trọng lẫn nhau. Bộ phim kết hợp hành động bắn súng, truy đuổi, yếu tố hài nhẹ và tâm lý nhân vật.",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/rSe6ROBIl"
+                }
+            ]
+        }
+    },
+    {
+        "id": "truy-uoi-than-toc-hunting-express-1988",
+        "title": "Truy Đuổi Thần Tốc - Hunting Express",
+        "year": "1988",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYzk3ZDBjZDEtOWVjZi00NDY2LTg0OGItZGUzZDJkNWExZTAyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "poster-slide": "",
+        "country": "Mỹ, Hồng Kông",
+        "movie-genre": "Hành động",
+        "actor": "Sean Odell, Pierre Kirby, Meike Blischke, Rick Pearce",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Hank, một cựu lính đặc nhiệm Mỹ từng phục vụ tại Việt Nam, nhận nhiệm vụ truy tìm và giải cứu Janis — một cô gái bị đưa đến Nhật Bản, nơi cô bị đẩy vào môi trường mại dâm và bạo lực. Khi Hank đến nơi, anh phát hiện một mạng lưới khủng bố âm thầm hoạt động. Cùng với sự hỗ trợ từ tổ chức quân sự cao cấp, anh phải tung những chiến thuật chiến đấu tinh vi và khả năng sinh tồn cao để vượt qua các toán lính thám tử. Janis vừa là mục tiêu vừa là niềm hy vọng sống sót cho anh. Phim đẩy mạnh yếu tố hành động bạo lực, các cảnh rượt đuổi, đấu súng và chiến đấu mano-a-mano. Cốt truyện đơn giản, tập trung vào hành trình cứu người giữa một thế giới tội phạm khắc nghiệt. Với độ dài khoảng 90 phút, phim là minh chứng cho phong cách exploitation-action thập niên 80 giữa Hồng Kông và Mỹ. Mặc dù ít nổi tiếng, Hunting Express vẫn có giá trị cult đối với người hâm mộ thể loại hành động thấp ngân sách",
+        "sources": {
+            "Thuyết Minh": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/1Nf1vTkun"
+                }
+            ]
+        }
+    },
+    {
+        "id": "to-khat-nhi-heroes-among-heroes-1993",
+        "title": "Tô Khất Nhi - Heroes Among Heroes",
+        "year": "1993",
+        "poster": "https://image.enjoymovie.net/8409r9lYnAifGOiTF41MH0hdzbo=/640x869/smart/core/p/L-W8V427W0.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Võ thuật, Lịch sử, Cổ trang",
+        "actor": "Chân Tử Đan, Vương Giác, Ngô Mạnh Đạt, Viên Khiết Oánh, Trần Thục Lan, Hồng Hân Hân",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Cuối thời nhà Thanh, Trung Quốc đang đối mặt với sự lũng đoạn do buôn lậu thuốc phiện từ nước ngoài. Tô Khất Nhi, còn gọi là Beggar So, xuất thân quyền quý nhưng sa ngã vì nghiện opium. Anh bị hoàng tử phản bội và cha nuôi bị sát hại, buộc anh từ bỏ con đường đen tối. Cùng với danh tướng Hoàng Phi Hồng (Vương Giác), họ đứng lên chống lại bọn buôn lậu và các thế lực tham nhũng. Tô Khất Nhi từ chối tham gia âm mưu ám sát một vị tướng chính nghĩa, rồi quyết tâm cai nghiện và tẩy chay băng nhóm. Cùng lúc đó, anh phát triển tình cảm với giáo viên người Anh, Yiteh (Viên Khiết Oánh), cô còn là cháu gái của Hoàng tử. Họ hợp lực với dân làng để đốt hết số thuốc phiện, biểu tượng của sự lũng đoạn. Cuối phim, Tô Khất Nhi và Hoàng Phi Hồng cùng liên minh chống ác nhân trong trận quyết chiến. Tác phẩm có cảnh võ thuật mãn nhãn, bi kịch cá nhân và thông điệp về lòng chính nghĩa, danh dự và sự cứu rỗi nội tâm",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/9Rl-UI50w"
+                }
+            ]
+        }
+    },
+    {
+        "id": "vi-em-chung-tinh-for-your-heart-only-1985",
+        "title": "Vì Em Chung Tình - For Your Heart Only",
+        "year": "1985",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOTRlYmU2NGUtNzUxMi00MTk1LTk4ZWMtYzg0ODMwNjE1NTFhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Tình cảm, Tâm lý",
+        "actor": "Trương Quốc Vinh, Lý Lệ Trân, La Minh Châu, Bách An Ni, Mạnh Hải, Vương Thư Kỳ",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "iggy Chan (Trương Quốc Vinh) là một DJ có lối sống phóng khoáng, thường chinh phục các cô gái và nhanh chóng bỏ đi. Một buổi sáng, anh tình cờ gặp Jane Yu (Lê Lợi Trân) tại hành lang khu chung cư và ngay lập tức bị thu hút. Anh dùng đủ cách để tiếp cận và chiếm trọn trái tim cô. Tuy nhiên, khi Jane xuất hiện tại nơi anh làm việc và chứng kiến Piggy đang tán tỉnh người khác, cô phẫn nộ và chia tay ngay lập tức. Bạn thân của Piggy – Sapi (Mãng Hải) – đang yêu em gái Piggy, Mabley (Ann Bridgewater). Piggy phản đối tình yêu này do lo lắng bạn sẽ phân tâm học hành, dẫn đến xung đột giữa anh và Sapi. Sapi sau đó phát hiện mắc bệnh hiểm nghèo và dần yếu đi. Trước khi qua đời, cậu mong muốn Piggy và Jane hãy làm bạn một lần nữa. Sau tang lễ, Piggy mới nhận ra tình yêu chân thành dành cho Jane và tiếp tục nỗ lực hàn gắn. Phim kết thúc nhẹ nhàng nhưng sâu lắng, gửi gắm thông điệp về tình yêu, trách nhiệm và sự trưởng thành nội tâm.",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/_Ei7Mq37B"
+                }
+            ]
+        }
+    },
+    {
+        "id": "cuu-long-bang-that-goodbye-mr-cool-2001",
+        "title": "Cửu Long Băng Thất - Goodbye Mr. Cool",
+        "year": "2001",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzZlNjFmNzYtYmEwMC00MDUzLWIxNDEtYTkwZmU1ZjliMjc5XkEyXkFqcGc@._V1_.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Tội phạm, Hình sự, Hành động",
+        "actor": "Trịnh Y Kiện, Đỗ Vấn Trạch, Lâm Tuyết, Mạc Văn Úy, Lữ Tụng Hiền",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Dragon (Trịnh Y Kiện) là một cựu giang hồ vừa mãn hạn tù, quyết tâm từ bỏ đời sống bạo lực và làm phục vụ tại “九龍冰室” — một quán cà phê truyền thống ở Kowloon. Anh không biết mình đã có một đứa con trai sáu tuổi cho đến khi siêu nhỏ Poon Siu‑Lung (Tam Vĩ Hào) đến chào gọi “Bố” ngay lễ tái xuất. Dragon dần hàn gắn với Helen (Mạc Văn Úy), người yêu cũ, cũng như thích nghi với vai trò người cha. Tuy nhiên, quá khứ ngầm của anh bắt đầu kéo đến khi những người bạn cũ và cả băng đảng muốn kéo anh quay lại giới giang hồ. Trong khi đó, cô giáo Mon (Lý Thái Hà) giúp Dragon kết nối với con trai và tìm lại bản thân. Phim khai thác mạnh chủ đề chuộc lỗi, tình cha con, lòng trung thành và hy vọng đổi mới. Bối cảnh quán cà phê nhỏ mang đến cảm giác ấm cúng đối lập với thế giới giang hồ lạnh lẽo ngày xưa, tạo nên không khí vừa nhẹ nhàng vừa ám ảnh. Với đạo diễn Jingle Ma, tác phẩm là lời phản tỉnh ý nghĩa về lựa chọn giữa gia đình và giang hồ.",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/cCb9-v-zS"
+                }
+            ]
+        }
+    },
+    {
+        "id": "nguoi-trong-giang-ho-chien-vo-bat-thang-young-and-dangerous-4--1997",
+        "title": "Người Trong Giang Hồ: Chiến Vô Bất Thắng - Young and Dangerous 4",
+        "year": "1997",
+        "poster": "https://m.media-amazon.com/images/M/MV5BODhkMjYxZWUtOTgwMy00OTViLTk4NTEtYTNjZWU1YmNkOWRkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Tội phạm, Hình sự, Hành động",
+        "actor": "Trịnh Y Kiện, Trần Tiểu Xuân, Lâm Hiểu Phong, Tạ Thiên Hoa, Trương Diệu Dương, Lâm Quốc Bân, Lê Tư, Ngô Quân Như, Huỳnh Thu Sanh",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Trong phần tiếp theo của series Người Trong Giang Hồ, sau khi ông trùm Hung Hing – Tưởng Thiên Sinh qua đời, băng đang rơi vào khủng hoảng. Trần Hạo Nam và Hon Bun được cử sang Thái Lan để thuyết phục Tưởng Thiên Dưỡng – em trai Thiên Sinh – về lãnh đạo Hung Hing. Khi đó, thủ lĩnh chi nhánh Tuen Mun bị ám sát, mở ra cuộc đua giữa Chicken và Barbarian để giành vị trí. Barbarian có ủng hộ từ sự thao túng của Tung Sing và thuộc hạ Tiger. Sự đối đầu nội bộ dẫn đến cuộc tranh giành quyền lực máu lửa. Chicken cuối cùng thắng cử đứng đầu chi nhánh, nhưng để lại nhiều vết thương lòng và tổn thất. Bộ phim nổi bật với mối quan hệ phức tạp giữa bạn bè, lòng trung thành bị thử thách và nạn phản bội châm ngòi cho bi kịch gia tộc giang hồ. Cảnh hành động căng thẳng xen lẫn tâm lý nhân vật sâu sắc làm nên sự thành công cho phần bốn này",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/aRzgop7Z-"
+                }
+            ]
+        }
+    },
+    {
+        "id": "hac-mieu-2-thich-sat-diep-loi-kham-black-cat-ii-1992",
+        "title": "Hắc Miêu 2 Thích Sát Diệp Lợi Khâm - Black Cat II",
+        "year": "1992",
+        "poster": "https://hkmdb.com/db/images/movies/7579/BlackCatII+1992-27-b.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành động, Khoa học viễn tưởng, Gián điệp, Hình sự",
+        "actor": "Lương Tranh, Cừu Vân Ba,",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Catherine (Lương Tranh), sau khi được cấy vi mạch \"Black Cat\" vào não, trở thành sát thủ siêu phàm do CIA điều khiển. Cô được giao nhiệm vụ truy lùng một tổ chức khủng bố âm mưu ám sát Tổng thống Nga Yeltsin. Trong hành trình, cô được ghép đôi với đặc vụ trẻ Robin. Họ hợp tác để triệt phá âm mưu, dù Catherine đấu tranh nội tâm giữa bản năng con người và chi phối máy móc. Phim mang phong cách sci‑fi pha hành động \"wire‑work\" đặc trưng Hồng Kông, có cảnh rượt đuổi trượt tuyết trên núi và đấu súng trên bãi đáp máy bay. Từng cảnh bạo lực được thể hiện cực kỳ phóng đại, có mâu thuẫn và phản bội. Phim không chú trọng logic cốt truyện mà tập trung đẩy cao độ mãnh liệt của hành động. Đây là phần tiếp theo của Black Cat (1991) và được xem là phim hành động sci‑fi đậm chất Hong Kong những năm đầu 90",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/WgIUbAc1F"
+                }
+            ]
+        }
+    },
+    {
+        "id": "co-hoac-nu-chi-quyet-chien-giang-ho-sexy-and-dangerous-1996",
+        "title": "Cổ Hoặc Nữ Chi Quyết Chiến Giang Hồ - Sexy and Dangerous",
+        "year": "1996",
+        "poster": "https://d3tvwjfge35btc.cloudfront.net/Assets/85/370/L_p0001737085.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Tội phạm, Hành động, Giang hồ",
+        "actor": "Lý Lệ Trân, Trần Diệu Anh, Mạc Văn Úy, Ngô Trấn Vũ, Mạch Gia Kỳ, Lâm Thượng Nghĩa, Đường Văn Long",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Marble (Khách Mộc), một cô gái trẻ tài năng tại máy bắn game, sống giữa môi trường ngầm của kinh đô “Portland Street” ở Hồng Kông. Cô là thành viên của một “girl gang” gồm bốn cô gái, chuyên làm việc cho bạn trai One – một trùm giang hồ địa phương. Khi One bỏ trốn sang Hà Lan, gang của Marble mất vị thế. Cô quyết định hợp tác với Playboy Man (Michael Tao), chủ một câu lạc bộ sang trọng, để giành lại quyền lực và sinh kế cho nhóm. Câu chuyện dẫn đến nhiều mâu thuẫn, bao gồm đêm đấu súng khốc liệt giữa các băng nhóm, các kế hoạch trả thù và âm mưu lấp đầy quyền lực giang hồ. Trong hành trình đó, Marble vừa thể hiện sự mạnh mẽ nhưng cũng dễ bị tổn thương, khi bạn bè phản bội và tình yêu chông chênh. Bộ phim có nhiều cảnh bạo lực, lời thoại thô tục và yếu tố gợi cảm nhằm phản ánh một thế giới giang hồ hỗn loạn & khắc nghiệt. Phim thuộc rating Category IIB, mang đậm phong cách “soft‑exploitation” đặc trưng Hong Kong thập niên 90.",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/zocX9UYLU"
+                }
+            ]
+        }
+    },
+    {
+        "id": "nguoi-trong-giang-ho-manh-long-qua-giang-young-and-dangerous-2-1996",
+        "title": "Người Trong Giang Hồ: Mãnh Long Quá Giang - Young and Dangerous 2",
+        "year": "1996",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNTkxODU4OGYtZWYxZS00YmYxLThkMWItNTU3YTQ1YTFhM2QxXkEyXkFqcGc@._V1_.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Tội phạm, Hình sự, Hành động",
+        "actor": "Trịnh Y Kiện, Trần Tiểu Xuân, Tạ Thiên Hoa, Lâm Hiểu Phong, Lê Tư, Khâu Thục Trinh",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Một phần tiếp theo của série Người Trong Giang Hồ, chia làm hai phần nối tiếp. Phần đầu theo chân Chicken (Trần Tiểu Xuân) tự lưu vong ở Đài Loan và gia nhập băng San Luen, nơi anh chứng tỏ mình qua một vụ ám sát tinh vi. Phần sau diễn ra tại Hồng Kông, khi Chan Ho Nam (Trịnh Y Kiện) tranh giành vị trí lãnh đạo chi nhánh Causeway Bay trong băng Hung Hing với Tai Fei (Anthony Vượng) trong bối cảnh phức tạp giữa hai băng nhóm. Sự xung đột nội bộ, sự phản bội và âm mưu giữa các phe phái càng trở nên khốc liệt. Khi bạn gái Ho Nam – Smartie (Gigi Lai) gặp tai nạn nghiêm trọng, áp lực đè nặng lên quyết định của anh. Trong bước ngoặt cao trào tại Macau, một sự kiện khai trương casino trở thành dịp thanh trừng quyền lực giữa Hung Hing và San Luen. Bộ phim nổi bật với diễn xuất của Anthony Vượng trong vai Tai Fei và cách khai thác tâm lý nhân vật sâu sắc hơn phần trước. Chuyển hướng từ hành động sang phát triển nhân vật và biểu thị sự chuyển mình của giới anh em giang hồ một cách trưởng thành hơn.",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/v6rBrjfJb"
+                }
+            ]
+        }
+    },
+    {
+        "id": "nguoi-trong-giang-ho-ngu-ho-tai-xuat-young-and-dangerous-1996",
+        "title": "Người Trong Giang Hồ: Ngũ Hổ Tái Xuất - Young and Dangerous",
+        "year": "1996",
+        "poster": "https://hkmdb.com/db/images/movies/8127/YoungandDangerous+1996-33-b.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Tội phạm, Hình sự, Hành động",
+        "actor": "Trịnh Y Kiện, Trần Tiểu Xuân, Lê Tư, Nhậm Đạt Hoa, Lâm Hiểu Phong, Châu Vĩnh Đường, Ngô Chí Hùng, Ngô Trấn Vũ",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Một nhóm thanh niên lớn lên trong vùng ổ chuột ở Hong Kong những năm 1980 gồm Chan Ho Nam (Trịnh Y Kiện), Chicken (Jordan Chan), Dai Tin‑Yee (Michael Tse), Pou Pan (Jerry Lamb), và Chow Pan (Jason Chu). Sau khi được cứu giúp bởi trùm giang hồ “Uncle Bee”, họ gia nhập Hội Tam Hoàng Hung Hing và bắt đầu bước chân vào thế giới tội phạm. Mối quan hệ giữa các thành viên gắn bó bởi tình anh em và lòng trung thành. Tuy nhiên khi Ugly Kwan (Francis Ng) gây mâu thuẫn, sự phản bội dần bộc lộ, dẫn đến sự phân chia trong nội bộ. Ho Nam bị vu oan, phải chạy trốn đến Đài Loan trong khi Chicken giúp anh tái lập quan hệ và tổ chức trả thù. Cuộc đấu tranh quyền lực chấm dứt với cái chết của Kwan và sự phục hồi vị thế cho Ho Nam. Bộ phim nhấn mạnh vào tình bạn, lòng trung thành và hệ lụy của thế giới ngầm giữa bối cảnh chuẩn bị chuyển giao chủ quyền",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/nGkrhxAZO"
+                }
+            ]
+        }
+    },
+    {
+        "id": "manh-ho-khu-loan-tu-the-tragic-fantasy-tiger-of-wanchai-1994",
+        "title": "Mãnh Hổ Khu Loan Tử - The Tragic Fantasy Tiger of Wanchai",
+        "year": "1994",
+        "poster": "https://images.now-tv.com/shares/vod_images/vi_vodproduct_desc_t/202108/en_us/original_vertical/202108181448283",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hình sự, Tội phạm",
+        "actor": "Nhậm Đạt Hoa, Trương Diệu Dương, Doãn Dương Minh, Lưu Thanh Vân, Ông Hồng, Lâm Quốc Bân, Hà Gia Câu",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Phim kể về Chan Yiu‑Hing (Simon Yam), vận động viên đua xe đêm tại quận Wan Chai, Hồng Kông, nổi danh với biệt danh \"Tiger of Wanchai\". Anh mở gara ô tô, dần tạo uy tín nhờ tính nghĩa khí và giúp các quán bar, nhà hàng tránh bị quấy rối. Mối quan hệ của anh với giới giang hồ ngày càng sâu, nhất là khi từ chối để một băng nhóm tội phạm buôn bán ma túy trong khu vực của mình. Sự nổi tiếng kéo theo mâu thuẫn và đe dọa, kết thúc bằng cái chết bi thảm của anh khi bị băng đối thủ ám sát. Phim dựa trên cuộc đời của trùm giang hồ có thật Andely Chan – được gọi là “Tiger of Wanchai”. Tác phẩm có nhiều cảnh bạo lực, mang đậm chất thriller và phản ánh cuộc sống ngầm tại Hồng Kông thập niên 90. Nhạc nền sử dụng nhạc của nhóm Beyond và có cảnh trong karaoke với Anita Mui. Đây là phim cấp III theo hệ thống kiểm duyệt Hồng Kông",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/fnCNPU6gr"
+                }
+            ]
+        }
+    },
+    {
+        "id": "kim-ban-e-danh-to-be-no1-1996",
+        "title": "Kim Bản Đề Danh – To Be No. 1",
+        "year": "1996",
+        "poster": "https://en.hkcinema.ru/photo/s/fw/540-999/b4311e08.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hình sự, Tội phạm",
+        "actor": "Trương Trí Lâm, Đinh Tử Tuấn, Lý Tu Hiền, Nhậm Đạt Hoa, Ngô Nghị Tướng, Huỳnh Tử Dương",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Fai Chuen là một thanh niên trẻ đầy tham vọng trong giới giang hồ Hồng Kông thập niên 90. Anh phục vụ underboss Piu trong băng Hung Lok và nỗ lực leo lên cao bằng cả lòng trung thành và mưu tính. Sau khi tiến hành vụ ám sát theo lệnh, Fai cảm thấy bất mãn vì người cha của Apple – con gái của ông chủ – lại gánh tội thay. Sự tự tin thái quá khiến Fai tự đối đầu với cấp trên và gây ra hậu quả bi thương cho bản thân và bạn bè. Khi trở thành kẻ có tên trong danh sách truy nã, anh bị giăng bẫy và trở nên vô dụng đối với phe giang hồ. Liệu Fai và Apple có thể bỏ trốn sang Trung Quốc đại lục và thoát khỏi bóng tối của thế giới ngầm? Phim mang thông điệp rõ ràng: phong cách sống giang hồ không hề lãng mạn—chỉ dẫn đến tổn thất và mất mát sâu sắc. Với cách kể súc tích, không tô vẽ hào quang, thước phim phơi bày thực tế xám xịt của thế giới tội phạm",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/e9PDMcC4N"
+                }
+            ]
+        }
+    },
+    {
+        "id": "di-o-khong-gian-inner-senses-2002",
+        "title": "Dị Độ Không Gian – Inner Senses",
+        "year": "2002",
+        "poster": "https://d3tvwjfge35btc.cloudfront.net/Assets/74/255/L_p0147025574.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Kinh dị, Tâm lý",
+        "actor": "Trương Quốc Vinh, Lâm Gia Hân, Lý Tử Hùng, Châu Gia Linh, Từ Thiếu Cường",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Dị Độ Không Gian là một bộ phim kinh dị tâm lý sản xuất tại Hồng Kông năm 2002 do đạo diễn La Chí Lương thực hiện. Trương Quốc Vinh vào vai bác sĩ tâm lý Jim Law, người tiếp nhận điều trị cho cô gái Chương Hân (Lâm Gia Hân), người tin rằng mình nhìn thấy ma quỷ. Ban đầu Jim cho rằng đây chỉ là ảo giác xuất phát từ trầm cảm và cô đơn. Khi Chương Hân dần hồi phục, Jim và cô nảy sinh tình cảm. Tuy nhiên, Jim bắt đầu trải qua những ảo giác tương tự, và phát hiện ra quá khứ chấn thương của chính mình: bạn gái thời trung học từng tự sát và ám ảnh anh. Anh phải đối diện với ký ức đau buồn để tìm đường thoát khỏi cơn ám ảnh nội tâm. Đây cũng là bộ phim cuối cùng của Trương Quốc Vinh trước khi ông qua đời, diễn xuất của ông được đánh giá cao và nhận đề cử Nam diễn viên xuất sắc tại giải Hong Kong Film Awards",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/36bmekPwP"
+                }
+            ]
+        }
+    },
+    {
+        "id": "troc-quy-huu-han-cong-ty-ghost-busting-1989",
+        "title": "Tróc Quỷ Hữu Hạn Công Ty - Ghost Busting",
+        "year": "1989",
+        "poster": "https://hkmdb.com/db/images/movies/7224/GhostBusting+1989-3-b.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hài, Kinh dị, Siêu nhiên, Ma quỷ",
+        "actor": "Trần Bách Tường, Ngô Quân Như, Khâu Thục Trinh, Quách Tú Văn, Tào Tra Lý, Chung Phát",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Hai nhân viên kinh doanh từng làm ở vùng nông thôn vô tình gặp một nữ ma cùng một “ma ẻo”. Người lái xe của họ bị ma giết, khiến hai anh phải xin đổi việc trong thành phố. Tới làm việc tại một công ty mới, họ bị chiếm đoạt vị trí bởi con trai ông chủ và kế hoạch trả thù qua việc thuê ma quỷ phá rối. Nhân viên được đào tạo về trừ tà theo lệnh, học sử dụng pháp thuật và nghe theo hướng dẫn của một cao tăng. Phim chủ yếu xoay quanh quá trình học trừ tà và truy đuổi linh hồn bí ẩn trong tòa nhà công ty, lồng ghép yếu tố hài hước lãng nhách cùng yếu tố ma quái. Những cảnh rượt đuổi ma, tiếng la hét và hiệu ứng nhuốm màu kinh dị nhẹ, xen kẽ với các mẩu tình cảm nhẹ và mẩu miêu tả năng lực trừ tà. Cuối cùng cao trào là đối đầu giữa nhóm nhân viên đã được huấn luyện và những bóng ma bám theo họ khắp văn phòng. Không quá nghiêm túc nhưng duy trì được không khí kỳ bí và vui nhộn đặc trưng phim ma Hồng Kông thập niên 80.",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/VStYSdWy-"
+                }
+            ]
+        }
+    },
+    {
+        "id": "a-ho-a-fighters-blues-2000",
+        "title": "A Hổ - A Fighter's Blues",
+        "year": "2000",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNzQ0ZWY4NzYtZjQ4Mi00ZjhmLTgxMzgtOGEwMWM2YzI0YmRjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Tâm lý, Tình cảm, Thể thao",
+        "actor": "Lưu Đức Hoa, Takako Tokiwa, Intira Jaroenpura, Apichaya Thanatthanapong",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Mong Fu (Lưu Đức Hoa) là một võ sĩ kick‑boxing người Hồng Kông, sau khi trong một trận đấu vô tình khiến đối thủ Chat Chai tử vong, anh bị kết án 13 năm tù. Sau khi được thả vào năm 2000, anh trở về Thái Lan tìm kiếm người yêu cũ Pim, nhưng phát hiện cô đã mất và để lại cho anh một cô con gái 14 tuổi tên Ploy. Fu tìm đến cô con gái tại một trại trẻ mồ côi do sơ Mioko (Takako Tokiwa) quản lý và bắt đầu hành trình hàn gắn mối liên kết gia đình và tìm lại chính mình. Trong lúc đó, gánh nặng tội lỗi đeo bám khi quá khứ trở lại với lời thù của giới kick‑boxing Thái Lan—một võ sĩ mới muốn trả thù cái chết của Chart Chai. Fu quyết định đứng lên thách đấu để chuộc lỗi và chứng minh danh dự. Phim là hành trình phục hồi nhân cách, thông qua võ thuật và tình cảm cha‑con, kết hợp với mối liên hệ sâu sắc giữa Fu và sơ Mioko. Tác phẩm khắc họa sâu sắc sự đấu tranh nội tâm, lòng hối hận và hy vọng được chuộc lại giữa bầu không khí u ám nhưng đầy nhân văn",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/tI9CHFxq1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "nhan-tai-giang-ho-a-mob-story-2007",
+        "title": "Nhân Tại Giang Hồ - A Mob Story",
+        "year": "2007",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNmMyYmIxZjktMGI4MC00NWM2LWFhY2ItMzMxNzgxYzJiZjc1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hình sự, Tâm lý, Hành động, Tội phạm",
+        "actor": "Trương Trí Lâm, Trương Đạt Minh, Ngô Đại Dung, Doãn Hinh",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Seven (Trương Trí Lâm) là một sát thủ lạnh lùng mang biệt danh \"Seven\", được giao nhiệm vụ trả thù cho cái chết của cha anh tại underworld. Tuy nhiên, anh không mang khái niệm báo thù trong tâm, vì bản thân đã sinh ra và sống trong bạo lực của giang hồ. Sau khi không hoàn thành nhiệm vụ, Seven bỏ trốn sang Đài Loan và tìm gặp người bạn thời thơ ấu Xiao Gui. Tại đây, anh gặp Chi‑Ling, một “betelnut girl” cuốn hút và bí ẩn. Cùng với trợ lực của bạn, Seven tham gia vào các mâu thuẫn nội bộ trong giới tội phạm, nơi tình anh em mong manh và lòng tin dễ vỡ. Goblin (Trương Đạt Minh) — bạn thân của Seven — phải đấu tranh giữa lòng ghen tuông và sự quyết tâm bảo vệ Chi‑Ling. Phim lột tả sự bế tắc, phản bội và tàn nhẫn của cuộc sống dưới tầng lớp ngầm. Cuộc chạy trốn tưởng như là giải thoát cuối cùng lại đẩy cả nhóm vào vòng xoáy bi kịch, khi tình anh em không mang đến cứu rỗi.",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/gJ7i0iomG"
+                }
+            ]
+        }
+    },
+    {
         "id": "ia-ha-tinh-love-unto-wastes-1986",
         "title": "Địa Hạ Tình - Love Unto Wastes",
         "year": "1986",
