@@ -1,5 +1,71 @@
 const MOVIES_DATA = [
     {
+        "id": "tat-phong-nhu-tinh-love-in-the-fast-lane-1993",
+        "title": "Tật Phong Nhu Tình - Love in the Fast Lane",
+        "year": "1993",
+        "poster": "https://img.tvb.com/mytvs/poster/1295/129434_v1_o.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành động, Tâm lý",
+        "actor": "Lưu Tích Minh, Lương Tiểu Băng",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "ĐANG CẬP NHẬT",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/M9CAadE76"
+                }
+            ]
+        }
+    },
+    {
+        "id": "da-chi-nu-moonlight-sonata-1995",
+        "title": "Dạ Chi Nữ - Moonlight Sonata",
+        "year": "1995",
+        "poster": "https://img.tvb.com/mytvs/poster/1296/129509_v1_o.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành Động",
+        "actor": "Trương Gia Huy, Quách Thiếu Vân, Lương Tư Mẫn",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Janet (Lương Tư Mẫn) là một vũ nữ trong các bar ở Chungking Mansions, sống trong môi trường đầy rẫy bạo lực và lạm dụng. Cô có người bạn thân là Ivene (Khúc Thiệu Vân). Suốt một đêm, cảnh sát Jiang Chi‑Keung (Trương Gia Huy) đột nhập vào căn hộ của Janet trong cuộc vây bắt một nhóm buôn bán người. Từ đó, Janet trở thành nhân chứng quan trọng cho cuộc điều tra truy bắt băng tội phạm. Dần dần, cô và Chi-Keung phát triển một mối quan hệ phức tạp, nơi cảm xúc xen lẫn trách nhiệm công lý. Janet kiên quyết từ chối tiếp tay tội phạm dù bị đe dọa, và Chi-Keung vừa là người bảo vệ vừa đối diện với áp lực từ nội bộ cảnh sát. Câu chuyện là sự đối nghịch giữa ánh sáng và bóng tối: khi con người gắng đấu tranh giữa tình yêu và luật pháp, giữa ranh giới đời sống ngầm và luân thường đạo lý. Với thời lượng khoảng 81 phút, bộ phim là một TV-movie của TVB mang dấu ấn tâm lý sâu sắc và nội dung nhân văn.",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/d_JuGdlZ-"
+                }
+            ]
+        }
+    },
+    {
+        "id": "nhiet-huyet-thu-kich-the-final-shot-2001",
+        "title": "Nhiệt Huyết Thư Kích - The Final Shot",
+        "year": "2001",
+        "poster": "https://vorcdn.xiaodutv.com/13b83e4f575363b250f2153ea944edeb",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành Động",
+        "actor": "Âu Dương Chấn Hoa, Chung Thục Tuệ, Vương Hỷ, Xa Thi Mạn, Đường Văn Long",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Hai cảnh sát đặc nhiệm—Kenny (Âu Dương Chấn Hoa) thuộc Interpol và Huy (Vương Hỷ) trong lực lượng địa phương—tăng cường hợp tác để điều tra một tổ chức tội phạm quốc tế. Họ tình cờ gặp Kiwi (Xa Thi Mạn), một chuyên gia máy tính, nữ hacker bị cuốn vào vòng xoáy tội ác. Khi cả ba hợp tác khám phá âm mưu, hai viên cảnh sát dần phát triển tình cảm với Kiwi. Mỗi người có động cơ riêng—Kenny từng chịu mất mát gia đình, Huy muốn trả thù danh dự cá nhân—tạo nên những mâu thuẫn nội tâm. Kiwi là người kết nối nhưng vừa là trung tâm tình cảm vừa là chìa khóa mở bí mật đen tối. Cuộc đấu tranh đỉnh điểm khi Jackal (giả danh giết thuê) xuất hiện và đe dọa luật pháp và an toàn cá nhân. Cuối cùng, Huy hoàn thành nhiệm vụ riêng và báo thù hộ người thân, trong khi Kenny trưởng thành hơn về trách nhiệm lẫn cảm xúc. Phim là một câu chuyện cảnh sát tâm lý kết hợp hành động, xen lẫn tình tay ba và xung đột nội tại sâu sắc",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/8IsTrwa9u"
+                }
+            ]
+        }
+    },
+    {
         "id": "nguoi-trong-giang-ho-long-tranh-ho-au-young-and-dangerous-5-1998",
         "title": "Người Trong Giang Hồ: Long Tranh Hổ Đấu - Young and Dangerous 5",
         "year": "1998",
@@ -2569,7 +2635,7 @@ const MOVIES_DATA = [
     },
     {
         "id": "loi-nguyen-quy-du-aka-yeu-quai-do-thi",
-        "title": "Lời Nguyền Quỷ Dữ Yêu Quái Đô Thị - Wizard's Curse",
+        "title": "Lời Nguyền Quỷ Dữ: Yêu Quái Đô Thị - Wizard's Curse",
         "year": "1992",
         "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8sBPQcl4ppaGdZnhCbsxHw6DL5g8Vo2MEKQ&s",
         "poster-slide": "",
@@ -2589,6 +2655,12 @@ const MOVIES_DATA = [
                 {
                     "name": "Server 2",
                     "url": "//ok.ru/videoembed/4545403030129?nochat=1"
+                }
+            ],
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 3",
+                    "url": "https://short.icu/rcsick61e"
                 }
             ]
         }
@@ -3134,6 +3206,12 @@ const MOVIES_DATA = [
                 {
                     "name": "Server 2",
                     "url": "//ok.ru/videoembed/10026959309425?nochat=1"
+                }
+            ],
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 3",
+                    "url": "https://short.icu/DJ9tB4rJJ"
                 }
             ]
         }
@@ -4691,13 +4769,13 @@ const MOVIES_DATA = [
         "title": "Tình Anh Thợ Cạo - Faithfully Yours",
         "year": "1988",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTIyMTAwNDEwOV5BMl5BanBnXkFtZTcwMjE4NTAyMQ@@._V1_.jpg",
-        "poster-slide": "https://i.ibb.co/Kj7VvbsG/tinhanhthocao.webp",
+        "poster-slide": "",
         "country": "Hồng Kông",
         "movie-genre": "Hài, Lãng mạn",
         "actor": "Châu Tinh Trì, Trương Học Hữu, Mạc Thiếu Thông, Trương Mẫn, Tăng Hoa Thiên, Hồ Phong",
         "category": "phim-le",
         "age": "",
-        "slide": "1",
+        "slide": "0",
         "description": "Tình Anh Thợ Cạo - Faithfully Yours (1988) là một bộ phim hài lãng mạn Hồng Kông, với sự tham gia của Châu Tinh Trì, Trương Học Hữu, Trương Mẫn và Mạc Thiếu Thông. Phim xoay quanh câu chuyện tình tay ba hài hước giữa ba người bạn thân - một thợ hớt tóc, một thợ may và một thầy bói - cùng tranh giành tình cảm của một cô gái. Với những tình huống dở khóc dở cười, Tình Anh Thợ Cạo mang đến tiếng cười sảng khoái cho người xem. Đây cũng là một trong những bộ phim đánh dấu sự nghiệp diễn xuất ban đầu của Châu Tinh Trì. Phim được đánh giá cao nhờ sự hài hước duyên dáng và diễn xuất tự nhiên của dàn diễn viên.",
         "sources": {
             "Lồng Tiếng": [
@@ -4721,13 +4799,13 @@ const MOVIES_DATA = [
         "title": "Phán Xét Cuối Cùng - Final Justice",
         "year": "1988",
         "poster": "https://m.media-amazon.com/images/M/MV5BYWJjNWYwYjQtNDkwYi00MzQ0LWFmN2YtNTcxOTQ3ODgxNzcyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "poster-slide": "https://i.ibb.co/xtjxT2TP/phanxetcuoicung.webp",
+        "poster-slide": "",
         "country": "Hồng Kông",
         "movie-genre": "Hành động, Tội phạm",
         "actor": "Lý Tu Hiền, Châu Tinh Trì, Thành Khuê An, Hà Gia Câu, Huỳnh Quang Lượng, Địch Long",
         "category": "phim-le",
         "age": "",
-        "slide": "1",
+        "slide": "0",
         "description": "Phán Xét Cuối Cùng - Final Justice (1988) Phim xoay quanh Cheung Tit-chu (Lý Tu Hiền), một trung sĩ cảnh sát tài ba, nghiêm khắc và có phần nóng tính. Trong một lần truy bắt tội phạm, anh gặp gỡ Ah Wai (Châu Tinh Trì), một tên trộm vặt. Sau một sự cố, cả hai bất ngờ trở thành bạn bè. Ah Wai dần thay đổi dưới sự ảnh hưởng của Cheung Tit-chu. Tuy nhiên, một biến cố xảy ra khiến mối quan hệ của họ rơi vào tình thế khó khăn, buộc họ phải đưa ra những lựa chọn nghiệt ngã.Phán Xét Cuối Cùng là một bộ phim đáng xem, không chỉ đối với người hâm mộ Châu Tinh Trì mà còn với những ai yêu thích thể loại phim hành động tội phạm Hồng Kông.",
         "sources": {
             "Lồng Tiếng": [
@@ -4751,13 +4829,13 @@ const MOVIES_DATA = [
         "title": "Bản Sắc Hình Cảnh - The Last Conflict",
         "year": "1988",
         "poster": "https://images.static-bluray.com/products/20/48053_1_large.jpg",
-        "poster-slide": "https://i.ibb.co/Kc4YBn1p/ban-sac-hinh-canh.webp",
+        "poster-slide": "",
         "country": "Hồng Kông",
         "movie-genre": "Hành động, Hình sự",
         "actor": "Châu Tinh Trì, Địch Long, Ngô Trấn Vũ, Lương Triều Vỹ, Trương Mẫn, Lưu Giang",
         "category": "phim-le",
         "age": "",
-        "slide": "1",
+        "slide": "0",
         "description": "Bản Sắc Hình Cảnh The Last Conflict - 1988 là bộ phim hình sự – hành động của Hồng Kông xoay quanh sĩ quan Interpol Dickson Kwan được cử đến điều tra đường dây làm hộ chiếu giả tại Hồng Kông. Anh hợp tác với thanh tra Pau Sei và Lau Ting Kin nhưng liên tục xảy ra xung đột do khác biệt trong phương pháp phá án. Sau một lần Dickson liều mình cứu Sei trong khi làm nhiệm vụ, họ dần trở thành đồng đội thân thiết. Dickson nảy sinh tình cảm với Eva – con gái của Sei – nhưng bị từ chối vì công việc nguy hiểm của anh. Bi kịch xảy ra khi Sei bị giết nhầm bởi tên tội phạm nguy hiểm Tong, vốn muốn hạ sát Dickson. Quyết không tha thứ, Dickson bất chấp mệnh lệnh, truy sát kẻ thù đến cùng. Cuối cùng, Tong bị tiêu diệt trong cuộc đọ súng nghẹt thở. Sau tất cả, Dickson rời Hồng Kông, khép lại một hành trình đầy mất mát và nghĩa tình.",
         "sources": {
             "Lồng Tiếng": [
@@ -4777,13 +4855,13 @@ const MOVIES_DATA = [
         "title": "Âm Dương Giới - Back to the Beyond",
         "year": "1987",
         "poster": "https://m.media-amazon.com/images/M/MV5BMzAyMTBhMzItM2RhMS00YzU1LTgxMmUtNGJmNTQ2MmRkODVjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "poster-slide": "https://i.ibb.co/sJPCgX71/amduonggioi.webp",
+        "poster-slide": "",
         "country": "Hồng Kông",
         "movie-genre": "Kỳ ảo, Lãng mạn",
         "actor": "Châu Tinh Trì, Lâm Ánh Hân, Trương Mẫn, Ngô Mạnh Đạt, Trần Khuê An, Tăng Vĩ Quyền",
         "category": "phim-le",
         "age": "",
-        "slide": "1",
+        "slide": "0",
         "description": "Âm Dương Giới - Back to the Beyond (1987) Bộ phim kể về Lưu Thanh (Châu Tinh Trì), đệ tử của lão trung y Tu Đức tiên sinh, vô tình bị cuốn vào cuộc tranh giành bí kíp Tu La Tâm Pháp giữa hai sư huynh đệ Yến Sinh và Thanh Mộc. Trong khi Thanh Mộc luyện tà công giết hại dân lành, Lưu Thanh chữa trị cho Yến Sinh và nảy sinh tình cảm với Hoa Ánh Hồng (Lâm Ánh Hân). Sau đó, Lưu Thanh bị vu oan và xử tử, nhưng nhờ bí thuật, anh quay lại dương gian bảy ngày để cứu Hoa Ánh Hồng. Cuối cùng, Yến Sinh và Hoa Ánh Hồng mạo hiểm vào âm gian để quyết chiến với Thanh Mộc nhằm cứu Lưu Thanh.",
         "sources": {
             "Lồng Tiếng": [
