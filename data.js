@@ -1,5 +1,555 @@
 const MOVIES_DATA = [
     {
+        "id": "em-cua-thien-yet-scorpio-nights-1985",
+        "title": "Đêm Của Thiên Yết - Scorpio Nights",
+        "year": "1985",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNTIzZTBiMjAtZmI4ZC00MTFiLTlkOGYtMTdmZmZkZGZhOTAwXkEyXkFqcGc@._V1_.jpg",
+        "poster-slide": "",
+        "country": "Philippines",
+        "movie-genre": "Tâm Lý, Tình Cảm",
+        "actor": "Daniel Fernando, Anna Marie Gutierrez, Orestes Ojeda",
+        "category": "phim-le",
+        "age": "18+",
+        "slide": "0",
+        "description": "Danny, một sinh viên nghèo, sống trọ trong một căn hộ chung với một gia đình. Mỗi đêm, anh lén nhìn qua lỗ sàn để quan sát vợ của người bảo vệ sống bên dưới — người phụ nữ có cuộc sống tình dục buồn tẻ và máy móc. Dần dà, anh phát triển một mối quan hệ mờ ám với cô và thực hiện hành vi lén lút, thậm chí sao chép hành vi của người chồng. Cuộc tình vụng trộm dần trở thành ám ảnh, vượt ngoài kiểm soát. Khi người chồng phát hiện, anh ta bước vào phòng khi hai người đang lúc hành sự và bắn chết cả hai, rồi tự sát trong cảnh đầy bi kịch. Bộ phim dài khoảng 126 phút, được xem là một trong những tác phẩm điện ảnh khiêu dâm tâm lý quan trọng của Philippines thập niên 80, với yếu tố xã hội đương thời và phê phán tầng lớp thượng lưu trong giai đoạn cuối chế độ Marcos",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/Eechz3_Ws"
+                }
+            ]
+        }
+    },
+    {
+        "id": "ma-gioi-hell-has-no-boundary-1982",
+        "title": "Ma Giới - Hell Has No Boundary",
+        "year": "1982",
+        "poster": "https://hkmdb.com/db/images/movies/6373/HellHasNoBoundary+1982-81-b.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Kinh Dị",
+        "actor": "Lưu Tuyết Hoa, Nhĩ Đông Thăng, Thang Chấn Nghiệp, Nhạc Hoa",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Một cặp cảnh sát trẻ — Jung (Derek Yee) và Lai Fen (Lưu Tuyết Hoa) — đi cắm trại vào ban đêm tại một hòn đảo hoang ở gần Hong Kong. Trong lúc ngủ, Lai Fen nghe tiếng gọi tên mình, nhìn thấy ánh sáng xanh lạ và dần bị ma nhập. Sau khi trở về, cô thay đổi tính cách, như có sức mạnh siêu nhiên: viên đạn của cô có thể quay hướng để giết mục tiêu. Cảnh sát và báo chí bắt đầu điều tra khi nhiều vụ giết người bí ẩn xảy ra. Jung cố gắng cứu Lai Fen và phát hiện ra bí ẩn hồn ma đầy thù hận đang giàng tay chi phối cô. Cuối cùng, anh phải lựa chọn dũng cảm và quyết tâm để giải cứu người yêu khỏi quyền lực ma quỷ. Phim nổi bật với các yếu tố jump scare, cảnh ám ảnh, hiệu ứng quỷ ma và âm nhạc u uất — điển hình dòng phim kinh dị B‑movie Hồng Kông đầu thập niên 80",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/ZGuPSVDyA"
+                }
+            ]
+        }
+    },
+    {
+        "id": "tai-sinh-nhan-life-after-life-1981",
+        "title": "Tái Sinh Nhân - Life After Life",
+        "year": "1981",
+        "poster": "https://hkmdb.com/db/images/movies/6323/LifeAfterLife+1981-4-b.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Kinh Dị",
+        "actor": "Lâm Tử Tường, Tạ Hiền, Trương Thiên Ái",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Raymond được mời tổ chức một buổi trình diễn thời trang độc đáo sử dụng múa rối Trung Hoa cổ điển. Anh thuê người mẫu Didi và bất ngờ rơi vào một mối tình tay ba với chủ tài trợ ông Si. Một bà lão giao cho anh những con rối cổ kèm lời cảnh báo không được giữ chúng trong nhà – nếu không sẽ gặp xui xẻo. Không ngờ anh phớt lờ lời nhắc nhở và rồi bắt đầu trải qua những tai nạn kỳ lạ, ảo giác và hôn mê. Trong cơn mê, Raymond nhìn thấy lại cảnh tượng vụ giết người của một nghệ nhân rối xảy ra 26 năm trước. Những hình ảnh bí ẩn và tiếng vọng từ quá khứ dần vẽ nên một lời nguyền khó tránh khỏi. Anh tìm đến các đạo sĩ và chuyên gia tâm linh để giải đáp, nhưng càng lúc càng bị mắc kẹt trong vòng xoáy định mệnh tái sinh. Câu chuyện kết hợp yếu tố reincarnation, fate, và sự trói buộc của ký ức quá khứ. Phim dài khoảng 88 phút, được đánh giá là tác phẩm horror‑psychological đặc sắc của Hồng Kông đầu những năm 80.",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/9VJSg_7cu"
+                }
+            ]
+        }
+    },
+    {
+        "id": "thi-yeu-corpse-mania-1981",
+        "title": "Thi Yêu - Corpse Mania",
+        "year": "1981",
+        "poster": "https://hkmdb.com/db/images/movies/6244/CorpseMania+1981-3-b.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Kinh Dị",
+        "actor": "Vương Nhung, Điềm Ni, Vưu Thúy Linh",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Corpse Mania mở đầu tại một nhà chứa do bà Lan (Ni Thiên) đứng đầu—một gái hầu mắc bệnh chết trước khách hàng và trở thành vật thí nghiệm cho ham muốn ngoại phạm. Li Cheng‑Yuan (Erik Ka‑Kei Chan) yêu thương cô đến mức mua lại chỉ để tiếp tục “sinh hoạt” sau khi cô biến thành xác chết đang phân hủy—kéo theo các cảnh ớn lạnh, đầy giòi bọ. Khi hắn bị đưa vào trại tâm thần và được phóng thích, loạt án mạng kỳ dị xảy ra ở các gái mại dâm. Trinh sát Trương (Jung Wang) được giao điều tra, phát hiện những manh mối rùng rợn và xuyên suốt những bước ngoặt đẫm máu. Cảnh quay mang cảm giác gothic u ám, trang trí với sương khói và ánh sáng màu đặc trưng gợi nhắc phim giallo Ý. Màn giết người dồn dập với dao rựa khổng lồ và những tình tiết máu me trần trụi tạo nên nỗi ám ảnh. Phim là sự pha trộn giữa trinh thám bẩn thỉu, hành động đặc sệt kinh dị, và cú twist cuối khiến khán giả không ngờ tới. Đạo diễn Kuei Chih‑Hung thể hiện phong cách vi phạm ranh giới đạo đức điện ảnh, gom từ yếu tố cảnh sát – siêu nhiên và cảnh quan chiến đấu thời Shaw Brothers. Thời lượng khoảng 82 phút.",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/_K9jfll5a"
+                }
+            ]
+        }
+    },
+    {
+        "id": "chung-cuc-liep-sat-hunting-list-1994",
+        "title": "Chung Cực Liệp Sát - Hunting List",
+        "year": "1994",
+        "poster": "https://hkmdb.com/db/images/movies/7918/HuntingList+1994-59-b.jpg",
+        "poster-slide": "",
+        "country": "Đài Loan",
+        "movie-genre": "Hành Động, Tâm Lý",
+        "actor": "Lữ Lương Vỹ, Đơn Lập Văn, Lô Thục Phương, Từ Nhược Tuyên",
+        "category": "phim-le",
+        "age": "18+",
+        "slide": "0",
+        "description": "Chu Chí Kỳ sau nhiều năm ẩn dật tại Đài Loan quyết định trở về Hồng Kông để nối lại mối tình xưa với Mai và tái gia nhập đường dây buôn bán ma túy do bạn thân Cramp điều hành.",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/dx0F-bsHM"
+                }
+            ]
+        }
+    },
+    {
+        "id": "vong-tuong-diary-2006",
+        "title": "Vọng Tưởng - Diary",
+        "year": "2006",
+        "poster": "https://hkmdb.com/db/images/movies/11883/Diary+2006-1-b.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Kinh Dị, Tâm Lý",
+        "actor": "Dư Văn Lạc, Thái Trác Nghiên, Lương Lạc Thi",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Winnie (Charlene Choi) sống nội tâm, cô độc trong căn hộ tối, cắt gỗ thành búp bê và viết nhật ký, chờ người yêu Seth quay trở lại nhưng anh im lặng và biến mất không để lại dấu vết. Cảm giác bị bỏ rơi khiến cô dần mất kết nối với thực tại. Khi gặp Ray (Shawn Yue)—người giống như Seth—cô mời anh sống cùng, nhưng mọi thứ ngày càng khó hiểu khi Ray không phải là Seth. Cuộc sống và mối tình tưởng như an ủi trở thành một mê cung của hoang tưởng, ký ức và ảo giác. Bạn thân Yee (Isabella Leong) xuất hiện nhưng có thể chỉ là sản phẩm tâm lý của Winnie. Cuối cùng, cô nhận ra toàn bộ trải nghiệm chỉ do tâm trí mình tạo ra và mọi thứ trong nhật ký là một phần của sự rối trí. Phong cách quay tối giản, ánh sáng u ám và twist tâm lý khiến khán giả phải đặt câu hỏi về ranh giới giữa ảo giác và thực tại. Phim dài khoảng 85 phút và gây chú ý hơn cả về diễn xuất của Charlene Choi và kỹ thuật dựng phim ám ảnh",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/wgeCgSVBv"
+                }
+            ]
+        }
+    },
+    {
+        "id": "thau-tinh-nam-nu-dont-tell-my-partner-1997",
+        "title": "Thâu Tình Nam Nữ - Don't Tell My Partner",
+        "year": "1997",
+        "poster": "https://image.tmdb.org/t/p/w500/VgLkW5Nu78URfk1JOdSwhpVBTf.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Tâm Lý, Tình Cảm",
+        "actor": "Vương Thư Kỳ, Tào Vĩnh Liêm, Ngô Nghị Tướng, Ozawa Madoka",
+        "category": "phim-le",
+        "age": "18+",
+        "slide": "0",
+        "description": "Keith là nhân viên quảng cáo, muốn cưới bạn gái lâu năm là Wai (Tak‑Wai Tong), nhưng cô lại tập trung xây dựng sự nghiệp nhiếp ảnh hơn. Bạn thân của anh, David (Raymond Cho), là thợ làm tóc phong trần, khuyên Keith nên trải nghiệm cuộc sống phóng khoáng và không chung thủy. Khi Wai từ chối lời cầu hôn, Keith dễ dàng bị cuốn vào mối quan hệ mới với nhân viên văn phòng Nancy (Madoka Osawa). Song song đó, David lại nảy sinh tình cảm với An An Yu, nhưng bị cảnh báo nên tránh xa vì hiểu nhầm với em trai cô. Mối quan hệ phức tạp giữa ba người khiến Keith ghen tuông vì nghi David xen vào cả Wai và Nancy. Khi cả gia đình và công việc bị ảnh hưởng, tình bạn lẫn tình yêu đều bị thử thách. Cuối cùng, họ buộc phải đối diện hậu quả của sự lựa chọn: lòng trung thành, trách nhiệm và sự phản bội. Toàn bộ diễn biến kéo dài khoảng 91 phút, là một tác phẩm pha trộn giữa hài hước và drama theo phong cách phim Category III đặc trưng Hồng Kông cuối thập niên 90.",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/DaTsVv0dC"
+                }
+            ]
+        }
+    },
+    {
+        "id": "ai-chien-quai-vat-yokai-monsters-spook-warfare-1968",
+        "title": "Đại Chiến Quái Vật - Yokai Monsters: Spook Warfare",
+        "year": "1968",
+        "poster": "https://cdn11.bigcommerce.com/s-yzgoj/images/stencil/1280x1280/products/994572/4753792/apirevseu__26994.1626473796.jpg?c=2",
+        "poster-slide": "",
+        "country": "Nhật Bản",
+        "movie-genre": "Kinh Dị",
+        "actor": "Yoshihiko Aoyama, Rokkô Toura, Akane Kawasaki",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Khi một ma cà rồng Babylon đến Nhật Bản cổ đại, một đội quân quỷ và ma Nhật Bản đã tập hợp lại và chiến đấu với hắn.",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/l6d_kP6kW"
+                }
+            ]
+        }
+    },
+    {
+        "id": "cuong-thi-tieu-tu-hello-dracula--1986",
+        "title": "Cương Thi Tiểu Tử - Hello Dracula",
+        "year": "1986",
+        "poster": "https://hkmdb.com/db/images/movies/11751/HelloDracula+1985-5-b.jpg",
+        "poster-slide": "",
+        "country": "Đài Loan",
+        "movie-genre": "Hài, Kinh dị, Võ thuật",
+        "actor": "Kim Đồ, Hoàng Trọng Dụ, Trần Tử Cường, Lưu Trí Dư, Bàn Tam",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Một đoàn xiếc đường phố tình cờ giải phóng một cương thi (ma nhảy), khiến hắn gây náo loạn trong thành phố. Các học trò của ông lão trông trẻ (Grandpa Chin) và sư môn Tình Tình (Tien‑Tien) hợp lực – kết hợp võ thuật, hiệu ứng hài hước và yếu tố siêu nhiên – để đối đầu với cương thi. Khi ma lực mạnh lên, nhóm phải kêu gọi sự giúp đỡ từ đạo sĩ khác và dùng bẫy ma truyền thống. Cảnh hành động pha kỹ xảo đơn giản nhưng vui nhộn, đậm chất \"hopping vampire\" đặc trưng Trung Hoa. Phim mang màu sắc fantasy nhẹ, thích hợp cho nhóm thiếu nhi – nhưng cũng vì thế từng gây tranh luận tại Đài Loan vì trẻ bắt chước nhảy như ma khiến học sinh ăn ngủ không yên – dẫn đến chính quyền cấm chiếu một thời gian.",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/MlHeztb_W"
+                }
+            ]
+        }
+    },
+    {
+        "id": "hong-ang-khu-street-angels-1996",
+        "title": "Hồng Đăng Khu - Street Angels",
+        "year": "1996",
+        "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/9/6/3/8/119638-street-angels-0-1000-0-1500-crop.jpg?v=c5ae5550f6",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Tội phạm, Hình sự",
+        "actor": "Đào Đại Vũ, Nhậm Đạt Hoa, Khâu Thục Trinh, Thư Kỳ, Từ Cẩm Giang",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Tung Yen (Chingmy Yau) vào tù vì bảo vệ bạn trai Walkie Pi (Simon Yam) sau khi họ giết một trùm giang hồ. Khi ra tù, cô trở thành mamasan tại câu lạc bộ Number One của Playboy Man (Michael Tao). Tuy nhiên, thành công đưa cô vào tầm ngắm của Walkie khi anh trở lại Hong Kong từ Amsterdam muốn giành lại quyền lực và cô.\n\nBạn thân của cô là Ming‑Ming (Shu Qi) đứng bên để hỗ trợ và đồng cảm. Câu chuyện leo thang thành cuộc chiến giữa các băng đảng tại khu đèn đỏ Portland Street với các hoạt động tàn bạo, phản bội và bạo lực đẫm máu Cat III cuối phim. Phim cũng kết hợp yếu tố hài đen, đối thoại thô tục, cảnh nóng và cảnh hung ác mang thương hiệu Hong Kong những năm 90. Simon Yam có vai phản diện điên cuồng khiến khán giả vừa căm ghét vừa tò mò xem hắn bị đánh gục ra sao. 91 phút phim căng thẳng, mang tính phản chiếu xã hội thời kỳ sắp Hồng Kông hoàn giao và là bước đầu sự nghiệp của Shu Qi",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/-JRFSXOjZ"
+                }
+            ]
+        }
+    },
+    {
+        "id": "sinh-tu-toc-e-life-express-2004",
+        "title": "Sinh Tử Tốc Đệ - Life Express",
+        "year": "2004",
+        "poster": "https://hkmdb.com/db/images/movies/10613/LifeExpress+2003-3-b.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành động, Tâm lý",
+        "actor": "Nhậm Hiền Tề, Lâm Tâm Như, Kha Thụ Lương",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Một cậu bé ở Trung Quốc đại lục mắc bệnh bạch cầu, khẩn thiết cần ghép tủy xương trong vòng 24 giờ. Bác sĩ Cao Chi‑Viên (Richie Jen) và y tá Suen Yan‑Yan (Ruby Lin) làm mọi cách tìm nguồn cung cấp. Cuối cùng, họ thuyết phục tù nhân Ng Sung‑Yung (Blacky Ko) làm người hiến tủy. Tuy nhiên, hành trình vận chuyển tủy từ Đài Loan đến Bắc Kinh gặp trắc trở khi xảy ra động đất, cắt điện và phá hủy cầu. Trong nỗ lực gấp rút, xe phải nhảy qua vực để kịp chuyến bay. Cuối cùng, cuộc ghép thành công. Tại sân bay, Yan‑Yan chấp nhận lời cầu hôn của Chi‑Viên. Bộ phim là hành trình giành giật sự sống, kết hợp kỹ thuật hành động mạo hiểm và cảm xúc nhân văn về lòng người, sự hy sinh và chiến thắng trước thời gian.",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/HzCL1tH-2"
+                }
+            ]
+        }
+    },
+    {
+        "id": "du-ap-cong-vu-cash-on-delivery-1992",
+        "title": "Dữ Áp Cộng Vũ - Cash on Delivery",
+        "year": "1992",
+        "poster": "https://image.enjoymovie.net/Gr9Y0DFVPWem8qWJnXseqoyKRGo=/600x800/smart/core/p/L-W8VvQxW0.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Tâm Lý, Tình Cảm",
+        "actor": "Diệp Ngọc Khanh, Nhậm Đạt Hoa, Chu Văn Kiện, Ngô Quân Như",
+        "category": "phim-le",
+        "age": "18+",
+        "slide": "0",
+        "description": "Simon là một gigolo chuyên nghiệp, được thuê bởi gia đình giàu có Lau để giúp vợ họ có con do họ không sinh được. Trong quá trình đó, Veronica Yip — người vợ — bất ngờ yêu Simon, khiến mối quan hệ phức tạp khi anh cũng đang cặp kè với luật sư trẻ Sandy (Sandra Ng). Khi Sandy biết chuyện, cô từ bỏ chức vụ để bên cạnh Simon và bảo vệ anh trước cấp trên. Khi Simon vô tình liên quan đến cái chết của Peter – con trai gia đình Lau – anh bị truy tố. Sandy quyết định đứng ra bào chữa và tổ chức một vụ kiện đầy drama tại tòa án, tranh đấu cho tình yêu và công lý. Phim kết hợp các yếu tố tình cảm lãng mạn, hài khôi cùng pháp lý và cú twist đầy kịch tính. Trớ trêu thay, người đã thuê anh đồng thời là người kiện anh, tạo nên sự đấu tranh nội tâm giữa nghĩa vụ với tình cảm. Bộ phim khai thác chủ đề về khả năng cứu chuộc, bi kịch tình yêu và trách nhiệm xã hội trong bối cảnh Hong Kong thập niên 90.",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/OrX6i15d5"
+                }
+            ]
+        }
+    },
+    {
+        "id": "thong-thien-ai-tac-easy-money-1987",
+        "title": "Thông Thiên Đại Tặc - Easy Money",
+        "year": "1987",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNjI3Y2QxNTAtMTJiNC00ZTYzLTkyODItYWRlYjNiNTU2MzgzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành Động, Hài Hước",
+        "actor": "Lâm Tử Tường, Dương Tử Quỳnh, Trịnh Tắc Sĩ, Cốc Phong",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Một cô tiểu thư giàu sành điệu cảm thấy buồn chán trong nhung lụa và quyết định tự tổ chức một vụ trộm ngân hàng giả mạo để giải trí. Cô thuê đội chuyên nghiệp từ nhiều quốc gia để thực thi kế hoạch. Tuy nhiên, kế hoạch diễn ra không như ý khi một thanh tra bảo hiểm nghi ngờ cô và lần theo manh mối, từ Âu sang châu Âu và Thụy Sĩ. Các pha hành động đan xen hành trình truy đuổi qua đường phố tuyết, trượt tuyết và rượt xe tốc độ cao. Bộ phim vừa có yếu tố heist kịch tính vừa mang nét hài nhẹ, phản ánh sự suy đồi tinh thần của tầng lớp thượng lưu. Cuối cùng, qua căng thẳng đấu trí, nhân vật chính nhận ra bản chất vô nghĩa của đồng tiền dễ dàng – và phiêu lưu đáng giá chỉ cho chút cảm giác sống. Bộ phim dài khoảng 92 phút, phù hợp với khán giả yêu phim hành động nhẹ pha comedy",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/f7Mlcnlqo"
+                }
+            ]
+        }
+    },
+    {
+        "id": "iep-tien-quy-am-death-ouija-2014",
+        "title": "Điệp Tiên Quỷ Đàm -  Death Ouija",
+        "year": "2014",
+        "poster": "https://hkmdb.com/db/images/movies/17804/DeathOuija+2014-1-b.jpg",
+        "poster-slide": "",
+        "country": "Trung Quốc",
+        "movie-genre": "Kinh Dị",
+        "actor": "Phương Lực Thân, Lưu Tiểu Giai, Hàn Tuyết Vy, Doãn San San",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Một nhóm bạn trẻ tụ tập tại một biệt thự hoang vắng giữa khu rừng vì một cuộc gặp gỡ. Trong cơn mưa lớn, họ quyết định chơi trò chơi cầu cơ để liên hệ với Lin Yue – một bạn gái trong nhóm từng bị thiêu sống khi chơi Ouija cách hơn mười năm trước. Khi tối buông xuống, hiện tượng siêu nhiên bắt đầu xuất hiện: những người tham gia lần lượt tử vong một cách bí ẩn. Mỗi cái chết đều gợi nhớ quá khứ – Lin Yue bị thiêu, và lời nguyền từ trò chơi cầu cơ dường như chưa được gỡ bỏ. Mọi người dần hoảng loạn khi phát hiện không ai thực sự biết ai là kẻ kế tiếp. Trong quá trình tháo chạy, họ vướng vào một vòng xoáy tâm linh mà không thể thoát ra. Cuối phim, khi không còn ai sống sót, lời nguyền vẫn hiện diện – như thể cầu cơ chưa được chấm dứt đúng cách. Nội dung huyền bí, tập trung vào yếu tố tâm linh và trách nhiệm của người sống đối với người đã khuất. Thời lượng phim khoảng 95 phút",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/YkCUpIh57"
+                }
+            ]
+        }
+    },
+    {
+        "id": "huu-khach-ao-knock-knock-whos-there-2015",
+        "title": "Hữu Khách Đáo -  Knock Knock Who's There?",
+        "year": "2015",
+        "poster": "https://hkmdb.com/db/images/movies/17538/KnockKnockWhosThere+2015-1-b.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Kinh dị, Siêu nhiên",
+        "actor": "Lưu Tâm Du, Thái Hãn Ức, Từ Tử San, Ngô Gia Lệ, Tạ Đình Đình",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Phim gồm ba câu chuyện kinh dị liên kết qua bối cảnh một nhà tang lễ. Cốt lõi là những linh hồn chưa siêu thoát—những người chết oan uổng hoặc có điều còn dang dở đều xuất hiện với ám ảnh cho kẻ sống. Trong phần \"Missing\", cô dâu thiệt mạng vì tai nạn xe trong ngày cưới, nhưng hồn vẫn trở lại khi người chồng không thể buông tha. Phần \"Karma\" kể về sự tham lam của người thân, trong khi phần \"Smell\" xoay quanh một cô nghiện điện thoại vô tình vướng vào cuộc kết nối với ma quỷ. Những lời gõ cửa và tiếng vọng từ thế giới vô hình không chỉ gây kinh hoàng mà còn đặt ra câu hỏi về trách nhiệm của người sống với người đã mất. Nội dung phim tinh tế khám phá nghiệp chướng, trách nhiệm và hậu quả, thường dùng hiệu ứng jump‑scare kết hợp kịch bản sâu sắc. Thời lượng khoảng 88 phút, rating IIB tại Hồng Kông",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/UmYvjA8iW"
+                }
+            ]
+        }
+    },
+    {
+        "id": "phi-ho-hung-su-chi-trung-hoan-tra-that-hung-sat-an-the-new-option-run-and-shoot-2002",
+        "title": "Phi Hổ Hùng Sư Chi Trung Hoàn Trà Thất Hung Sát Án - The New Option Run and Shoot",
+        "year": "2002",
+        "poster": "https://image.tmdb.org/t/p/w780/duxrh3Uewcntsl00Mv24sxZ1lRq.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành Động, Hình Sự",
+        "actor": "Vương Mẫn Đức, Huỳnh Hạo Nhiên, Quan Tú Mị",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Stone (Michael Wong) là chỉ huy đội đặc nhiệm SDU, phụ trách huấn luyện các tân binh đầy cá tính và bồng bột. Trong lúc tập luyện, đồng đội Ann (Suki Kwan) vô tình mất súng, khiến đội bị rút quyền xử lý nhiệm vụ bắt cóc. Stone và nhóm phải lao vào điều tra một vụ bắt cóc tại một nhà hàng Trung Tâm, nơi Bonnie và Clyde là một cặp giang hồ máu lạnh vừa gây án giết người và cướp ngân hàng ngay giữa ban ngày.\n\nDẫn dắt bởi Stone và Hon (Raymond Wong), nhóm đặc nhiệm phát động chiến dịch truy bắt bí mật, truy lùng hung thủ trong khi đối phó với rò rỉ thông tin nội bộ. Họ phải đối mặt với áp lực từ trên cấp về cách xử lý tình huống và danh tiếng đội. Trong cao trào, Stone đích thân tấn công ổ nhóm giang hồ ở nhà hàng, đấu súng kịch tính giữa tấc gang người dân. Phim kéo dài 90 phút, tập trung vào kỹ thuật hành động và tính đồng đội. Không gian quay ngoài trời và trong các quán trà kết hợp tạo cảm giác sống động đặc trưng phim TV‑DTV Hồng Kông đầu thập niên 2000.",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/j9lGNLZxJ"
+                }
+            ]
+        }
+    },
+    {
+        "id": "tue-nguyet-than-thau-echoes-of-the-rainbow-2010",
+        "title": "Tuế Nguyệt Thần Thâu - Echoes of the Rainbow",
+        "year": "2010",
+        "poster": "https://hkmdb.com/db/images/movies/13878/EchoesoftheRainbow+2009-1-b.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Tâm Lý, Hài Hước",
+        "actor": "Nhậm Đạt Hoa, Ngô Quân Như, Tần Bái, Hạ Bình",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "ĐANG CẬP NHẬT",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/izesq8NnF"
+                }
+            ]
+        }
+    },
+    {
+        "id": "nhan-uoc-li-hon-hau-love-is-the-only-answer-2011",
+        "title": "Nhân Ước Li Hôn Hậu - Love Is the Only Answer",
+        "year": "2011",
+        "poster": "https://hkmdb.com/db/images/movies/14998/LoveIstheOnlyAnswer+2011-1-b.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hài hước, Tình cảm, Tâm lý",
+        "actor": "Xa Thi Mạn, Phương Lực Hoành, La Trọng Khiêm, Trần Gia Bảo, Hồng Thiên Minh",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Trong đám cưới của Bảo (Xa Thi Mạn) và Khang (Phương Lực Hoành), đoạn video tình yêu của họ bất ngờ chuyển sang cảnh Khang mây mưa với một phụ nữ khác, khiến Bảo tuyên bố hủy hôn ngay trên sân khấu.",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/eJsQ_P0Dx"
+                }
+            ]
+        }
+    },
+    {
+        "id": "anh-hung-trong-anh-hung-tour-of-revenge-1989",
+        "title": "Anh Hùng Trọng Anh Hùng - Tour of Revenge",
+        "year": "1989",
+        "poster": "https://img.tvb.com/mytvs/poster/1293/129205_v1_200.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành động",
+        "actor": "Từ Thiếu Cường, Trần Đình Uy, Lý Uyển Hoa, Lâm Văn Long",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Nhóm du khách gặp rắc rối khi phát hiện mình dính dáng tới bí mật tội phạm có tổ chức.",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/1hNDfx69cA"
+                }
+            ]
+        }
+    },
+    {
+        "id": "o-thi-phong-bao-man-on-the-verge-of-a-nervous-breakdown-1994",
+        "title": "Đô Thị Phong Bạo - Man on the Verge of a Nervous Breakdown",
+        "year": "1994",
+        "poster": "https://img.tvb.com/mytvs/poster/1295/129455_v1_o.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Chính kịch, Tâm lý",
+        "actor": "Huỳnh Nhật Hoa, Lê Mĩ Nhàn, Mã Đức Chung, La Lan, Hạ Thiều Thanh",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Hung (Hoàng Nhật Hoa) là một viên chức văn phòng Hồng Kông, kiệt quệ vì khối lượng công việc và áp lực gia đình. Sau khi một công tố viên cũ – từng là đồng nghiệp – bị mất việc và cho rằng Hung là thủ phạm, anh bắt đầu bị quấy rối qua điện thoại.\nTrong khi vợ anh mang thai và chuẩn bị sinh, Hung chìm trong căng thẳng tinh thần và dần mất kiểm soát. Bạn thân Hạ Thành Minh (Hạ Thiếu Thương) cũng dần xa lánh anh. Sự giằng xé giữa trách nhiệm gia đình và áp lực xã hội đẩy Hung đến đỉnh điểm tâm lý—khi anh cướp súng của cảnh sát và cố gắng giải cứu vợ con.\nCảnh sát nhầm Hung là một kẻ mất lý trí, từ đó cả thành phố lao vào truy đuổi anh như một tội phạm nguy hiểm.\nCao trào phim là màn đối mặt cao độ giữa Hung, vợ con và lực lượng cảnh sát. Cuối cùng, anh phải đối diện với hành động liều lĩnh và đối mặt hậu quả.\nPhim dài khoảng 87 phút, là TV‑movie do TVB sản xuất, phản ánh chân thực áp lực của người lao động đô thị và những nghịch lý trong xã hội Hồng Kông thập niên 90",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/Hz5AtX1Ox"
+                }
+            ]
+        }
+    },
+    {
+        "id": "dung-sam-oc-long-am-one-way-ticket-to-bangkok-1988",
+        "title": "Dũng Sấm Độc Long Đàm - One Way Ticket to Bangkok",
+        "year": "1988",
+        "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/9/1/2/6/469126-one-way-ticket-to-bangkok-0-1000-0-1500-crop.jpg?v=712d190f2d",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành động",
+        "actor": "Vạn Tử Lương, Lê Minh, Ngô Trấn Vũ, Trần Nhã Luân",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "ĐANG CẬP NHẬT",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/osQWrsxAg"
+                }
+            ]
+        }
+    },
+    {
+        "id": "tich-duong-chien-si-the-deserted-warrior-1990",
+        "title": "Tịch Dương Chiến Sĩ - The Deserted Warrior",
+        "year": "1990",
+        "poster": "https://img.tvb.com/mytvs/poster/1294/129335_v1_o.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành Động",
+        "actor": "Bạch Bưu, Giang Nghị, Trần Quốc Bang",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "ĐANG CẬP NHẬT",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/mYuraeRAo"
+                }
+            ]
+        }
+    },
+    {
+        "id": "khung-bo-nhiet-tuyen-chi-ai-au-quai-anh-horror-hotline-big-head-monster-2001",
+        "title": "Khủng Bố Nhiệt Tuyến Chi Đại Đầu Quái Anh - Horror Hotline... Big Head Monster",
+        "year": "2001",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNGUwOWU1MDctMmVlZC00OWFhLWI3ZGUtYzkyOWY2YzBkYWFlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Kinh dị, Bí ẩn, Siêu nhiên, Tâm lý",
+        "actor": "Lý Xán Sâm, Ngô Trấn Vũ, Hà Siêu Nghi, Châu Lệ Kỳ",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Một chương trình radio về những hiện tượng siêu nhiên “Horror Hotline” nhận một cuộc gọi từ Chris hồi tưởng về việc anh cùng nhóm bạn phát hiện một đứa trẻ đầu to kỳ dị trong một hang động năm 1963. Nhà báo Mỹ Mavis (Hồ Siêu Diễm) đến Hồng Kông làm phóng sự về chương trình và hợp tác với Ben (Ng Trấn Vũ), nhà sản xuất show. Khi họ điều tra sâu hơn, hàng loạt sự kiện kỳ lạ xảy ra: nhân viên trong ê-kíp bị ám, người thân bắt đầu mất trí, và những cảnh tượng ma quái xuất hiện trong studio. Họ lần theo manh mối liên quan đến cô gái Connie (Trương Gia Gia) — con gái của một hiệu trưởng đã mất — và dần hiểu rằng linh hồn “bé đầu to” thực chất là lời nguyền chưa được giải. Nhóm phóng viên quyết định tìm cách an táng linh hồn này, nhưng khi mọi thứ tưởng chừng kết thúc, một đoạn băng ghi hình xuất hiện hé lộ sự thật đau đớn còn chưa được tiết lộ. Phim khép lại bằng một cú twist u ám, ám chỉ rằng lời nguyền vẫn chưa kết thúc. Phong cách quay cầm tay, hiệu ứng jump‑scare và tâm lý kịch được thể hiện rõ từ đạo diễn Soi Cheang — nổi bật trong dòng phim kinh dị Hong Kong đầu thập niên 2000",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/ciXLEsfsF"
+                }
+            ]
+        }
+    },
+    {
+        "id": "nguoi-trong-giang-ho-chi-thu-gia-thien-young-and-dangerous-3-1996",
+        "title": "Người Trong Giang Hồ: Chỉ Thủ Già Thiên - Young and Dangerous 3",
+        "year": "1996",
+        "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/6/2/6/16626-young-and-dangerous-3-0-1000-0-1500-crop.jpg?v=8105553c05",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Tội Phạm, Hình Sự",
+        "actor": "Trịnh Y Kiện, Trần Tiểu Xuân, Tạ Thiên Hoa, Lâm Hiểu Phong, Lê Tư, Huỳnh Thu Sanh, Ngô Chí Hùng, Trương Diệu Dương, Nhậm Đạt Hoa, Lâm Thượng Nghĩa, Mạc Văn Úy",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Chan Ho Nam (Trịnh Y Kiện) đã được bầu làm thủ lĩnh chi nhánh Causeway Bay của Hung Hing, và Chicken (Trần Tiểu Xuân) nối lại quan hệ với nhóm bạn gốc. Mối nguy lớn đến từ Tung Sing – một băng nhóm trẻ nổi lên do Camel (Lương Chí Vượng) lãnh đạo, đặc biệt là Crow (Anthony Vương) với âm mưu dùng Ho Nam để thao túng quyền lực. Smartie (Gigi Lai) tỉnh lại sau hôn mê nhưng mất trí nhớ, tạo thêm căng thẳng về cảm xúc. Một chuyến du lịch sang Amsterdam biến thành thảm kịch khi Crow dàn dựng ám sát ông trùm Chiang Tin‑Sung (Sim Hổ) và đổ tội lên Ho Nam. Về đến Hồng Kông, Ho Nam phải trốn chạy và tìm cách thanh minh cuộc đời mình. Crow tiếp tục phản bội Camel và tiếp tay gây hỗn loạn trong chính băng nhóm Tung Sing. Trong đám tang của Camel, Ho Nam, Chicken và các anh em Hung Hing tấn công Goth Sing – đỉnh điểm là trận hỗn chiến lớn và cái chết bi thương của Smartie. Cuối cùng Ho Nam liều mình truy tìm Crow tại lễ tang, dùng hết lòng trung thành và thuộc hạ để phục hận. Phim nổi bật với cách dựng gay cấn, phản ánh cuộc sống nội bộ giang hồ và mối quan hệ phức tạp giữa trung thành và quyền lực",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/9LIodRo43z"
+                }
+            ]
+        }
+    },
+    {
+        "id": "diet-mon-tham-an-chi-nghiet-sat-daughter-of-darkness-1993",
+        "title": "Diệt Môn Thảm Án Chi Nghiệt Sát - Daughter of Darkness",
+        "year": "1993",
+        "poster": "https://image.tmdb.org/t/p/original/2ggoyYfBIMD3WbHj36Qlr7wgyFV.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Kinh dị, Tội phạm, Tâm lý",
+        "actor": "Chung Thục Tuệ, Hà Gia Câu, Huỳnh Thu Sanh, Lô Mẫn Nghi, Ngô Đại Dung",
+        "category": "phim-le",
+        "age": "18+",
+        "slide": "0",
+        "description": "Mak Wei‑Fong (Lily Chung) — một nữ thiếu niên sinh sống tại một ngôi làng nhỏ — đến đồn cảnh sát báo việc cả gia đình mình bị sát hại. Cảnh sát Lui (Anthony Wong) phụ trách điều tra và ban đầu nghi ngờ bạn trai cô. Tuy nhiên, Mak sớm thừa nhận chính mình là thủ phạm. Trong quá trình thẩm vấn, cô tiết lộ đã bị cha dượng và gia đình bạo hành, thậm chí lạm dụng tình dục trong nhiều năm. Những cú flashback cho thấy khi bị đe dọa tung ảnh khỏa thân, Mak mất kiểm soát, dùng kéo giết cha dượng rồi tiếp tục tàn sát những người thân còn lại. Ngay trong phiên tòa, cô sinh con và bị tuyên án tử hình. Vụ án kết thúc đau lòng khi Mak tiễn biệt con và bạn trai trong nhà tù. Phim mang nội dung tối tăm, kết hợp trinh thám pháp lý, yếu tố tâm lý và sự trả thù bi thảm. Phong cách thẳng thắn, nội dung bạo lực trần trụi, đặc trưng của dòng phim Category III Hồng Kông, tạo cú sốc mạnh với khán giả khi ra mắt.",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/QHNzcBOxh"
+                }
+            ]
+        }
+    },
+    {
         "id": "sinh-nhan-vat-can-chi-van-me-horoscope-1-the-voice-from-hell-1999",
         "title": "Sinh Nhân Vật Cận Chi Vấn Mễ - Horoscope 1: The Voice from Hell",
         "year": "1999",
@@ -1465,9 +2015,9 @@ const MOVIES_DATA = [
     },
     {
         "id": "hong-lau-xuan-mong-dreams-of-the-red-chamber-1977",
-        "title": "Hồng Lâu Xuân Mộng – Dreams of the Red Chamber",
+        "title": "Hồng Lâu Xuân Mộng – Dreams of Eroticism",
         "year": "1977",
-        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6ULwjYHh0ddZ0dfCN_WEOphLr9tiNBy2Abg&s",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZTFjZWRiZDMtYzk2My00YjA0LWFkZmQtMmEwZWI5OTMzMTRhXkEyXkFqcGc@._V1_.jpg",
         "poster-slide": "",
         "country": "Hồng Kông",
         "movie-genre": "Cổ trang",
