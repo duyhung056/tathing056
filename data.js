@@ -1,5 +1,313 @@
 const MOVIES_DATA = [
     {
+        "id": "sinh-nhan-vat-can-chi-van-me-horoscope-1-the-voice-from-hell-1999",
+        "title": "Sinh Nhân Vật Cận Chi Vấn Mễ - Horoscope 1: The Voice from Hell",
+        "year": "1999",
+        "poster": "https://i.ebayimg.com/images/g/CmEAAOSwzuVjT9lo/s-l1600.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Ma Quái",
+        "actor": "Chu Ân, La Lan, Doãn Thiên Chiếu, Tiền Gia Lạc, Trương Văn Từ, Ngô Chí Hùng, Uyển Quỳnh Đan",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Jojo là sinh viên tâm lý học chuyên nghiên cứu hiện tượng giao tiếp với linh hồn và học làm medium từ cô Szeto, người từng mất con và muốn kết nối với hồn bé gái. Trong một buổi séance, Jojo vô tình mời một nữ hồn dữ vào thế giới người sống — người này mang mộng báo thù cho người chồng là trùm giang hồ. Hồn bắt đầu kiểm soát Jojo để tiếp cận mục tiêu. Công tố viên Eric Wan là chồng cũ của nạn nhân, trở thành trung tâm âm mưu ma quỷ. Chin Kar‑Lok là sĩ quan cảnh sát tham gia cảnh sát vào cuộc. Phim kết hợp yếu tố giật gân kinh dị, hài nhẹ từ các tình huống gia đình Jojo, xen lẫn drama tâm lý và cú twist liên quan giới xã hội đen. Dù là phim kinh dị, giai điệu nhẹ nhàng và phim có nhiều pha hài hước cửa người nhà, nội dung mang hơi hướng suy ngẫm về định mệnh và trách nhiệm khi chạm vào linh hồn người đã chết. Nội dung tập trung cao vào diễn xuất của Chu Nhuệ Hà và các yếu tố âm thanh ánh sáng để gợi cảm giác rùng rợn. Tổng thời lượng khoảng 86 phút.",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/jGO4z9nnb"
+                }
+            ]
+        }
+    },
+    {
+        "id": "that-cam-that-tung-that-sac-lang-beauty-and-the-7-beasts-2007",
+        "title": "Thất Cầm Thất Tung Thất Sắc Lang - Beauty and the 7 Beasts",
+        "year": "2007",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMWQyZjcwZjYtMWU0Yi00NzQ3LThkMDEtNTE5NjBkYjMzNTFhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hài Hước",
+        "actor": "Tăng Chí Vĩ, Lâm Gia Đống, Trương Triệu Huy, Tiền Gia Lạc, Trần Bách Tường",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Teddy (Tăng Chí Vỹ), trước đây nổi tiếng với biệt danh “Heart‑throb”, hiện đã hết thời và túng thiếu. Họa sĩ Wendy (Jo Koo) nghĩ ra kế hoạch: mời năm người đàn ông bất tài trả tiền để học cách “cưa gái” từ Teddy. Mọi chuyện trở nên hỗn loạn khi Pearl (Mạnh Diệu Dao) xuất hiện – cô chính là con gái của Teddy mà anh không hề hay biết. Rival Rocky (Trần Gia Bằng) trở nên quan tâm lạ thường đến Pearl, khiến Teddy phải thay đổi cách tiếp cận của mình. Từ việc dạy tình trường, nhóm chuyển sang bảo vệ con gái trước năm học trò mê gái ấy. Chuyện càng dở hơn khi Teddy nhận vai phim mới và có màn cạnh tranh “không khoan nhượng” với Rocky. Phim đầy những lời thoại bông đùa, mánh lới hài hước thô tục và tình huống cười không chừa một ai của dòng hài “Hong Kong quái đản”. Tác phẩm do Wong Jing sản xuất, phong cách cổ điển những năm 70s với dàn cameo nữ showbiz nổi bật của Hong Kong và Trung Quốc đại lục. Tuy không đạt chất lượng nghệ thuật, phim vẫn mang lại tiếng cười “lố lăng” đúng kiểu thị trường những năm đầu thập niên 2000",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/qvgtrwv68"
+                }
+            ]
+        }
+    },
+    {
+        "id": "ai-ao-vuong-ngu-the-lone-sabre-1993",
+        "title": "Đại Đao Vương Ngũ - The Lone Sabre",
+        "year": "1993",
+        "poster": "https://img.tvb.com/mytvs/poster/1295/129437_v1_o.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Võ thuật, Cổ trang",
+        "actor": "Trịnh Hạo Nam, Lam Khiết Anh, Doãn Dương Minh",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Bộ phim lấy bối cảnh cuối triều đại Thanh, kể về chàng cảnh sát Wang Wu (Trịnh Thành Nam) nổi tiếng với biệt danh \"Đại Đao Vương Ngũ\" vì sử dụng thanh đao lớn nhuần nhuyễn.",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/lkU2gFuRN"
+                }
+            ]
+        }
+    },
+    {
+        "id": "ac-canh-90-chi-vong-menh-thien-nhai-the-iron-butterfly-ii-see-no-daylight-1990",
+        "title": "Đặc Cảnh 90 Chi Vong Mệnh Thiên Nhai - The Iron Butterfly II See No Daylight",
+        "year": "1990",
+        "poster": "https://img.tvb.com/mytvs/poster/1293/129203_v1_o.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành Động",
+        "actor": "Lương Nghệ Linh, Trịnh Hạo Nam, Cao Hùng",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "ĐANG CẬP NHẬT",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/4-mQZN-Iv"
+                }
+            ]
+        }
+    },
+    {
+        "id": "thien-nhai-lo-khach-out-of-bravery-1989",
+        "title": "Thiên Nhai Lộ Khách - Out of Bravery",
+        "year": "1989",
+        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjoJ3xONKLy32WqFy7ID3DZseyhOlb7RxnVw&s",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành Động",
+        "actor": "Lý Tử Hùng, Đặng Tụy Văn, Huỳnh Thu Sanh, Lạc Ứng Quân",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "ĐANG CẬP NHẬT",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/ayWF9vKGT"
+                }
+            ]
+        }
+    },
+    {
+        "id": "sat-co-to-get-away-with-murder-1991",
+        "title": "Sát Cơ - To Get Away With Murder",
+        "year": "1991",
+        "poster": "https://img.tvb.com/mytvs/poster/1294/129338_v1_128.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Bí ẩn, Hình sự, Tâm lý",
+        "actor": "Âu Dương Chấn Hoa, Lý Uyển Hoa",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Hà Gia Niên (Âu Dương Chấn Hoa) bị nghi ngờ là thủ phạm giết vợ mình — Phương Thiên Na. Luật sư Hà Tử Quân (Lý Uyển Hoa) bất chấp áp lực để đứng ra bào chữa cho Niên, tin rằng anh vô tội. Quân liên tục bị những hành vi tấn công và vây hãm từ các thế lực bí ẩn khi điều tra vụ án. Cô vấp phải nhiều khó khăn từ gia đình nạn nhân và xã hội do vụ án chấn động này. Tiếp cận manh mối từ lời khai của con trai Na-Niên khiến Quân nghi vấn sâu hơn về bản chất thực sự của Niên. Căng thẳng pháp lý leo thang khi hung thủ thực sự bị lộ diện—một người có động cơ phức tạp liên quan gia đình và tâm lý bệnh lý. Phim là cuộc đấu trí căng thẳng giữa luật sư, bị cáo và những bí mật gia đình. Cuối cùng, Quân không chỉ bảo vệ công lý mà còn học được nhiều bài học về sự thật, lòng tin và trách nhiệm. Nội dung được đánh giá cao về kịch bản pháp lý lẫn chiều sâu tâm lý nhân vật.",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/pBs3RAQJN"
+                }
+            ]
+        }
+    },
+    {
+        "id": "luat-chinh-hoang-inh-edge-of-justice-1991",
+        "title": "Luật Chính Hoàng Đình - Edge of Justice",
+        "year": "1991",
+        "poster": "https://image.tmdb.org/t/p/w1280/kV8QtwjfocHSLWmz639ebSn0zZK.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hình Sự, Hành Động",
+        "actor": "Lưu Thanh Vân, Thiệu Mỹ Kỳ, Quách Tấn An",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "ĐANG CẬP NHẬT",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/OYem8_4Po"
+                }
+            ]
+        }
+    },
+    {
+        "id": "tam-chi-quy-nhat-ca-nhan-three-ghosts-and-a-man-1994",
+        "title": "Tam Chỉ Quỷ Nhất Cá Nhân - Three Ghosts and A Man",
+        "year": "1994",
+        "poster": "https://img.tvb.com/mytvs/poster/1296/129511_v1_o.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hài Hước, Ma Quái",
+        "actor": "Tưởng Chí Quang, Trần Thục Lan",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "ĐANG CẬP NHẬT",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/ohfMo2gGR"
+                }
+            ]
+        }
+    },
+    {
+        "id": "sat-luc-giang-ho-the-deadly-passage-1990",
+        "title": "Sát Lục Giang Hồ - The Deadly Passage",
+        "year": "1990",
+        "poster": "https://img.tvb.com/mytvs/poster/1293/129211_v1_200.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Kiếm Hiệp",
+        "actor": "Trần Gia Huy, Mạch Thiên Ân, Dương Linh, Âu Dương Chấn Hoa",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "ĐANG CẬP NHẬT",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/zYrunroax"
+                }
+            ]
+        }
+    },
+    {
+        "id": "ho-am-hong-uy-she-was-married-to-the-mob-1997",
+        "title": "Hổ Đảm Hồng Uy - She Was Married to the Mob",
+        "year": "1997",
+        "poster": "https://img.tvb.com/mytvs/poster/1295/129500_v1_o.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành Động",
+        "actor": "Huỳnh Nhật Hoa, Quách Chính Hồng",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "ĐANG CẬP NHẬT",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/LDu16YXuj"
+                }
+            ]
+        }
+    },
+    {
+        "id": "a-chau-canh-sat-chi-cao-ap-tuyen-asian-cop-high-voltage-1995",
+        "title": "Á Châu Cảnh Sát Chi Cao Áp Tuyến - Asian Cop High Voltage",
+        "year": "1995",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTYwOTE4ODAtOGZjMy00M2YxLWEwNWYtYTUxNTRkNTgxMmY4XkEyXkFqcGc@._V1_.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông / Philippines",
+        "movie-genre": "Hành động, Tội phạm, Hình sự",
+        "actor": "Chân Tử Đan, Trương Diệu Dương",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Câu chuyện xoay quanh cảnh sát Hong Kong Chiang Ho‑Wah (Donnie Yen) – người lạnh lùng và bất chấp quy định vì mong muốn trả thù cái chết của vợ do một trùm ma túy.",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/WeZanWN2N"
+                }
+            ]
+        }
+    },
+    {
+        "id": "quan-tinh-hoi-the-thief-of-time-1992",
+        "title": "Quần Tinh Hội - The Thief of Time",
+        "year": "1992",
+        "poster": "https://image.tmdb.org/t/p/original/2Pf6daq1AdH7l6giodiXSQR27Fg.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành động, Hài hước",
+        "actor": "Trương Vệ Kiện, Châu Tinh Trì, Quách Phú Thành, Lưu Đức Hoa, Trịnh Thiếu Thu, Lưu Tùng Nhân, Ngô Mạnh Đạt, Ôn Triệu Luân, Trần Ngọc Liên, Vạn Tử Lương, La Gia Lương",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Một phim đặc biệt do TVB sản xuất nhân kỷ niệm 25 năm thành lập, ra mắt năm 1992. Bối cảnh bắt đầu từ thế kỷ 21, khi một cô gái và hai tên trộm bất ngờ bị đưa ngược thời gian về thời Mông Cổ thời Thành Cát Tư Hãn. Trong hành trình xuyên thời gian này, nhóm nhân vật phải đối mặt với những thử thách hài hước và hành động gay cấn. Họ kết hợp trí tuệ, kỹ năng chiến đấu và sự ăn ý để tồn tại giữa thế giới hỗn độn. Nội dung phim pha trộn yếu tố viễn tưởng, du hành thời gian cùng phong cách hài kịch đặc trưng Hồng Kông thời kỳ đầu thập niên 90. Dàn diễn viên gồm các gương mặt nổi bật như Trương Vệ Kiện, Châu Tinh Trì và Lưu Đức Hoa tạo nên sự cuốn hút và hài hước tự nhiên. Phim kéo dài khoảng 95 phút, với tiết tấu nhanh, hài hước và âm hưởng phiêu lưu thú vị giữa quá khứ và hiện tại.",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/B-tHFAC8T"
+                }
+            ]
+        }
+    },
+    {
+        "id": "tinh-nghia-luong-nan-the-shanghai-mafia-1990",
+        "title": "Tình Nghĩa Lưỡng Nan - The Shanghai Mafia",
+        "year": "1990",
+        "poster": "https://img.tvb.com/mytvs/poster/1293/129208_v1_o.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Tội phạm, Giang hồ, Chính kịch",
+        "actor": "Trương Triệu Huy, Lưu Thanh Vân, Lâm Văn Long, Mạch Thúy Nhàn, Quách Phú Thành",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Một ông trùm băng đảng Thanh Long bất ngờ bị sát hại, khiến các thành viên trong băng nghi ngờ băng đối thủ Hồng Anh đứng sau vụ việc. Thanh Hổ (Lưu Thanh Vân), em trai của người chết, tin tưởng Cao Kiện (Trương Triệu Huy) giữ vị trí trung lập, đến gia nhập băng Hồng Anh và thân thiết với Cao Kiện. Nhưng Cao Kiện lại có quan hệ bí mật với Thanh Phụng (Mạch Thúy Nhàn), em gái của người bị giết. Quyết tâm bảo vệ băng đảng, Cao Kiện chặt đứt tay Hồ Dũng để tỏ lòng trung thành khi được ép kết hôn. Khi bí mật bị hé lộ, căng thẳng leo thang giữa các băng nhóm khiến cả bối cảnh trở nên hỗn loạn. Phim nảy sinh từ lòng tin, phản bội và quyền lực trong giới giang hồ. Kịch bản dramatize mối quan hệ phức tạp và cái giá của lòng trung thành.",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/V_SWg_1SX"
+                }
+            ]
+        }
+    },
+    {
+        "id": "huu-tinh-tue-nguyet-son-ke-co-su-those-were-the-days-2000",
+        "title": "Hữu Tình Tuế Nguyệt Sơn Kê Cố Sự - Those Were the Days",
+        "year": "2000",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNWNlNWMzNjYtNjk1OC00MzIyLTg5NTctMTdmYmIwZTBkNzgwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Tội phạm, Hình sự",
+        "actor": "Trần Tiểu Xuân, Tạ Thiên Hoa, Châu Vĩnh Đường, Lâm Hiểu Phong, Lương Vịnh Kỳ, Huỳnh Thu Sanh, Ngô Quân Như",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Those Were the Days... là phần tiền truyện của loạt phim Young and Dangerous, kể về thời thơ ấu của Chicken (Jordan Chan) trước khi gia nhập giang hồ Hung Hing. Trần Lọc sống cùng nhóm bạn trong khu nghèo ở Hồng Kông và trải qua nhiều thử thách thời niên thiếu. Anh gặp lại người bạn thời thơ ấu – Lok Wing‑Gee (Lương Gia Hân), và tình yêu giữa họ bắt đầu nảy nở dù gian khó. Khi Chicken dần bước chân vào thế giới ngầm, mối quan hệ của hai người bị thử thách bởi lòng trung thành và tham vọng. Sự trỗi dậy của anh ở xã hội đen đi cùng quyết định công bằng tình yêu và danh dự. Phim tập trung vào cảm xúc nội tâm, sự trưởng thành và bi kịch của Chicken – khi anh buộc phải chọn giữa tình yêu và con đường giang hồ. Kịch bản của Manfred Wong và góc quay của Raymond Yip mang đến lớp cảm xúc chân thực cho nhân vật. Cuối cùng, Chicken trưởng thành trong giang hồ nhưng tình yêu đầu đời vẫn là ký ức ám ảnh của anh.",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/4wqliX7HI"
+                }
+            ]
+        }
+    },
+    {
         "id": "tat-phong-nhu-tinh-love-in-the-fast-lane-1993",
         "title": "Tật Phong Nhu Tình - Love in the Fast Lane",
         "year": "1993",
