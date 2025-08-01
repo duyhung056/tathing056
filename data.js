@@ -1,5 +1,203 @@
 const MOVIES_DATA = [
     {
+        "id": "hac-thai-duong-731-nam-kinh-ai-o-sat-black-sun-the-nanking-massacre-1995",
+        "title": "Hắc Thái Dương 731: Nam Kinh Đại Đồ Sát - Black Sun: The Nanking Massacre",
+        "year": "1995",
+        "poster": "https://m.media-amazon.com/images/I/5138YcX6SZL._UF1000,1000_QL80_.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Chiến Tranh, Kinh Dị, Tội Ác Lịch Sử",
+        "actor": "Trương Lương, Phàn Vĩnh, Hùng Tiểu Điền, Cường Mạn Đình",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Bộ phim theo nhân vật các thành viên một gia đình Trung Quốc ở Nam Kinh trong giai đoạn quân Nhật chiếm đóng thành phố năm 1937. Những người này chứng kiến sự tàn sát dã man, cưỡng hiếp tập thể và cướp bóc dân thường dưới tay quân lính Nhật.\nCác gia đình ly tán và sinh viên mất đi người thân, trẻ em bị bỏ rơi phải tự kiếm sống giữa chiến tranh. Những cảnh hãi hùng như cưỡng bức, chặt đầu, ngực phụ nữ bị đâm, và xác người cháy khét được tái hiện không giảm thiểu để phản ánh mức độ vô nhân tính của sự kiện.\nPhim xen kẽ cảnh dựng lại và tư liệu lịch sử thật để tăng tính chân thực: máy quay không giấu để khán giả thấy rõ bạo lực.\nMột số cảnh như quân Nhật ăn mừng Giáng sinh ngay giữa một thành phố vẫn đang bị giết chóc, đan xen với hình ảnh cầu nguyện trong “International Safety Zone” đầy bi kịch.\nPhim kết thúc bằng hình ảnh hai đứa trẻ vượt khỏi thương vong để đến tương lai không rõ ràng, và đoạn tiêu đề cuối phim nhấn mạnh rằng “thảm sát này còn kinh khủng hơn những gì bạn vừa thấy.” \nTác phẩm là phần thứ tư (Men Behind the Sun 4) trong loạt phim của đạo diễn Mâu Đôn Phất (T. F. Mou) với nội dung nặng nề, thể hiện thảm cảnh lịch sử không thể lãng quên",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/q0ej8MheX"
+                }
+            ]
+        }
+    },
+    {
+        "id": "hac-thai-duong-731-tu-vong-liet-xa-a-narrow-escape-1992",
+        "title": "Hắc Thái Dương 731: Tử Vong Liệt Xa - A Narrow Escape",
+        "year": "1994",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTQ4OTkyNjk4Nl5BMl5BanBnXkFtZTcwNzE0NzYxMQ@@._V1_FMjpg_UX1000_.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Chiến Tranh, Kinh Dị, Tội Ác Lịch Sử",
+        "actor": "Âu Thoại Vỹ, Mạch Đức La, Trương Tĩnh, Châu Cương",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Bối cảnh là giai đoạn quân đội Nhật tiến hành thanh lý Đơn vị 731 – cơ sở nghiên cứu sinh học đẫm máu tại Mãn Châu. Trong quá trình phá trại, một quân nhân vô tình bị nhiễm vi khuẩn chết người từ thí nghiệm. Người này lên tàu cuối cùng rời trại, đưa mầm bệnh dọc hành trình về Nhật Bản. Trên tàu, những hành khách và binh lính bắt đầu phát bệnh – tạo thành bi kịch truyền nhiễm đầy hỗn loạn.",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/RqgZ4Nf1c"
+                }
+            ]
+        }
+    },
+    {
+        "id": "hac-thai-duong-731-cong-xuong-sat-nhan-laboratory-of-the-devil-1992",
+        "title": "Hắc Thái Dương 731: Công Xưởng Sát Nhân - Laboratory of the Devil",
+        "year": "1992",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzZlMDI2YjEtOWZjOC00Y2RjLWE5YWMtMjdkZjIxNDc5OGJlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Chiến tranh, Kinh dị, Tội ác lịch sử",
+        "actor": "Châu Cương, Lương Uyển Tĩnh",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Diễn ra vào mùa xuân năm 1945, tại căn cứ bí mật Đơn vị 731 ở Mãn Châu, nơi quân Nhật tiến hành các thí nghiệm chết người lên dân thường Trung Quốc, Mông Cổ, Hàn Quốc. Bác sĩ Morishima gia nhập đơn vị với lý tưởng cách mạng, nhưng nhanh chóng kinh hoàng trước thực trạng khủng khiếp tại đây.",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/TLD_MYWiJr"
+                }
+            ]
+        }
+    },
+    {
+        "id": "hac-thai-duong-731-men-behind-the-sun-1988",
+        "title": "Hắc Thái Dương 731 - Men Behind The Sun",
+        "year": "1988",
+        "poster": "https://image.tmdb.org/t/p/original/7GXtPuJ5wcrJNqPwwmvZIForY0C.jpg",
+        "poster-slide": "",
+        "country": "Trung Quốc",
+        "movie-genre": "Chiến tranh, Kinh dị, Tội ác lịch sử",
+        "actor": "Ngô Đại Nghiêu, Vương Cương",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Phim tái hiện các thí nghiệm tàn bạo tại Đơn vị 731 – trại nghiên cứu vũ khí sinh học của quân đội Nhật tại Mãn Châu cuối Thế chiến II, nơi tù nhân Trung – Nga bị dùng làm \"khay thí nghiệm\" cho các thử nghiệm y học.",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/HxD6C5Es_"
+                }
+            ]
+        }
+    },
+    {
+        "id": "tieu-hon-ngoc-return-of-the-dead-1979",
+        "title": "Tiêu Hồn Ngọc - Return Of The Dead",
+        "year": "1979",
+        "poster": "https://clbphimxua.com/wp-content/uploads/2022/12/MV5BMDE0NjY5ZGItNjI2YS00MjIzLTk5N2QtMjlhYWEwZDNjNGUyXkEyXkFqcGdeQXVyMjAyNTEwOQ@@._V1_-e1671866328584.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Kinh Dị, Ma Quái",
+        "actor": "Cốc Phong, Chiêm Sâm, Nhạc Huê.",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Bộ phim là tập hợp ba câu chuyện kinh dị được kể bởi ba bệnh nhân trong bệnh viện tâm thần:\n\n- Câu chuyện đầu tái hiện truyền thuyết \"bàn tay khỉ\" (Monkey’s Paw): một gia đình làm đậu phụ nhận một chiếc hộp thần cho ba điều ước, nhưng mỗi điều ước đều dẫn đến bi kịch.\n\n- Câu truyện hai kể về hồn ma của một cô gái mại dâm bị chết đuối; cô trở lại từ hồ để trả thù người tình phản bội.\n\n- Câu chuyện cuối là hành trình của một tài xế xe kéo gặp một phụ nữ giống hệt người đã chết, khiến anh bỏ rơi xe kéo để đến casino đổi đời – nhưng cuối cùng bị cảnh sát thẩm vấn vì túi ngọc trai từ mộ người chết, và số tiền thắng được hóa ra chỉ là tiền giả.\nKết thúc, khán giả trở lại bệnh viện tâm thần khi những người kể chuyện dường như không tồn tại thực sự. Mỗi mảnh truyện đều kết thúc đột ngột, tạo cảm giác rùng rợn nhưng bỏ ngỏ. Phim dài khoảng 98 phút, sắc thái dịu nhẹ hơn dòng phim kinh dị bạo lực nhưng có yếu tố khỏa thân nhẹ nhàng, hướng đến khán giả trưởng thành yêu thích ghost-story kiểu Hong Kong",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/46fPqpmRB"
+                }
+            ]
+        }
+    },
+    {
+        "id": "quy-oc-le-nhan-the-enchanting-ghost-1970",
+        "title": "Quỷ Ốc Lệ Nhân - The Enchanting Ghost",
+        "year": "1970",
+        "poster": "https://clbphimxua.com/wp-content/uploads/2022/12/65242797_2431676557063007_3567414490486013952_n-e1671950343548.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Kinh dị nhẹ, Lãng mạn, Siêu nhiên, Bí ẩn",
+        "actor": "Trương Mĩ Dao, Dương Lệ Hoa, Lôi Minh",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Lang (Dương Lệ Hoa) là một học giả nghèo bị chú mình đuổi ra đường rồi vào ở trong một ngôi nhà hoang được cho là ma ám. Tại đó, anh gặp Ru‑Yu (Trương Mỹ Dao) và mẹ cô, người bị thương sau vụ cướp; hai người thuê nhà cùng nhau. Sau khi mẹ cô qua đời, Ru‑Yu và Lang nảy sinh tình cảm và bắt đầu sống cùng nhau như vợ chồng. Nhưng khi gia đình Lang truy tìm cô để chiếm đoạt tài sản, Ru‑Yu bị cưỡng bức rồi bị đầu độc chết. Vương hồn của cô trở lại để trả thù cho Ru‑Yu. Lang bị xui khiến vào những hành vi đầy đau khổ khi chứng kiến hiện tượng siêu linh xuất hiện. Sự trả thù của ma nữ dẫn đến cảnh báo về tham lam và định mệnh khắc nghiệt. Phim cuốn người xem vào một câu chuyện tình yêu vượt ranh giới người và ma, nơi cảm xúc mê hoặc nhưng cũng đầy bi kịch. Nội dung nhẹ nhàng, không đặt nặng jump‑scare, tập trung vào không khí u uất, âm nhạc theremin ám ảnh và ánh sáng sân khấu cổ điện Shaw Brothers. Thời lượng khoảng 81–83 phút",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/lJyEkPl8j"
+                }
+            ]
+        }
+    },
+    {
+        "id": "thien-nu-u-hon-the-enchanting-shadow-1960",
+        "title": "Thiến Nữ U Hồn - The Enchanting Shadow",
+        "year": "1960",
+        "poster": "https://clbphimxua.com/wp-content/uploads/2022/12/enchanting-shadow.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Kinh dị, Lãng mạn",
+        "actor": "Triệu Lôi, Lạc Đế, Đường Nhã Thanh, Dương Chí Khanh",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Cuối thời Minh, đầu thời Thanh, học giả Ninh Tài-Chân nghỉ chân tại đền Jinhua, nơi được đồn là có ma ám. Tại đây anh gặp kiếm khách do dự — Nguyên Chí Hạ — và cô ma nữ diễm lệ (Betty Loh Ti), bị một bà phù thủy già cưỡng chế trói buộc.",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/YwfCDoZar"
+                }
+            ]
+        }
+    },
+    {
+        "id": "manh-quy-bach-nhan-dead-curse-1985",
+        "title": "Mãnh Quỷ Bách Nhân - Dead Curse",
+        "year": "1985",
+        "poster": "https://clbphimxua.com/wp-content/uploads/2022/12/BL5Q1_4f-e1671465834927.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Kinh dị, Siêu nhiên, Ma Quái",
+        "actor": "Thương Thiên Nga, Lưu Đan, Phan Chấn Vĩ, Quan Hải Sơn, Hồ Phong",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Thanh tra Ma (Lưu Đan) cùng đội cảnh sát phá vỡ một nghi lễ hiến tế trẻ em do nhóm phù thủy tổ chức, bắn chết kẻ chủ mưu",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/YGEgNzoHo"
+                }
+            ]
+        }
+    },
+    {
+        "id": "tam-ma-the-bedevilled-1974",
+        "title": "Tâm Ma - The Bedevilled",
+        "year": "1974",
+        "poster": "https://clbphimxua.com/wp-content/uploads/2022/12/MV5BZWQ3ZWVmN2QtZjU4YS00MTgxLWFhNjAtMjczYmI1Njk0MTkzXkEyXkFqcGdeQXVyMjAyNTEwOQ@@._V1_-e1671609174960.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Kinh dị, Siêu nhiên",
+        "actor": "Điền Tuấn, Mễ Tuyết, Lý Côn, Thạch Thiên, Rieko Ike",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Những bóng ma đòi công lý dần ám ảnh đưa ông vào vòng xoáy trinh thám siêu nhiên.",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/D03bLieQg"
+                }
+            ]
+        }
+    },
+    {
         "id": "em-cua-thien-yet-scorpio-nights-1985",
         "title": "Đêm Của Thiên Yết - Scorpio Nights",
         "year": "1985",
@@ -60,7 +258,7 @@ const MOVIES_DATA = [
             "Vietsub": [
                 {
                     "name": "Server 1",
-                    "url": "https://short.icu/9VJSg_7cu"
+                    "url": "https://short.icu/w2k09T5L6"
                 }
             ]
         }
