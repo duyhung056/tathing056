@@ -1,5 +1,71 @@
 const MOVIES_DATA = [
     {
+        "id": "co-hoac-tu-chi-giang-ho-ai-phong-bao-war-of-the-under-world-1996",
+        "title": "Cổ Hoặc Tử Chi Giang Hồ Đại Phong Bạo - War of the Under World",
+        "year": "1996",
+        "poster": "https://image13.m1905.cn/uploadfile/2008/0926830-e25300c7958d.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành động, Tội phạm, Giang hồ",
+        "actor": "Lương Triều Vỹ, Trần Tiểu Xuân, Trâu Triệu Long, Lý Nhược Đồng, Lôi Vũ Dương, Cốc Phong, Ngô Chí Hùng",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Chuyện phim xảy ra khi con trai của một trùm Hồng Hưng (Hồng Hưng Hội) vô tình xúc phạm cháu trai của một băng đảng đối thủ, khiến xung đột bùng nổ giữa hai thế lực giang hồ. Hồng Phi (Lương Triều Vỹ) bị ép buộc phải dùng vũ lực để giữ vững danh dự hội và ngăn chặn đổ máu lan rộng.",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/ltQ08PB6f"
+                }
+            ]
+        }
+    },
+    {
+        "id": "co-hoac-tu-giang-ho-tan-trat-tu-young-and-dangerous-reloaded-2013",
+        "title": "Cổ Hoặc Tử: Giang Hồ Tân Trật Tự - Young and Dangerous: Reloaded",
+        "year": "2013",
+        "poster": "https://hkmdb.com/db/images/movies/16009/YoungandDangerousReloaded+2013-2-b.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Tội phạm, Hành động, Giang hồ",
+        "actor": "La Trọng Khiêm, Lương Liệt Duy, Lâm Tử Thiện, Thẩm Chấn Hiên, Huỳnh Quán Trung",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Phim là bản reboot của Young and Dangerous (1996), đặt trong thời đại hiện đại với smartphone và màu sắc rực rỡ nhưng vẫn giữ tinh thần giang hồ Hong Kong của 90s. Câu chuyện bắt đầu khi May, cháu họ Dai Tin‑Yee (Dominic Ho), bị Med King và đàn em cưỡng bức rồi giết chết. Dai Tin‑Yee cùng Chan Ho Nam (Him Law), Chicken (Oscar Leung) và Pao Pei (Jazz Lam) truy tìm kẻ thủ ác.",
+        "sources": {
+            "Thuyết Minh": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/j5L1dLyum"
+                }
+            ]
+        }
+    },
+    {
+        "id": "co-hoac-tu-kich-tinh-thien-hong-hung-ai-phi-ca-the-legendary-tai-fei-1999",
+        "title": "Cổ Hoặc Tử Kích Tình Thiên Hồng Hưng Đại Phi Ca - The Legendary ''Tai Fei''",
+        "year": "1999",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTVhMjg2NDMtNTVhMy00ODJiLTlmOGEtM2Y2YzhmYzM3ZGRhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Tội phạm, Hành động, Giang hồ",
+        "actor": "Huỳnh Thu Sanh, Mạch Gia Kỳ, Lý Triệu Cơ, Lê Tuấn",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Phim lấy bối cảnh sau Young and Dangerous 4 khi Đại Phi (Huỳnh Thu Sanh) trở thành lãnh đạo địa bàn của Hồng Hưng. Anh bất ngờ biết mình có một người con trai 17 tuổi tên Shin (Alex Lam), hiện đang hoạt động trong băng Đông Tinh — đối thủ buôn ma túy",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/hu4EhkZ0g"
+                }
+            ]
+        }
+    },
+    {
         "id": "hac-mieu-black-cat-1991",
         "title": "Hắc Miêu - Black Cat",
         "year": "1991",
@@ -771,7 +837,7 @@ const MOVIES_DATA = [
     },
     {
         "id": "nguoi-trong-giang-ho-chi-thu-gia-thien-young-and-dangerous-3-1996",
-        "title": "Người Trong Giang Hồ: Chỉ Thủ Già Thiên - Young and Dangerous 3",
+        "title": "Cổ Hoặc Tử 3 Chi Chỉ Thủ Già Thiên - Young and Dangerous 3",
         "year": "1996",
         "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/6/2/6/16626-young-and-dangerous-3-0-1000-0-1500-crop.jpg?v=8105553c05",
         "poster-slide": "",
@@ -1189,7 +1255,7 @@ const MOVIES_DATA = [
     },
     {
         "id": "nguoi-trong-giang-ho-long-tranh-ho-au-young-and-dangerous-5-1998",
-        "title": "Người Trong Giang Hồ: Long Tranh Hổ Đấu - Young and Dangerous 5",
+        "title": "Cổ Hoặc Tử 5 Chi Long Tranh Hổ Đấu - Young and Dangerous 5",
         "year": "1998",
         "poster": "https://m.media-amazon.com/images/M/MV5BMzg2OGY0MjAtNzk5Mi00YzU0LTk4NmQtODEwZjJlYzUzOTVmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
         "poster-slide": "",
@@ -1321,7 +1387,7 @@ const MOVIES_DATA = [
     },
     {
         "id": "nguoi-trong-giang-ho-chien-vo-bat-thang-young-and-dangerous-4--1997",
-        "title": "Người Trong Giang Hồ: Chiến Vô Bất Thắng - Young and Dangerous 4",
+        "title": "Cổ Hoặc Tử 4 Chiến Vô Bất Thắng - Young and Dangerous 4",
         "year": "1997",
         "poster": "https://m.media-amazon.com/images/M/MV5BODhkMjYxZWUtOTgwMy00OTViLTk4NTEtYTNjZWU1YmNkOWRkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
         "poster-slide": "",
@@ -1387,7 +1453,7 @@ const MOVIES_DATA = [
     },
     {
         "id": "nguoi-trong-giang-ho-manh-long-qua-giang-young-and-dangerous-2-1996",
-        "title": "Người Trong Giang Hồ: Mãnh Long Quá Giang - Young and Dangerous 2",
+        "title": "Cổ Hoặc Tử 2 Chi Mãnh Long Quá Giang - Young and Dangerous 2",
         "year": "1996",
         "poster": "https://m.media-amazon.com/images/M/MV5BNTkxODU4OGYtZWYxZS00YmYxLThkMWItNTU3YTQ1YTFhM2QxXkEyXkFqcGc@._V1_.jpg",
         "poster-slide": "",
@@ -1409,7 +1475,7 @@ const MOVIES_DATA = [
     },
     {
         "id": "nguoi-trong-giang-ho-ngu-ho-tai-xuat-young-and-dangerous-1996",
-        "title": "Người Trong Giang Hồ: Ngũ Hổ Tái Xuất - Young and Dangerous",
+        "title": "Cổ Hoặc Tử 1 Chi Nhân Tại Giang Hồ - Young and Dangerous 1",
         "year": "1996",
         "poster": "https://hkmdb.com/db/images/movies/8127/YoungandDangerous+1996-33-b.jpg",
         "poster-slide": "",
