@@ -1,5 +1,71 @@
 const MOVIES_DATA = [
     {
+        "id": "hac-mieu-black-cat-1991",
+        "title": "Hắc Miêu - Black Cat",
+        "year": "1991",
+        "poster": "https://hkmdb.com/db/images/movies/7443/BlackCat+1991-26-b.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành Động",
+        "actor": "Lương Tranh, Lâm Tổ Huy, Nhậm Đạt Hoa",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Catherine (Lương Tranh) là một cô gái bất kham và nổi loạn, sau khi vô tình giết một cảnh sát khi trốn chạy, bị bắt và được CIA tuyển dùng vào chương trình đặc vụ. Họ cấy một con chip thiên hướng ám sát vào não cô, biến cô thành sát thủ tinh vi mang mật danh Black Cat. Sau quá trình huấn luyện khắc nghiệt, Catherine được giao nhiệm vụ giải quyết các mục tiêu tại Hồng Kông.",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/tsgLhAs6X"
+                }
+            ]
+        }
+    },
+    {
+        "id": "diet-mon-tham-an-2-ta-chung-daughter-of-darkness-ii-1994",
+        "title": "Diệt Môn Thảm Án 2: Tá Chủng - Daughter of Darkness II",
+        "year": "1994",
+        "poster": "https://m.media-amazon.com/images/M/MV5BODZlMDhjMmQtZDgwZS00ZjZmLWI2MDgtNGVhOThhMGYxYzViXkEyXkFqcGc@._V1_.jpg",
+        "poster-slide": "https://m.media-amazon.com/images/M/MV5BMjNiNjMzZGQtMDVlMC00YTc1LWI5MmMtOWEwODY5Yjc5MjM3XkEyXkFqcGc@._V1_QL75_UX389_.jpg",
+        "country": "Hồng Kông",
+        "movie-genre": "Tâm lý, Tình cảm",
+        "actor": "Ngô Nghị Tướng, Trịnh Diễm Lệ, Hà Gia Câu, Liêu Khải Trí, Liêu Đích Chi",
+        "category": "phim-le",
+        "age": "18+",
+        "slide": "1",
+        "description": "Cặp vợ chồng Trịnh Diễm Lệ và Ngô Nghị Tướng yêu nhau nhưng anh mắc chứng bất lực do hậu quả chiến tranh. Để sinh con, Lệ nhờ Lưu Đích Chi là một người đàn ông khỏe mạnh khác giúp “mượn giống”.",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/Vva4Bn0c4"
+                }
+            ]
+        }
+    },
+    {
+        "id": "tan-ai-tieu-bat-luong-bloody-brothers-1994",
+        "title": "Tân Đại Tiểu Bất Lương - Bloody Brothers",
+        "year": "1994",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjdhZGM4ZTAtZTRmZC00NTg1LWJmOGEtNzZiMmNmZTE5ZTk4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Tội phạm, Hình sự, Hành động",
+        "actor": "Trương Vệ Kiện, Trịnh Tắc Sĩ, Ông Hồng, Hà Gia Câu, Địch Oai",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Hong (Trương Vệ Kiện) là một nhà phát triển trẻ đến Thượng Hải tìm kiếm bạn bè cũ – anh trai và em gái – đang bị săn lùng bởi Keung, một trùm xã hội đen đáng sợ.",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/4gKrFYX-5"
+                }
+            ]
+        }
+    },
+    {
         "id": "hac-thai-duong-731-nam-kinh-ai-o-sat-black-sun-the-nanking-massacre-1995",
         "title": "Hắc Thái Dương 731: Nam Kinh Đại Đồ Sát - Black Sun: The Nanking Massacre",
         "year": "1995",
@@ -48,13 +114,13 @@ const MOVIES_DATA = [
         "title": "Hắc Thái Dương 731: Công Xưởng Sát Nhân - Laboratory of the Devil",
         "year": "1992",
         "poster": "https://m.media-amazon.com/images/M/MV5BMzZlMDI2YjEtOWZjOC00Y2RjLWE5YWMtMjdkZjIxNDc5OGJlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "poster-slide": "",
+        "poster-slide": "https://m.media-amazon.com/images/M/MV5BNzIyMjdmNGUtOTg5NC00MjRjLTk2OTktODhiNGUzY2FkMjNkXkEyXkFqcGc@._V1_.jpg",
         "country": "Hồng Kông",
         "movie-genre": "Chiến tranh, Kinh dị, Tội ác lịch sử",
         "actor": "Châu Cương, Lương Uyển Tĩnh",
         "category": "phim-le",
         "age": "",
-        "slide": "0",
+        "slide": "1",
         "description": "Diễn ra vào mùa xuân năm 1945, tại căn cứ bí mật Đơn vị 731 ở Mãn Châu, nơi quân Nhật tiến hành các thí nghiệm chết người lên dân thường Trung Quốc, Mông Cổ, Hàn Quốc. Bác sĩ Morishima gia nhập đơn vị với lý tưởng cách mạng, nhưng nhanh chóng kinh hoàng trước thực trạng khủng khiếp tại đây.",
         "sources": {
             "Vietsub": [
@@ -70,13 +136,13 @@ const MOVIES_DATA = [
         "title": "Hắc Thái Dương 731 - Men Behind The Sun",
         "year": "1988",
         "poster": "https://image.tmdb.org/t/p/original/7GXtPuJ5wcrJNqPwwmvZIForY0C.jpg",
-        "poster-slide": "",
+        "poster-slide": "https://images.mubicdn.net/images/film/26409/cache-113864-1745492384/image-w1280.jpg",
         "country": "Trung Quốc",
         "movie-genre": "Chiến tranh, Kinh dị, Tội ác lịch sử",
         "actor": "Ngô Đại Nghiêu, Vương Cương",
         "category": "phim-le",
         "age": "",
-        "slide": "0",
+        "slide": "1",
         "description": "Phim tái hiện các thí nghiệm tàn bạo tại Đơn vị 731 – trại nghiên cứu vũ khí sinh học của quân đội Nhật tại Mãn Châu cuối Thế chiến II, nơi tù nhân Trung – Nga bị dùng làm \"khay thí nghiệm\" cho các thử nghiệm y học.",
         "sources": {
             "Vietsub": [
@@ -2672,13 +2738,13 @@ const MOVIES_DATA = [
         "title": "Thiếu Nữ Phan Kim Liên  - The Amorous Lotus Pan",
         "year": "1994",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTY5NjYzMDEyOF5BMl5BanBnXkFtZTcwNDg2NDUyMQ@@._V1_FMjpg_UX1000_.jpg",
-        "poster-slide": "https://image.tmdb.org/t/p/original/i5ZN2nNH9Q4TjjOGjZnb6KA37sr.jpg",
+        "poster-slide": "",
         "country": "Hồng Kông",
         "movie-genre": "Kịch, Cổ Trang",
         "actor": "Đơn Lập Văn, Vương Tư Ý",
         "category": "phim-le",
         "age": "18+",
-        "slide": "1",
+        "slide": "0",
         "description": "Đơn Lập Văn – trong vai kép Võ Tòng và Tây Môn Khánh. Câu chuyện được kể ngược dòng thời gian, xoay quanh Võ Tòng, người được ân xá khỏi ngục tù và tìm đến Phan Kim Liên đầy nhục dục (do Hoàng Mỹ Tĩnh thủ vai) để báo thù cho cái chết của anh trai mình. Trong nỗi hối hận, Kim Liên kể lại cuộc đời bi thương của mình, bắt đầu từ khi cô bị bán vào nhà họ Trương giàu có làm hầu gái. Nhưng tại đây, cô bị ông chủ cưỡng bức và dần sa vào mối tình vụng trộm với Tây Môn Khánh cùng nhiều kẻ hào hoa khác.",
         "sources": {
             "Vietsub": [
@@ -3200,13 +3266,13 @@ const MOVIES_DATA = [
         "title": "Nhục Bồ Đoàn 3 : Khâm Sai Chốn Thanh Lâu - The Carnal Sutra Mat III",
         "year": "1996",
         "poster": "https://m.media-amazon.com/images/M/MV5BZTliNzMzNDItNmZjMi00ZTgxLTg5NDMtMjExOTY2ZGQ2OWRmXkEyXkFqcGc@._V1_.jpg",
-        "poster-slide": "https://i.ibb.co/WvHWXpK4/nhuc-bo-doan-3.webp",
+        "poster-slide": "",
         "country": "Hồng Kông",
         "movie-genre": "Cổ trang, Điều tra",
         "actor": "Từ Cẩm Giang, Quan Bảo Tuệ, Dương Ngọc Mai, Hà Gia Câu, Lâm Thượng Nghi",
         "category": "phim-le",
         "age": "18+",
-        "slide": "1",
+        "slide": "0",
         "description": "Khâm Sai Chốn Thanh Lâu - Yu Pui Tsuen Iii (1996) Đại Nội Mật Thám Linh Linh Tinh Tinh - Yu Pui Tsuen III (1996) là một bộ phim 18+ Cổ Trang do Hồng Kong sản xuất, phim được thực hiện bởi đạo diễn Lê Khải Cường cùng sự góp mặt của dàn diễn viên 18+ quen thuộc Từ Cẩm Giang, Quan Bảo Tuệ, Dương Ngọc Mai, Hà Gia Câu, Lâm Thượng Nghi, Huỳnh Nhất Phi, Hồng Hiểu Vân... Nội dung phim xoay quanh một tên mật thám của nhà Minh có biệt danh là 000, hắn ta nhận được nhiệm vụ từ cấp trên điều tra về việc một tửu lầu có khách bị đầu độc bởi nha phiến. Tuy nhiên khi đến đây điều tra trong phim Đại Nội Mật Thám Linh Linh Tinh Tinh - Yu Pui Tsuen III (1996), tên mật thám này chưa nắm rõ ràng chứng cứ thì lại rõ từng người kĩ nữ làm việc tại đây. Cho đến một ngày khi cô giúp việc bị mù tình cờ nghe được chuyện thuốc độc trên, 000 đã rũ bỏ gái gú để điều tra nhằm lập công rồi sau đó quay lại mua lại lầu xanh này.",
         "sources": {
             "Vietsub": [
@@ -3252,13 +3318,13 @@ const MOVIES_DATA = [
         "title": "Trúc Phu Nhân - Madame Bamboo",
         "year": "1991",
         "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0oVMUZaoWL3EtRuDjnwovp8ngmvaoMHQizA&s",
-        "poster-slide": "https://i.ibb.co/sLLy55Z/truc-phu-nhan.webp",
+        "poster-slide": "",
         "country": "Hồng Kông",
         "movie-genre": "Cổ trang, Tâm lý",
         "actor": "Đơn Lập Văn, Lâm Hy Sến, Lý Nguyệt tiên, Trương Trinh",
         "category": "phim-le",
         "age": "18+",
-        "slide": "1",
+        "slide": "0",
         "description": "Trúc Phu Nhân – Madame Bamboo (1991) xoay quanh 2 cô nàng kỹ nữ với những câu chuyện trong quá khứ đã đưa họ đến với lầu xanh. Người phụ nữ đầu tiên đã có chồng với nhu cầu chăn gối cao hơn người thường, trong lúc chồng đi làm việc xa nhà, ả ta lén lút với một gã thợ rèn to khỏe, có thể phục vụ ả mọi lúc mọi nơi. Thế rồi, “đi đêm lắm cũng có ngày gặp ma” khi vào một ngày đẹp trời ả bị chồng bắt gặp đang ân ái cuồng nhiệt với gã thợ rèn nên đã bị bán vào lầu xanh. Người phụ nữ thứ hai đã đính hôn với người con trai cô yêu nhưng cha mẹ cô vì tiền bạc mà hứa hôn với một cậu bé mới 7 tuổi. Không thể chống lại quyết định của cha mẹ, cô đành chấp nhận lên kiệu hoa với một đứa trẻ, và trong cái đêm tân hôn của 2 người, người yêu của cô nàng đã lén lút đột nhập vào phòng tân hôn để ân ái cùng người mình yêu để rồi sau cũng bị người ta phát hiện và kết cục là bị bán vào lầu xanh.",
         "sources": {
             "Vietsub": [
