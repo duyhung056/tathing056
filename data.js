@@ -1,5 +1,49 @@
 const MOVIES_DATA = [
     {
+        "id": "quy-a-quy-2-encounter-of-the-spooky-kind-ii-1990",
+        "title": "Quỷ Đả Quỷ 2 - Encounter of the Spooky Kind II",
+        "year": "1990",
+        "poster": "https://hkmdb.com/db/images/movies/7302/EncounteroftheSpookyKindII+1990-53-b.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Võ thuật, Kinh dị, Hài hước",
+        "actor": "Hồng Kim Bảo, Lâm Chánh Anh, Cung Từ Ân, Mạnh Hải",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Abao (Sammo Hung), một học trò kung-fu và làm việc quán trà, được gả theo tập tục cho công chúa tiệm là Little Chu (Mimi Kung). Khi một tên đại gia có quyền lực âm mưu chiếm đoạt hôn sự, hắn thuê một pháp sư đen hòng hãm hại Abao.Little Chu là hồn ma thiện lương, xuất hiện để cứu Abao khỏi nguy cơ bị phù thủy chiếm đoạt thân xác và linh hồn.",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/y7AgswuJ8"
+                }
+            ]
+        }
+    },
+    {
+        "id": "quy-a-quy-encounter-of-the-spooky-kind-1980",
+        "title": "Quỷ Đả Quỷ - Encounter of the Spooky Kind",
+        "year": "1980",
+        "poster": "https://hkmdb.com/db/images/movies/6193/EncounteroftheSpookyKind+1980-47-b.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Võ thuật, Kinh dị, Hài hước",
+        "actor": "Hồng Kim Bảo, Ngọ Mã, Chung Phát, Lâm Chánh Anh, Trần Long",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Bold Cheung (Sammo Hung), một người lái xích lô nổi tiếng về sự dũng cảm nhưng lại bị vợ phụ tình với chủ làm việc là Master Tam.\n\nTam thuê pháp sư Chin Hoi để giết Cheung bằng ma thuật, nhưng đệ tử của Chin là Tsui thương Cheung nên xuất hiện và hỗ trợ anh.\n\nCheung bị lừa vào một ngôi đền bị cho là ma ám, nơi hắn nổi tiếng phải chịu các nghi thức thử thách như gọt táo trước gương, tự chuốc họa vào mình. Nhưng khi thần xác thật tỉnh, mọi chuyện mới thực sự kinh hoàng.",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/Fs9oD2V-5"
+                }
+            ]
+        }
+    },
+    {
         "id": "goa-phu-tan-nuong-paper-marriage-1988",
         "title": "Góa Phụ Tân Nương - Paper Marriage",
         "year": "1988",
