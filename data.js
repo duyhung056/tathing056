@@ -1,5 +1,27 @@
 const MOVIES_DATA = [
     {
+        "id": "goa-phu-tan-nuong-paper-marriage-1988",
+        "title": "Góa Phụ Tân Nương - Paper Marriage",
+        "year": "1988",
+        "poster": "https://hkmdb.com/db/images/movies/7018/PaperMarriage+1988-46-b.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành Động",
+        "actor": "Hồng Kim Bảo, Trương Mạn Ngọc, Trương Kiên Đình, Địch Oai, Cao Lệ Hồng, Chu Tỉ Lợi",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Jade (Trương Mạn Ngọc) sang Canada theo bạn trai Peter để lấy giấy cư trú. Nhưng sau khi đến nơi, Peter bỏ trốn cùng tiền của cô, bỏ lại Jade trong khó khăn. Bo (Hồng Kim Bảo), một cựu võ sĩ kickboxing sống tại Canada để lại hộ chiếu, chấp nhận kết hôn giả với Jade để được thanh toán nợ cờ bạc.Họ phải giả làm vợ chồng và chịu sự kiểm tra gắt gao của nhân viên nhập cư, dẫn đến nhiều tình huống dở khóc dở cười.",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/qCg2a6-xv"
+                }
+            ]
+        }
+    },
+    {
         "id": "co-hoac-tu-6-thang-gia-vi-vuong-born-to-be-king-2000",
         "title": "Cổ Hoặc Tử 6 Thắng Giả Vi Vương - Born to Be King",
         "year": "2000",
