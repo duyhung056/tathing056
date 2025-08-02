@@ -1,5 +1,75 @@
 const MOVIES_DATA = [
     {
+        "id": "co-hoac-tu-6-thang-gia-vi-vuong-born-to-be-king-2000",
+        "title": "Cổ Hoặc Tử 6 Thắng Giả Vi Vương - Born to Be King",
+        "year": "2000",
+        "poster": "https://neofilmshop.com/cdn/shop/products/Born_to_be_King_grande.jpg?v=1579771722",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Tội phạm, Hành động, Giang hồ",
+        "actor": "Trịnh Y Kiện, Trần Tiểu Xuân, Tạ Thiên Hoa, Trương Diệu Dương, Kha Thụ Lương, Thư Kỳ, Lê Tư, An Nhã",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Đây là phần thứ sáu và cũng cuối cùng trong loạt Young and Dangerous, đạo diễn Lưu Vỹ Cường đưa câu chuyện lên cấp độ châu Á bằng cách đưa bối cảnh sang Đài Loan và Nhật Bản.",
+        "sources": {
+            "Thuyết Minh": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/iV1Fkir03"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/09a3af5238b2"
+                }
+            ]
+        }
+    },
+    {
+        "id": "tan-co-hoac-tu-chi-thieu-nien-kich-au-thien-young-and-dangerous-the-prequel-1998",
+        "title": "Tân Cổ Hoặc Tử Chi Thiếu Niên Kích Đấu Thiên - Young and Dangerous: The Prequel",
+        "year": "1998",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYzU0NmRlNzktZDUwOS00NTM1LTgzM2QtYjZkMzMyMTJmZmYyXkEyXkFqcGc@._V1_.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Tội phạm, Hành động, Giang hồ",
+        "actor": "Tạ Đình Phong, Lý Xán Sâm, Thư Kỳ, Ngô Ngạn Tổ, Ngô Chí Hùng, Huỳnh Tử Dương, Ngô Trấn Vũ, Trần Huệ Mẫn",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Câu chuyện kể về thời niên thiếu của Trần Hạo Nam (Tạ Đình Phong) cùng nhóm bạn — Sơn Kê (Lý Xán Sâm), Đầu bự (Ngô Ngạn Tổ), Chow‑Pan (Benjamin Yuen) — khi họ gia nhập băng Hồng Hưng do “Chú Bee” (Ngô Chí Hùng) dẫn dắt. Họ rời bỏ việc học hành và gia đình để tham gia mạng lưới giang hồ, đối đầu với bạo lực, bắt nạt học đường và mâu thuẫn nội bộ",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/QJTGz5ju_"
+                }
+            ]
+        }
+    },
+    {
+        "id": "co-hoac-tu-tinh-nghia-thien-chi-hong-hung-thap-tam-muoi-portland-street-blues-1998",
+        "title": "Cổ Hoặc Tử Tình Nghĩa Thiên Chi Hồng Hưng Thập Tam Muội - Portland Street Blues",
+        "year": "1998",
+        "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/3/7/2/16372-portland-street-blues-0-1000-0-1500-crop.jpg?v=740a82ba21",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Tội phạm, Hành động, Giang hồ",
+        "actor": "Ngô Quân Như, Phương Trung Tín, Doãn Dương Minh, Trịnh Y Kiện, Dương Cung Như, Thư Kỳ, Ngô Mạnh Đạt, Trình Đông",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Phim là spin-off từ series Young and Dangerous, kể về hành trình vượt khó để trở thành thủ lĩnh địa bàn Portland Street của Sư Tỷ thập tam (Ngô Quân Như), một trong những nhân vật nữ mạnh mẽ hiếm hoi của giới giang hồ Hồng Kông.",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/THoeCONR3"
+                }
+            ]
+        }
+    },
+    {
         "id": "co-hoac-tu-chi-giang-ho-ai-phong-bao-war-of-the-under-world-1996",
         "title": "Cổ Hoặc Tử Chi Giang Hồ Đại Phong Bạo - War of the Under World",
         "year": "1996",
