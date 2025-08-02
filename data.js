@@ -153,6 +153,10 @@ const MOVIES_DATA = [
                 {
                     "name": "Server 1",
                     "url": "https://short.icu/tsgLhAs6X"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/1b85e1c91be9"
                 }
             ]
         }
@@ -1429,6 +1433,10 @@ const MOVIES_DATA = [
                 {
                     "name": "Server 1",
                     "url": "https://short.icu/_Ei7Mq37B"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/2cf6bfc38e52"
                 }
             ]
         }
@@ -1671,6 +1679,10 @@ const MOVIES_DATA = [
                 {
                     "name": "Server 1",
                     "url": "https://short.icu/tI9CHFxq1"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/09a3af5238b2"
                 }
             ]
         }
@@ -1693,6 +1705,10 @@ const MOVIES_DATA = [
                 {
                     "name": "Server 1",
                     "url": "https://short.icu/gJ7i0iomG"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/eee217fda2e4"
                 }
             ]
         }
@@ -1715,6 +1731,10 @@ const MOVIES_DATA = [
                 {
                     "name": "Server 1",
                     "url": "https://short.icu/tw9yfvP4b"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/eab50a09bff8"
                 }
             ]
         }
@@ -2133,6 +2153,10 @@ const MOVIES_DATA = [
                 {
                     "name": "Server 1",
                     "url": "https://short.icu/et9zcU7Os"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/5a03e11a21e7"
                 }
             ]
         }
@@ -2155,6 +2179,10 @@ const MOVIES_DATA = [
                 {
                     "name": "Server 1",
                     "url": "https://short.icu/iISGuLGtod"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/9d175006d640"
                 }
             ]
         }
@@ -2440,13 +2468,13 @@ const MOVIES_DATA = [
         "title": "Maid‑Droid 2: Maidroid vs Hostroids",
         "year": "2010",
         "poster": "https://images.kinorium.com/movie/300/553718.jpg?1515785259",
-        "poster-slide": "https://image.tmdb.org/t/p/original/hgVVgbjqjlzDJLl5PEFgCxJhtFg.jpg",
+        "poster-slide": "",
         "country": "Nhật Bản",
         "movie-genre": "Khoa học viễn tưởng, Hành động, Kịch hài",
         "actor": "Akiho Yoshizawa, Masayoshi Nogami",
         "category": "phim-le",
         "age": "18+",
-        "slide": "1",
+        "slide": "0",
         "description": "Akiba, sinh viên đại học, được thừa kế một robot hầu gái kích thước thật mang tên Maria do người thầy của anh để lại. Maria được lập trình để đối đầu với các Hostroid—robot nam quyến rũ phụ nữ do công ty đối thủ tạo ra. Tuy nhiên, Maria là mẫu thử chưa hoàn thiện với chức năng lỗi và cảm xúc bất ổn. Khi Hostroids gây rối tại khuôn viên trường, Akiba cùng Maria buộc phải chiến đấu để bảo vệ sinh viên nữ. Phim kết hợp yếu tố hành động robot, hài hước lố bịch và gợi cảm nhẹ theo phong cách soft‑core. Cuối phim hé lộ nhiều bí mật về nguồn gốc và mối liên kết giữa Maria và Hostroid Gundan.",
         "sources": {
             "Vietsub": [
@@ -4307,7 +4335,7 @@ const MOVIES_DATA = [
                 },
                 {
                     "name": "Server 2",
-                    "url": "//ok.ru/videoembed/9937987963505?nochat=1"
+                    "url": "https://helvid.net/play/index/09195958e4dc"
                 }
             ]
         }
