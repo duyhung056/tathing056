@@ -1,5 +1,785 @@
 const MOVIES_DATA = [
     {
+        "id": "thien-giang-hoanh-tai-tam-kinh-kinh-the-bird-of-prey-2003",
+        "title": "Thiên Giáng Hoành Tài Tâm Kinh Kinh - The Bird of Prey",
+        "year": "2003",
+        "poster": "https://img.tvb.com/mytvs/poster/1299/129888_v1_o.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành động",
+        "actor": "Vương Hỷ, Trương Khả Di, Trương Triệu Huy, Thang Doanh Doanh",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "To Ping (Trương Khả Di) là mật vụ thuộc cơ quan tình báo, chuyên phụ trách các vụ án nguy hiểm liên quan đến gián điệp và tội phạm tổ chức. Cô được giao nhiệm vụ điều tra chuỗi sự cố rò rỉ thông tin mật, bắt đầu từ những vụ bắt cóc và theo dõi bí ẩn.",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/zRUa-ZrFD"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/828eece64659"
+                }
+            ]
+        }
+    },
+    {
+        "id": "thien-anh-than-thau-double-or-nothing-1994",
+        "title": "Thiên Ảnh Thần Thâu - Double or Nothing",
+        "year": "1994",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNGQ1MDYwNTMtZjdkYy00YjJiLTllODgtOTFjMjJjZTg2NmE3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành động",
+        "actor": "Trương Triệu Huy, Đàm Diệu Văn, Giang Hân Yến",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Nhân vật trung tâm là một tên trộm chuyên nghiệp, thực hiện các phi vụ tinh vi tại Hong Kong và một đoạn quay ở sân bay Subang (Malaysia)",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/vdrXCH3Su"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/60572feed805"
+                }
+            ]
+        }
+    },
+    {
+        "id": "thien-uong-huyet-lo-its-no-heaven-1988",
+        "title": "Thiên Đường Huyết Lộ - It's No Heaven",
+        "year": "1988",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYzljN2Q4M2MtZDA2NC00OGZiLWE0ZjMtNjU3ZjcxZDlkZWU4XkEyXkFqcGc@._V1_.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành động, Chính kịch",
+        "actor": "Trịnh Hạo Nam, Ngô Gia Lệ, Huỳnh Nhật Hoa",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Long (Trương Hạo Nam) đau khổ sau khi vợ bị cưỡng hiếp và giết chết bởi con của một quan chức có quyền lực; hung thủ không bị trừng phạt. Long bất ngờ giết chết người đó trong cơn tức giận.",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/DpUXujSEx"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/c301d45a56d7"
+                }
+            ]
+        }
+    },
+    {
+        "id": "giang-ho-luyen-khuc-my-enemy-my-love-1995",
+        "title": "Giang Hồ Luyến Khúc - My Enemy, My Love",
+        "year": "1995",
+        "poster": "https://img.tvb.com/mytvs/poster/1295/129499_v1_o.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Tâm lý, Tình cảm, Gia đình",
+        "actor": "Lâm Văn Long, Trần Pháp Dung, Tằng Vĩ Quyền",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Dư Triệu An (Lâm Văn Long) bị kết án thời niên thiếu và cải tạo, mang tổn thương sâu sắc nhưng vẫn giữ mối liên kết với người bạn thân Triệu Gia Cường (Tăng Vĩ Quyền), nay là một cảnh sát chính trực.",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/72waTLkgY"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/b8a21620d23f"
+                }
+            ]
+        }
+    },
+    {
+        "id": "ai-ao-tan-au-cant-stop-loving-you-1993",
+        "title": "Ái Đáo Tận Đầu - Can't Stop Loving You",
+        "year": "1993",
+        "poster": "https://i.mydramalist.com/RZEo6f.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Tâm lý, Tình cảm",
+        "actor": "Lâm Bảo Di, Trần Ngọc Liên, Phương Trung Tín, Lô Mẫn Nghi",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "ĐANG CẬP NHẬT",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/ncLNwv51B"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/b52f5fdc8e43"
+                }
+            ]
+        }
+    },
+    {
+        "id": "nghiet-hai-cuong-hoa-behind-the-beauty-1997",
+        "title": "Nghiệt Hải Cuồng Hoa - Behind the Beauty",
+        "year": "1997",
+        "poster": "https://a.ltrbxd.com/resized/film-poster/9/9/7/2/3/8/997238-behind-the-beauty-0-1000-0-1500-crop.jpg?v=d3399b5727",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Tâm lý, Tình cảm, Gia đình",
+        "actor": "Ông Hồng, Lưu Cẩm Linh, Mã Tuấn Vỹ, Trần Khải Thái, Lưu Gia Huy",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Linh (Ông Hồng) vô tình giết chết chị gái trong cơn tức giận sâu sắc. Khi tỉnh lại, cô từng bước bị ám ảnh bởi nỗi hối hận và hình ảnh người chị quá cố.Linh phát hiện một người giống hệt chị mình — Thạch Kỳ (do Lưu Cẩm Linh đóng), và quyết định biến cô này thành “bản sao hoàn hảo” của chị để lấp chỗ trống vừa mất.",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/tNGQ11nDz"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/146f293e3b33"
+                }
+            ]
+        }
+    },
+    {
+        "id": "thien-nhai-truy-hung-burden-of-proof-1994",
+        "title": "Thiên Nhai Truy Hung - Burden of Proof",
+        "year": "1994",
+        "poster": "https://m.media-amazon.com/images/M/MV5BY2Q5ZDYzN2QtNzNkMS00YTBjLWI5YjMtNzE0M2IzMDE4ZGI3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hình sự, Hành động, Trinh thám",
+        "actor": "Huỳnh Nhật Hoa, Tuyên Huyên, Mã Đức Chung, Tiền Gia Lạc",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Lâm Vỹ Đạt (Felix Wong) là một nhân viên xã hội vô tội bị kết tội giết người, bị tù oan nhưng sau đó trở thành nghi phạm trong một vụ án khác khi đang được áp giải.Trên đường dẫn đến nhà tù, anh cố trốn và tự mình điều tra để tìm hung thủ thật và minh oan cho bản thân.",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/SkF4mCoTIL"
+                }
+            ]
+        }
+    },
+    {
+        "id": "manh-nu-72-tieu-thi-3-days-of-a-blind-girl-1993",
+        "title": "Manh Nữ 72 Tiểu Thì - 3 Days of a Blind Girl",
+        "year": "1993",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMDRmNzI5NmYtNDc2MC00MzU3LWE1YzItNDRmOTBkZTUyMzkwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Kinh dị, Tâm lý",
+        "actor": "Huỳnh Thu Sanh, Diệp Ngọc Khanh, Trần Hữu",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Sau một ca phẫu thuật mắt ở Mỹ, bà Ng (Diệp Ngọc Khanh) bị mất thị lực trong ba ngày. Chồng cô – bác sĩ Jack (Trần Hữu) – đi công tác Macau, để cô ở nhà cùng người giúp việc.",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/vSiGCgoVn"
+                }
+            ]
+        }
+    },
+    {
+        "id": "thap-nhi-da-twelve-nights-2000",
+        "title": "Thập Nhị Dạ - Twelve Nights",
+        "year": "2000",
+        "poster": "https://hkmdb.com/db/images/movies/8721/TwelveNights+2000-2-b.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Tâm lý, Tình cảm",
+        "actor": "Trần Dịch Tấn, Trương Bá Chi, Phùng Đức Luân",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Jeannie (Cecilia Cheung) là một tiếp viên hàng không đang chịu tổn thương từ cuộc tình cũ; tình cờ gặp Alan (Eason Chan), bạn trai cũ của bạn mình, trong buổi tiệc sinh nhật của cô.",
+        "sources": {
+            "Thuyết Minh": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/ihrNF9DMN"
+                }
+            ]
+        }
+    },
+    {
+        "id": "a-nhi-nhat-toc-second-to-none-1992",
+        "title": "A Nhị Nhất Tộc - Second to None",
+        "year": "1992",
+        "poster": "https://image.tmdb.org/t/p/original/5dLUgpPF5YhfllNCEMvXIIGDldl.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hài hước",
+        "actor": "Trịnh Du Linh, Trần Hữu, Ngọ Mã, Ngô Khải Hoa, Hồng Hân",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Chan Chi‑Keung (Anthony Chan) là doanh nhân Hồng Kông có việc kết hôn bí mật với Sun Ah Yee (Carol Cheng), đại diện công ty tại đại lục. Anh đã có gia đình trước đó tại Hong Kong.",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/hgOCPsJor"
+                }
+            ]
+        }
+    },
+    {
+        "id": "ac-chien-once-upon-a-time-in-shanghai-2014",
+        "title": "Ác Chiến - Once Upon a Time in Shanghai",
+        "year": "2014",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZjljZjliNDItMmFlMC00NjZmLTk3ZWYtZjk4NGUyOWVkYjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Võ thuật, Tội phạm",
+        "actor": "Ngũ Doãn Long, An Chí Kiệt, Hồng Kim Bảo",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Ngũ Doãn Long (Philip Ng) từ vùng quê đến Thượng Hải với ước mơ vươn lên, nhưng nhanh chóng bị cuốn vào giang hồ thành phố. Anh kết bạn với Long Qi (Andy On) – lãnh đạo băng đảng mới nổi – và được Master Tie (Sammo Hung) hướng dẫn võ thuật.",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/dUtrZ6z8M"
+                }
+            ]
+        }
+    },
+    {
+        "id": "tan-gia-phap-the-rules-of-the-game-1999",
+        "title": "Tân Gia Pháp - The Rules of the Game",
+        "year": "1999",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYjczYzEyMTEtM2ViYS00ZjU4LWJlMjEtNmRhNzc1ODM5ZDY1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Tội phạm, Giang hồ, Hành động",
+        "actor": "Cổ Thiên Lạc, Dương Cung Như, Phương Trung Tín, Lôi Vũ Dương, Ngô Chí Hùng, Lý Xán Sâm, Tô Chí Uy",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "David Chow (Louis Koo) từng có bạn thân là Au (Sam Lee Chan‑Sam), người bị truy sát đến bất tỉnh và trở nên thực vật. Người yêu Ann (Kristy Yeung) lại về phe thủ lĩnh chi nhánh Shing (Alex Fong). Quyết tâm trả thù và cứu bạn, David nhập băng đảng, nhanh chóng leo cao thành tay chân thân tín.",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/1Owak3K0e"
+                }
+            ]
+        }
+    },
+    {
+        "id": "tan-cuong-thi-tien-sinh-chinese-vampire-story-1992",
+        "title": "Tân Cương Thi Tiên Sinh - Chinese Vampire Story",
+        "year": "1992",
+        "poster": "https://hkmdb.com/db/images/movies/7585/MrVampire1992+1992-1-b.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Võ thuật, Kinh dị, Hài hước",
+        "actor": "Lâm Chánh Anh, Tiền Tiểu Hào, Hứa Quán Anh, Lâu Nam Quang, Đàm Khải Hân, Quan Tú Mị, Ngô Quân Như",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Sư phụ Kau (Lâm Chánh Anh) và hai đồ đệ Văn Tài cùng Thu Sinh được triệu tập để thu thập bột răng cương thi nhằm chữa trị vị tướng quân bị nhiễm virus từ cha mình, giờ đã hóa thành cương thi.",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/TqzB2w4W9"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/022ea110641e"
+                }
+            ]
+        }
+    },
+    {
+        "id": "danh-kiem-the-sword-1980",
+        "title": "Danh Kiếm - The Sword",
+        "year": "1980",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNWJkNDRhMjEtOGM1MS00NjFhLWI0YTEtNTM5YTQ3ZDQ0NzhkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Võ thuật, Kiếm hiệp",
+        "actor": "Trịnh Thiếu Thu, Từ Thiếu Cường, Cao Hùng, Từ Kiệt",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Câu chuyện khởi đầu với Thanh Kiếm (Lee Mok-yin/Adam Cheng) hành trình tìm kiếm Phan Chính Thụ—võ sư bí ẩn và chủ nhân Thanh Kiếm Hòa Ái được rèn với năng lực bí ẩn, nhưng mang lời nguyền chết chóc.",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/jcPOxT_wi"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/3d3d9b9f0482"
+                }
+            ]
+        }
+    },
+    {
+        "id": "2002--2001",
+        "title": "2002",
+        "year": "2001",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjIwNDI0MDkxNl5BMl5BanBnXkFtZTgwMzU1Mzg2MTE@._V1_.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Kinh dị",
+        "actor": "Tạ Đình Phong, Phùng Đức Luân, Lý Xán Sâm, Phương Lực Hoành",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Tide Yau (Tạ Đình Phong) là đặc vụ thuộc đội 2002, một đơn vị cảnh sát chuyên xử lý hiện tượng siêu nhiên—ai làm việc trong đội đều phải chấp nhận người đồng nhiệm đầu tiên sẽ chết và tái sinh.",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/bD-IE8X_l"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/59ff68298f4f"
+                }
+            ]
+        }
+    },
+    {
+        "id": "song-ong-double-vision-2002",
+        "title": "Song Đồng - Double Vision",
+        "year": "2002",
+        "poster": "https://asianfilmstrike.com/wp-content/uploads/2012/05/moviecovers-20666-117573-double-vision.jpg",
+        "poster-slide": "https://wentuifa.com/wp-content/uploads/2023/07/%E5%8F%8C%E7%9E%B3-%E5%9B%BD%E8%AF%AD.mp4_20230717_222211851-scaled.jpg",
+        "country": "Đài Loan",
+        "movie-genre": "Kinh dị, Trinh thám",
+        "actor": "Lương Gia Huy, Lưu Nhã Anh",
+        "category": "phim-le",
+        "age": "",
+        "slide": "1",
+        "description": "Một loạt vụ giết người kỳ lạ khiến cảnh sát bối rối: Người phụ nữ bị thiêu sống mà không có dấu vết lửa, linh mục ngoại quốc bị phân cắt... và một chất nấm kỳ lạ được tìm thấy trong não nạn nhân.",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/iv9Xj7wVP"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/f13a0d77fd8b"
+                }
+            ]
+        }
+    },
+    {
+        "id": "dieu-tham-song-long-city-cops-1989",
+        "title": "Diệu Thám Song Long - City Cops",
+        "year": "1989",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYzA1ODJiMzItZjk2Ni00NzQyLThlMjMtYTJiMDlmYWY2ODI4XkEyXkFqcGc@._V1_.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành động",
+        "actor": "Miêu Kiều Vỹ, Thang Trấn Nghiệp, Cynthia Rothrock, Thành Khuê An",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Cindy (Cynthia Rothrock) là một đặc vụ FBI đến Hồng Kông để truy tìm tên tội phạm Kent Tong — người liên quan đến đường dây buôn kim cương. Cô hợp lực với hai cảnh sát địa phương David (Miu Kiu‑Wai) và Johnny (Shing Fui‑On) để bảo vệ chị em gái nhân chứng của Kent và lôi ra nhân chứng ẩn giấu.",
+        "sources": {
+            "Thuyết Minh": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/jUoS_o0DA"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/aac8dce1ac4b"
+                }
+            ]
+        }
+    },
+    {
+        "id": "phuc-tinh-sam-giang-ho-return-of-the-lucky-stars-1988",
+        "title": "Phúc Tinh Sấm Giang Hồ - Return of the Lucky Stars",
+        "year": "1988",
+        "poster": "https://hkmdb.com/db/images/movies/7220/ReturnoftheLuckyStars+1989-26-b.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành động, Hài hước",
+        "actor": "Ngô Diệu Hán, Tăng Chí Vĩ, Phùng Thối Phàm, Miêu Kiều Vỹ, Lưu Gia Linh",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Đại tá Walter Tso (Cho Tat‑Wah) bắt giữ Big Dai (Lo Hoi‑Pang), một lãnh đạo giới tội phạm đã cải tà quy chính. Khi Dai muốn người em Richard Mao tự đến đầu thú, Mao phản bội và quyết định chiếm quyền kiểm soát hội",
+        "sources": {
+            "Thuyết Minh": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/DUsmLBRcl"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/1732bf4c2bd3"
+                }
+            ]
+        }
+    },
+    {
+        "id": "luyen-chien-xung-thang-okinawa-rendez-vous-2000",
+        "title": "Luyến Chiến Xung Thằng - Okinawa: Rendez-vous",
+        "year": "2000",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTI3NDUzMjkzNl5BMl5BanBnXkFtZTcwODk3NzYyMQ@@._V1_FMjpg_UX1000_.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hài hước, Lãng mạn",
+        "actor": "Trương Quốc Vinh, Vương Phi, Lương Gia Huy, Lê Tư",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Jimmy Tong là một tên tống tiền lão luyện chuyên nhắm vào giới mafia tên tuổi, tài sản của hắn là cuốn nhật ký mật của trùm Yakuza Ken Sato (Masaya Kato)",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/1xO3FTGrJ"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/7ccb4a49aa61"
+                }
+            ]
+        }
+    },
+    {
+        "id": "chau-quang-bao-khi-whatever-you-want-1994",
+        "title": "Châu Quang Bảo Khí - Whatever You Want",
+        "year": "1994",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTI1NTgzMzMyOV5BMl5BanBnXkFtZTcwNDEwMTcxMQ@@._V1_FMjpg_UX1000_.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hài hước, Tình cảm",
+        "actor": "Viên Vịnh Nghi, Vương Mẫn Đức, Chung Lệ Đề, Trần Tiểu Xuân, Trần Thục Lan",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Ping (Viên Vịnh Nghi), con gái ngoài giá thú của ông Ko, sống đơn giản và yêu thích phim ảnh đến mức muốn fast‑forward mọi bộ phim do Wong Jing sản xuất.",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/rI4uIe6gf"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/fa23e6ba0bb1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "duyen-phan-behind-the-yellow-line-1984",
+        "title": "Duyên Phận - Behind the Yellow Line",
+        "year": "1984",
+        "poster": "https://neofilmshop.com/cdn/shop/files/IMG-9565.jpg?v=1739810686",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Tình cảm, Lãng mạn",
+        "actor": "Trương Quốc Vinh, Trương Mạn Ngọc, Mai Diễm Phương, Trần Hữu",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Paul (Trương Quốc Vinh) là sinh viên vừa tốt nghiệp, mỗi ngày đi làm bằng tàu điện ngầm (MTR), nơi anh gặp Monica (Trương Mạn Ngọc) trong một chuyến tàu và ngay lập tức bị cuốn hút.",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/ZxfjT5wnR"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/e0222be3f282"
+                }
+            ]
+        }
+    },
+    {
+        "id": "dung-gia-vo-cu-dreadnought-1981",
+        "title": "Dũng Giả Vô Cụ - Dreadnought",
+        "year": "1981",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZTE5OTNkMzgtMzc3OS00NzcxLTlmYWMtNGZiMjFjODY3YWJhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Võ thuật, Hài hước",
+        "actor": "Nguyên Bưu, Lương Gia Nhân, Cao Phi",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Một sát nhân cuồng bạo có tên biệt danh White Tiger (Yuen Shun‑yee) đang chạy trốn cảnh sát và trà trộn vào đoàn tuồng hát ở thị trấn nhỏ. Ông ta giết bất cứ ai nghi ngờ hoặc hòa vào đường lối của mình",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/iXhKrX1F9"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/e97282f67b22"
+                }
+            ]
+        }
+    },
+    {
+        "id": "tuyet-the-hao-tan-driving-miss-wealthy-2004",
+        "title": "Tuyệt Thế Hảo Tân - Driving Miss Wealthy",
+        "year": "2004",
+        "poster": "https://hkmdb.com/db/images/movies/10666/DrivingMissWealthy+2004-3-b.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hài hước",
+        "actor": "Lưu Thanh Vân, Lương Vịnh Kỳ",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Jennifer (Gigi Leung) là một tiểu thư giàu có, tiêu xài hoang phí và không biết trân trọng đồng tiền. Cha cô – ông Fung Kwok‑Lap (Chung Chow) – quyết định “dạy dỗ” cô bằng cách giả vờ ốm và để người khác quản lý tài sản.",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/0WZ24eEpo"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/e060092f2953"
+                }
+            ]
+        }
+    },
+    {
+        "id": "quy-ke-dead-air-2007",
+        "title": "Quỷ Kế - Dead Air",
+        "year": "2007",
+        "poster": "https://hkmdb.com/db/images/movies/14143/DeadAir+2007-14-b.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Kinh dị, Giật gân, Siêu nhiên, Tâm lý trinh thám",
+        "actor": "Tằng Quốc Tường, Đường Ninh, Lê Diệu Tường, Huỳnh Hạo Nhiên",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Rock (Derek Tsang) là đạo diễn một chương trình truyền hình về hiện tượng siêu nhiên, liên tục thất bại vì rating thấp. Một đêm anh gặp Tincy (Leila Tong), một hồn ma nữ đang mang thai bên vệ đường, và giúp cô sinh con ngay từ cơ thể đã chết.",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/WtD0iu_SC"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/779474d64bc9"
+                }
+            ]
+        }
+    },
+    {
+        "id": "da-thu-hinh-canh-beast-cops-1998",
+        "title": "Dã Thú Hình Cảnh - Beast Cops",
+        "year": "1998",
+        "poster": "https://a.ltrbxd.com/resized/film-poster/2/0/9/0/5/20905-beast-cops-0-1000-0-1500-crop.jpg?v=ced763df5b",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành Động",
+        "actor": "Huỳnh Thu Sanh, Vương Mẫn Đức, Lý Xán Sâm, Trương Diệu Dương, Đàm Diệu Văn, Châu Hải My",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Tung (Anthony Wong) là cảnh sát tuyến phố thân thiết với băng xã hội đen Hung Hing do Fai (Roy Cheung) đứng đầu. Khi Fai phải bỏ trốn vì một vụ ám sát thất bại, Tung phải tiếp quản một số chức trách cho băng này.Một cố vấn mới là Michael Cheung (Michael Wong), một cảnh sát nghiêm khắc “vệ sĩ”, được điều đến làm cấp trên – tạo mâu thuẫn giữa khái niệm “luật lệ” và “giang hồ tình cảm”.",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/cIhhUgnW5"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/1ed913ea6ff6"
+                }
+            ]
+        }
+    },
+    {
+        "id": "cuong-thi-thuc-thuc-mr-vampire-saga-four-1988",
+        "title": "Cương Thi Thúc Thúc - Mr. Vampire Saga Four",
+        "year": "1988",
+        "poster": "https://hkmdb.com/db/images/movies/7109/MrVampireSagaFour+1988-36-b.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Võ thuật, Kinh dị, Hài hước",
+        "actor": "Ngọ Mã, Trần Hữu, Tiền Tiểu Hào, Lý Lệ Trân, Nguyên Hoa, Chung Phát",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Tại một vùng thôn quên, đạo sĩ Taoist Four‑Eyed (Anthony Chan) thường đối đầu với hàng xóm Master Yat‑Yau (Wu Ma), một hòa thượng – hai người thường trêu ghẹo nhau đến mức predator pháp thuật. Một đoàn hộ tống hoàng cung chở quan tài đặc biệt đi ngang, nhưng bị sét đánh khiến bùa phong tỏa rơi — xác bên trong thức tỉnh, lan truyền virus ma thành cương thi.",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/ghMtfuCA-"
+                }
+            ],
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://helvid.net/play/index/874f97e2e19b"
+                }
+            ]
+        }
+    },
+    {
+        "id": "linh-huyen-tien-sinh-mr-vampire-3-1987",
+        "title": "Linh Huyễn Tiên Sinh - Mr. Vampire 3",
+        "year": "1987",
+        "poster": "https://hkmdb.com/db/images/movies/6981/MrVampirePart3+1987-52-b.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Võ thuật, Kinh dị, Hài hước",
+        "actor": "Lâm Chánh Anh, Ngô Diệu Hán, Lữ Phương, Lâu Nam Quang",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Uncle Ming (Richard Ng) là đạo sĩ phong thuỷ lang thang, đi khắp làng để “chiêu ma đổi hồn”, được phục vụ bởi hai linh hồn bạn thân Big Pao và Small Pao. Ming đến một thị trấn bị tấn công bởi băng phù thủy và các tên côn đồ có sức mạnh siêu nhiên do Devil Lady (Pauline Wong) cầm đầu",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/DZmQeitmN"
+                }
+            ]
+        }
+    },
+    {
+        "id": "cuong-thi-gia-toc-mr-vampire-2-1986",
+        "title": "Cương Thi Gia Tộc - Mr. Vampire 2",
+        "year": "1986",
+        "poster": "https://hkmdb.com/db/images/movies/6822/MrVampirePart2+1986-45-b.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Võ thuật, Kinh dị, Hài hước",
+        "actor": "Lâm Chánh Anh, Nguyên Bưu, Lâu Nam Quang, Chung Phát, Lý Tái Phụng",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Một nhóm khảo cổ do Professor Kwok (Chung Fat) cầm đầu đào được ba xác ướp cương thi (bố mẹ và con nhỏ) từ một hang động cổ.Họ mang về phòng thí nghiệm tại Hồng Kông và dán bùa phong ấn lên trán để kiểm soát. Tuy nhiên, khi bùa bị bong ra, cương thi tỉnh dậy và gây hỗn loạn cho thành phố",
+        "sources": {
+            "Thuyết Minh": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/PxC-SFmop"
+                }
+            ],
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://helvid.net/play/index/3eccc7f6fce5"
+                }
+            ]
+        }
+    },
+    {
+        "id": "cuong-thi-tien-sinh-mr-vampire--1985",
+        "title": "Cương Thi Tiên Sinh - Mr. Vampire",
+        "year": "1985",
+        "poster": "https://hkmdb.com/db/images/movies/6742/MrVampire+1985-66-b.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Võ thuật, Kinh dị, Hài Hước",
+        "actor": "Lâm Chánh Anh, Lý Tái Phụng, Lâu Nam Quang, Hứa Quán Anh, Tiền Tiểu Hào",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Đạo sĩ Taoist Master Kau (Lâm Chánh Anh) và hai đồ đệ vụng về—Man‑Choi và Chau‑Sang được thuê mai táng cha của một thương nhân giàu (Yuen Wah).",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/y4kZXDAF2"
+                }
+            ]
+        }
+    },
+    {
+        "id": "am-nhac-cuong-thi-the-musical-vampire-1992",
+        "title": "Âm Nhạc Cương Thi - The Musical Vampire",
+        "year": "1992",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjA5MTg5MjEtODQ5Yi00NmNmLThhM2QtZTY3NTgxYWE1YTRkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Võ thuật, Kinh dị, Hài Hước",
+        "actor": "Lâm Chánh Anh, Lý Lệ Trân, Tào Tra Lý, Lý Gia Thành, Phùng Thối Phàm, Hồng Hân Hân",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Một nhà khoa học phương Tây tái sinh một hài cốt bằng hóa chất, tạo ra một cương thi biến dị chỉ có thể bị điều khiển qua âm thanh nhạc.Một đạo sĩ taoist (Lam Ching‑Ying) cùng các đệ tử nhận nhiệm vụ ngăn chặn cương thi trong vùng nông thôn đang bị tàn phá.Phim đan xen yếu tố hài đen, kung fu trừ tà với âm nhạc là công cụ duy nhất có thể khống chế quái vật.",
+        "sources": {
+            "Thuyết Minh": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/c1qUfdTlC"
+                }
+            ]
+        }
+    },
+    {
+        "id": "nhat-mi-ao-nhan-vampire-vs-vampire-1989",
+        "title": "Nhất Mi Đạo Nhân - Vampire Vs Vampire",
+        "year": "1989",
+        "poster": "https://neofilmshop.com/cdn/shop/products/vampire_vs_vampire_dvd_1024x1024.jpg?v=1579771651",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Võ thuật, Kinh dị, Hài Hước",
+        "actor": "Lâm Chánh Anh, Tiền Tiểu Hào, Lữ Phương, Lâu Nam Quang, Ngô Quân Như",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "One‑Eyebrow Priest (Lam Ching‑Ying), một đạo sĩ trừ ma bình dị, sống yên bình cùng hai đệ tử Ah Ho (Chin Siu‑Ho) và Ah Fong (Lui Fong), cùng nuôi một “tiểu cương thi” tinh nghịch.",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/F5Fah1eqP"
+                }
+            ],
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://helvid.net/play/index/7fe6a34fd180"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://short.icu/joAKNFk0M"
+                }
+            ]
+        }
+    },
+    {
         "id": "quy-a-quy-2-encounter-of-the-spooky-kind-ii-1990",
         "title": "Quỷ Đả Quỷ 2 - Encounter of the Spooky Kind II",
         "year": "1990",
