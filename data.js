@@ -578,13 +578,13 @@ const MOVIES_DATA = [
         "title": "Quỷ Kế - Dead Air",
         "year": "2007",
         "poster": "https://hkmdb.com/db/images/movies/14143/DeadAir+2007-14-b.jpg",
-        "poster-slide": "",
+        "poster-slide": "https://hk.nowbaogumovies.com/baogucms/media/movie/1653548534_Dead%20Air%20still%204.jpg",
         "country": "Hồng Kông",
         "movie-genre": "Kinh dị, Giật gân, Siêu nhiên, Tâm lý trinh thám",
         "actor": "Tằng Quốc Tường, Đường Ninh, Lê Diệu Tường, Huỳnh Hạo Nhiên",
         "category": "phim-le",
         "age": "",
-        "slide": "0",
+        "slide": "1",
         "description": "Rock (Derek Tsang) là đạo diễn một chương trình truyền hình về hiện tượng siêu nhiên, liên tục thất bại vì rating thấp. Một đêm anh gặp Tincy (Leila Tong), một hồn ma nữ đang mang thai bên vệ đường, và giúp cô sinh con ngay từ cơ thể đã chết.",
         "sources": {
             "Vietsub": [
@@ -672,6 +672,12 @@ const MOVIES_DATA = [
                     "name": "Server 1",
                     "url": "https://short.icu/DZmQeitmN"
                 }
+            ],
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://helvid.net/play/index/5b381ff5b005"
+                }
             ]
         }
     },
@@ -721,6 +727,12 @@ const MOVIES_DATA = [
                 {
                     "name": "Server 1",
                     "url": "https://short.icu/y4kZXDAF2"
+                }
+            ],
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://helvid.net/play/index/010aee5402b1"
                 }
             ]
         }
@@ -1100,13 +1112,13 @@ const MOVIES_DATA = [
         "title": "Hắc Thái Dương 731: Công Xưởng Sát Nhân - Laboratory of the Devil",
         "year": "1992",
         "poster": "https://m.media-amazon.com/images/M/MV5BMzZlMDI2YjEtOWZjOC00Y2RjLWE5YWMtMjdkZjIxNDc5OGJlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "poster-slide": "https://m.media-amazon.com/images/M/MV5BNzIyMjdmNGUtOTg5NC00MjRjLTk2OTktODhiNGUzY2FkMjNkXkEyXkFqcGc@._V1_.jpg",
+        "poster-slide": "",
         "country": "Hồng Kông",
         "movie-genre": "Chiến tranh, Kinh dị, Tội ác lịch sử",
         "actor": "Châu Cương, Lương Uyển Tĩnh",
         "category": "phim-le",
         "age": "",
-        "slide": "1",
+        "slide": "0",
         "description": "Diễn ra vào mùa xuân năm 1945, tại căn cứ bí mật Đơn vị 731 ở Mãn Châu, nơi quân Nhật tiến hành các thí nghiệm chết người lên dân thường Trung Quốc, Mông Cổ, Hàn Quốc. Bác sĩ Morishima gia nhập đơn vị với lý tưởng cách mạng, nhưng nhanh chóng kinh hoàng trước thực trạng khủng khiếp tại đây.",
         "sources": {
             "Vietsub": [
