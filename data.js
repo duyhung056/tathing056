@@ -3024,13 +3024,13 @@ const MOVIES_DATA = [
         "title": "Hắc Tâm Quỷ - Three Wishes",
         "year": "1988",
         "poster": "https://m.media-amazon.com/images/M/MV5BMzliZDAzNGYtOWU5MC00N2I2LWE5YzQtNWQxODkwOTQ3MzM4XkEyXkFqcGc@._V1_.jpg",
-        "poster-slide": "",
+        "poster-slide": "https://p3-sdbk2-media.byteimg.com/tos-cn-i-xv4ileqgde/28d652a966364444b5cb925fcace5c47~tplv-xv4ileqgde-resize-w:750.image",
         "country": "Hồng Kông",
         "movie-genre": "Kinh dị, Hài Hước",
         "actor": "Mai Diễm Phương, Mạc Thiếu Thông, Ngọ Mã, Ngô Quân Như, Trần Bách Tường, Trần Hữu, Diệp Đức Nhàn",
         "category": "phim-le",
         "age": "",
-        "slide": "0",
+        "slide": "1",
         "description": "Ma Quỷ bị đày đến sống trong cái đầu to bằng căn phòng của một hồn ma sau khi không thể giao linh hồn cho Quỷ Dữ. Một hướng dẫn viên du lịch, người đang cho khách du lịch xem mô hình quái vật bằng sáp, cũng bị hút vào đầu hồn ma.",
         "sources": {
             "Vietsub": [
