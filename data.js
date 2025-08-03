@@ -1,5 +1,109 @@
 const MOVIES_DATA = [
     {
+        "id": "tac-chi-ton-the-thief-1997",
+        "title": "Tặc Chí Tôn - The Thief",
+        "year": "1997",
+        "poster": "https://hkmdb.com/db/images/movies/22196/TheThief+1998-1-b.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hình sự, Hành động, Hài hước",
+        "actor": "Đào Đại Vũ, Lý Gia Thanh, Lưu Cẩm Linh, Đơn Lập Văn",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "ĐANG CẬP NHẬT",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/kQ_rTg4ET"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/29a4eb66f957"
+                }
+            ]
+        }
+    },
+    {
+        "id": "ich-si-810-tuc-tap-taxi-810-ii-1996",
+        "title": "Đích Sĩ 810 Tục Tập - Taxi 810 II",
+        "year": "1996",
+        "poster": "https://img.tvb.com/mytvs/poster/1087/108629_v1_o.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hài hước, Tâm lý",
+        "actor": "Trịnh Tắc Sĩ, Lý Ỷ Hồng, Thương Thiên Nga",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Shun (Trịnh Tắc Sĩ) — tài xế taxi chất phát và tốt bụng — bắt đầu một chương mới khi gặp E-ng (Lý Ỷ Hồng), một cô gái tạm cư với cá tính hoạt bát.",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/3yxbxY9He"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/0e51776ff0c7"
+                }
+            ]
+        }
+    },
+    {
+        "id": "ich-si-810-taxi-810-1994",
+        "title": "Đích Sĩ 810 - Taxi 810",
+        "year": "1994",
+        "poster": "https://image.tmdb.org/t/p/w500/qUBpSqkiaTHrScYzAaqU9VidujT.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Tâm lý, Tình cảm",
+        "actor": "Trịnh Tắc Sĩ, Lý Mỹ Phuợng, Dương Tuyết Nghi",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Shun (Trịnh Tắc Sĩ) là một tài xế taxi trung niên, tốt bụng nhưng thất lạc vợ con, sống đơn thân với niềm hy vọng tìm lại tình yêu và gia đình trong cuộc sống.",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/TE5KkG6v3"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/badf3335f29f"
+                }
+            ]
+        }
+    },
+    {
+        "id": "iep-huyet-cuong-bon-on-the-run-1994",
+        "title": "Điệp Huyết Cuồng Bôn - On the Run",
+        "year": "1994",
+        "poster": "https://img.tvb.com/mytvs/poster/1295/129442_v1_o.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hình sự, Hành động",
+        "actor": "Ngô Khải Hoa, Thương Thiên Nga, Bạch Bưu",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "ĐANG CẬP NHẬT",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/0C1Eb4ZOg"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/b858c8533d7a"
+                }
+            ]
+        }
+    },
+    {
         "id": "thien-giang-hoanh-tai-tam-kinh-kinh-the-bird-of-prey-2003",
         "title": "Thiên Giáng Hoành Tài Tâm Kinh Kinh - The Bird of Prey",
         "year": "2003",
