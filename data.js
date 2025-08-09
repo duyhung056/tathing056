@@ -159,7 +159,7 @@ const MOVIES_DATA = [
         "id": "tuyen-nhan-handcuff-me-brother-1989",
         "title": "Tuyến Nhân - Handcuff Me, Brother",
         "year": "1989",
-        "poster": "https://hkmdb.com/db/images/movies/13338/HandcuffMeBrother+1989-1-b.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/sgMCBOnhCdGNIsEgDdHTNhvCiDA.jpg",
         "poster-slide": "",
         "country": "Hồng Kông",
         "movie-genre": "Hành động, Tội phạm",
