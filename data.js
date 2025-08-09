@@ -1,5 +1,161 @@
 const MOVIES_DATA = [
     {
+        "id": "thien-su-hanh-ong-angel-1987",
+        "title": "Thiên Sứ Hành Động - Angel",
+        "year": "1987",
+        "poster": "https://image.tmdb.org/t/p/original/AkxfHDAZJw88NATyo7jglP7qwje.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành động",
+        "actor": "Saijo Hideki, Lý Tái Phụng, Phương Trung Tín, Oshima Yukari, Lã Thiếu Linh, Khương Đại Vệ",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Một tổ chức lính đánh thuê mang tên “Iron Angels” được Interpol thuê để đối phó với một băng đảng ma túy tàn bạo, đứng đầu bởi Madam Yeung (Oshima Yukari). Giữa khung cảnh đầy rẫy rượu máu, các nữ chiến binh Angel – Moon Lee, Oshima Yukari, Elaine Lui cùng đồng đội Hideki Saijo, Alex Fong, David Chiang tham gia hành động chiến đấu gay cấn. Họ truy bắt những kẻ tội phạm phản công sau khi Interpol phá hủy ruộng thuốc phiện ở Thái Lan. Qua những màn kung-fu đặc sắc và những pha đấu trí với Madam Yeung, phim thể hiện tinh thần quyết liệt của phe công lý trước sự tàn độc. Hình ảnh quyết chiến kịch liệt nhưng đầy phong cách khiến bộ phim trở thành một tác phẩm hành động kinh điển, thể hiện rõ văn hóa điện ảnh Hồng Kông thập niên 80: mạnh mẽ, bạo liệt và cuốn hút từ đầu đến cuối.",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/tBfiRfHiO"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/904a1229f5bf"
+                }
+            ]
+        }
+    },
+    {
+        "id": "thien-inh-ngoai-truyen-heavenly-legend--1999",
+        "title": "Thiên Đình Ngoại Truyện - Heavenly Legend",
+        "year": "1999",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYTAwYWM3NzctNTcyYy00Y2MzLWIzMzUtYjg1ZDg5ZDlmYTJiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "poster-slide": "",
+        "country": "Đài Loan",
+        "movie-genre": "Võ thuật, Kiếm hiệp, Hài",
+        "actor": "Lâm Chí Dĩnh, Hách Thiệu Văn, Thích Tiểu Long, Từ Nhược Tuyên",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "ĐANG CẬP NHẬT",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/qnqKUiA_D"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/9684f058307d"
+                }
+            ]
+        }
+    },
+    {
+        "id": "ai-thuong-bach-phan-bach-anh-hung-were-no-bad-guys-1997",
+        "title": "Ái Thượng Bách Phân Bách Anh Hùng - We're No Bad Guys",
+        "year": "1997",
+        "poster": "https://hkmdb.com/db/images/movies/8298/WereNoBadGuys+1997-1-b.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành động",
+        "actor": "Trịnh Y Kiện, Trần Tiểu Xuân, Lương Vịnh Kỳ, Từ Nhược Tuyên, Phương Trung Tín",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "ĐANG CẬP NHẬT",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/zmPCtiWrq"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/dee74370526d"
+                }
+            ]
+        }
+    },
+    {
+        "id": "bao-phong-ty-muoi-tinh-fallen-angels-1991",
+        "title": "Bạo Phong Tỷ Muội Tình - Fallen Angels",
+        "year": "1991",
+        "poster": "https://image.tmdb.org/t/p/w500/tTFOQmvy1nnKBYeex1UuMxSY4WD.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Tâm lý",
+        "actor": "Lê Tư, Vương Thư Kỳ, Lưu Ngọc Thúy, Trần Gia Linh",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "ĐANG CẬP NHẬT",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/Q0-16Xt6x"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/30d1aef0b262"
+                }
+            ]
+        }
+    },
+    {
+        "id": "hy-vuong-chi-vuong-simply-actors-2007",
+        "title": "Hý Vương Chi Vương - Simply Actors",
+        "year": "2007",
+        "poster": "https://hkmdb.com/db/images/movies/12327/SimplyActors+2007-119-b.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Chính kịch",
+        "actor": "Chiêm Thụy Văn, Thái Trác Nghiên, Huỳnh Thu Sanh, Tăng Chí Vĩ, Đỗ Vấn Trạch, Ngô Quân Như, Huỳnh Hạo Nhiên",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "ĐANG CẬP NHẬT",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://helvid.net/play/index/321ad79b5670"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://short.icu/4Cst6LZ6N"
+                }
+            ]
+        }
+    },
+    {
+        "id": "sieu-cap-vo-ich-truy-nu-tu-2-chi-cau-tu-hung-tam-love-cruise-1997",
+        "title": "Siêu Cấp Vô Địch Truy Nữ Tử 2 Chi Cẩu Tử Hùng Tâm - Love Cruise",
+        "year": "1997",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOTYyMGE1Y2ItZDBiOC00MTBiLTliYWQtMGY3NjA1MjYwM2VhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hài, Tâm lý",
+        "actor": "Trần Bách Tường, Trương Văn Từ, Quan Tú Mị, Dương Cung Như, Trương Tuệ Nghi, Ngô Thần Quân, Lôi Vũ Dương, Hoàng Trí Hiền",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Paparazzi truy đội gái trên du thuyền, rồi “chuyển hướng” thành theo đuổi tình yêu",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/c38BkJn_Y"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/e32c89d40d45"
+                }
+            ]
+        }
+    },
+    {
         "id": "du-oa-lac-du-anh-hung-cheap-killers-1998",
         "title": "Dũ Đọa Lạc Dũ Anh Hùng - Cheap Killers",
         "year": "1998",
