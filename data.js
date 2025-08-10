@@ -1,5 +1,261 @@
 const MOVIES_DATA = [
     {
+        "id": "hao-giang-phong-van-casino-1998",
+        "title": "Hào Giang Phong Vân - Casino",
+        "year": "1998",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNDEwMTAzNDY4NF5BMl5BanBnXkFtZTcwMTk0NDI5Mg@@._V1_FMjpg_UX1000_.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành động, Tội phạm",
+        "actor": "Nhậm Đạt Hoa, Phương Trung Tín, Trịnh Tắc Sĩ, Quách Khả Doanh, Ngô Chí Hùng, Trần Hào",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Trong mùa hè năm 1991 tại Macau, bối cảnh hỗn loạn vì hai băng đảng đối đầu quyết liệt để tranh giành quyền kiểm soát các sòng bạc. “Giant”, một cá nhân đầy tham vọng, thách thức lãnh đạo băng đảng đối thủ là Bing vào một trận chiến đường phố kéo dài bảy ngày. Dưới sự hỗ trợ của đồng bọn, Giant giành chiến thắng. Căm phẫn, Bing dùng hối lộ để cảnh sát truy nã Giant. Dù đang trong tình trạng nguy kịch, Giant vẫn phản công dữ dội, dẫn đến hàng loạt cuộc đụng độ bạo lực khắp Macau, nơi dân thường sống trong sợ hãi. Cốt truyện hé lộ sự tàn bạo và mưu mô ngầm tạo nên thế giới tội phạm—nơi danh dự, quyền lực và báo thù giao thoa tạo nên bi kịch giữa lòng thành phố.",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/5lml2cC5p"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/43f72ec099c5"
+                }
+            ]
+        }
+    },
+    {
+        "id": "tiem-diet-hanh-ong-unusual-revenge-1996",
+        "title": "Tiêm Diệt Hành Động - Unusual Revenge",
+        "year": "1996",
+        "poster": "https://img.tvb.com/mytvs/poster/1296/129501_v1_o.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành động, Hình sự",
+        "actor": "Huỳnh Nhật Hoa, Từ Cẩm Giang, Trần Pháp Dung, Lạc Ứng Quân, Lạc Đạt Hoa, Dương Ngọc Mai",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "ĐANG CẬP NHẬT",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/3GHo53UQ8"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/f6c7ffa9fbbb"
+                }
+            ]
+        }
+    },
+    {
+        "id": "anh-hung-le-blood-brothers-1991",
+        "title": "Anh Hùng Lệ - Blood Brothers",
+        "year": "1991",
+        "poster": "https://img.tvb.com/mytvs/poster/1295/129498_v1_o.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hình sự, Hành động",
+        "actor": "Vương Thư Kỳ, Trần Huệ Mẫn, Lưu Ngọc Thúy",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Trong bối cảnh Hồng Kông đầu thập niên 1990, câu chuyện xoay quanh cuộc đời của nhóm bạn thân — Hoàng Thụ Kỳ, Huỳnh Trác Ban, Trần Vĩ Minh… — khi đối mặt với những vết nứt của tình thân và lòng trung thành. Giằng co giữa nhu cầu tồn tại và giá trị đạo đức, từng nhân vật buộc phải đối diện với lịch sử mờ ám của bản thân và những lựa chọn có thể thay đổi cả cuộc đời. Sự va chạm giữa tình bạn, quyền lực ngầm, và dục vọng đã tạo nên một vở bi kịch đậm chất Hồng Kông: đẫm máu, đượm buồn, và phản ánh sâu sắc nỗi cô đơn giữa chốn thành thị không khoan nhượng.",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/Pk6bVQSvE"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/14a639c61cdf"
+                }
+            ]
+        }
+    },
+    {
+        "id": "lao-bieu-phat-tien-han-easy-money-1991",
+        "title": "Lão Biểu Phát Tiền Hàn - Easy Money",
+        "year": "1991",
+        "poster": "https://image.tmdb.org/t/p/w500/dMSU0alsYpbAUPBWDwznsWNsKa1.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hài",
+        "actor": "Diệp Tử My, Thành Khuê An, Doãn Quang,",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Ba người bạn — Thư Quang, Thang Thủy và Đại Trác Nhĩ — đến Hồng Kông với tay trắng và thiếu kinh nghiệm. Họ nghĩ rằng phải dùng thủ đoạn thì mới sống sót được. Trong khi loay hoay kiếm sống, họ quen biết hai cô gái là Diệp Lục Tố và Mã Lệ Liên, rồi vào làm trong công ty của Hoàng Phi Hùng. Hoàng Phi Hùng lợi dụng sự ngây thơ của họ để trục lợi. Khi ba người phát hiện ra sự thật, họ quyết định đoàn kết lại để trả thù và đòi lại công bằng cho chính mình. Phim khắc họa bức tranh đời thường nhưng đầy tình huống dở khóc dở cười, kết hợp hài kịch, mưu mẹo và tinh thần phản kháng đầy giải trí.",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/VilWng-KY"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/2dc0d48f3035"
+                }
+            ]
+        }
+    },
+    {
+        "id": "du-nhan-pham-toi-to-seduce-an-enemy-2003",
+        "title": "Dụ Nhân Phạm Tội - To Seduce an Enemy",
+        "year": "2003",
+        "poster": "https://image.tmdb.org/t/p/w500/vsYy7aNaAR6lVPtvU47ZnoDWFvs.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Tâm lý",
+        "actor": "Mạch Gia Kỳ, Tiền Gia Lạc, Lương Mẫn Nghi",
+        "category": "phim-le",
+        "age": "18+",
+        "slide": "0",
+        "description": "Yuki là một nhiếp ảnh gia nổi tiếng bất ngờ phát hiện thông tin bất ổn liên quan đến một đại gia bất động sản có khả năng thôi miên. Hai người liên quan đến vụ việc bị chết một cách bí ẩn, khiến Yuki tin rằng tên đại gia đó chính là kẻ gây tội. Cô quyết tâm thuyết phục cảnh sát về tội ác đáng ngờ đằng sau lớp vỏ quyền lực và quyến rũ. Dưới sức mạnh thôi miên, nạn nhân bị kiểm soát tâm trí đến mức tự sát, tạo nên luồng diện căng thẳng giữa cái nhìn pháp lý và bản năng sinh tồn. Phim khai thác yếu tố giật gân theo kiểu \"erotic thriller\", kết hợp các cảnh gợi cảm, thao túng tâm lý và bạo lực nhẹ nhàng, mở ra một cuộc rượt đuổi giữa sự thật và dối trá – nơi Yuki liều mình đối đầu trước hiểm nguy, nhằm bảo vệ công lý đang bị đe dọa.",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/J1ZrPWt1Q"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/0ec98e6a2af4"
+                }
+            ]
+        }
+    },
+    {
+        "id": "anh-hung-ia-chi-tieu-ao-hoi-shanghai-heroic-story-1992",
+        "title": "Anh Hùng Địa Chi Tiểu Đao Hội - Shanghai Heroic Story",
+        "year": "1992",
+        "poster": "https://hkmdb.com/db/images/movies/7542/ShanghaiHeroicStory+1992-1-b.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Võ hiệp",
+        "actor": "Trương Diệu Dương, Doãn Dương Minh, Lưu Tùng Nhân, Trần Tùng Linh",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Thập niên 1930, bối cảnh đầy biến động và nguy hiểm tại Thượng Hải—nơi nhiều thế lực ngầm tranh giành quyền lực. Hoàng Đại Cương (Trương Diệu Dương đóng) xuất thân từ khu ổ chuột Zha Bei, luôn nung nấu khát vọng giành lại tình yêu với cô ca nữ Tiểu Chu (Vu Lợi). Để đạt được điều đó, anh gia nhập phe Phó Đổng Sứ Viện (刘松仁 đóng) và dần khẳng định vị thế. Tuy nhiên, trong khi anh cống hiến hết mình, phe Tiểu Đao Hội (có Lâm Tử Hưng đóng) lại âm mưu lật đổ phe thịnh hành và liên kết với quân xâm lược Nhật. Mâu thuẫn lên đến đỉnh điểm khi các thành viên trong phe Hoàng bị cuốn vào cuộc chiến quyền lực và mưu đồ ngoại bang. Hoàng Đại Cương phải lựa chọn giữa tình yêu và đấu tranh cho lẽ phải, trong một thị thành nơi lòng trung thành và danh dự trở nên mong manh. Đây là một phim pha trộn hành động khí phách với gam màu chính trị hậu chiến tranh, phản ánh thời kỳ hỗn loạn và tinh thần anh dũng kiên định của những con người bình thường trên đất Thượng Hải.",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/ZXx5zK7Jq"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/74e82cdd516d"
+                }
+            ]
+        }
+    },
+    {
+        "id": "tieu-cong-chan-vo-lam-princess-and-seven-kung-fu-masters-2013",
+        "title": "Tiếu Công Chấn Võ Lâm - Princess and Seven Kung Fu Masters",
+        "year": "2013",
+        "poster": "https://hkmdb.com/db/images/movies/15328/PrincessandSevenKungFuMasters+2013-1-b.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hài, Võ thuật",
+        "actor": "Hồng Kim Bảo, Nguyên Hoa, Trịnh Trung Cơ, Ngô Quân Như, Tăng Chí Vĩ, Ngũ Doãn Long",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Trong thời kỳ đầu của Trung Hoa Dân Quốc, nhiều mối đe dọa từ cường hào, bọn cướp và đặc biệt là quân xâm lược Nhật Bản đang tràn vào vùng Đông Bắc. Bá tướng Lâm (Hùng Kim Bảo) tuy không tinh tường nhưng là người yêu nước, kiên quyết chống lại ngoại bang. Ông cai quản một vùng đất yên bình gọi là Thị Trấn May Mắn (Lucky Town), được bảo vệ bởi bảy cao thủ võ học ẩn cư trong thị trấn. Con gái ông, Cheryl (Tăng Lệ Hân), thường ghé chợ của các cao thủ và được mọi người quý mến. Một trong số đó, Hoàng Chí Lâm, thực sự đem lòng yêu nàng. Khi một đặc vụ Nhật, Kiyoko (Jo Koo), truy đuổi Cheryl vào thị trấn và ép Bá tướng Lâm cưới nàng, sự bình yên bị phá vỡ. Bảy cao thủ buộc phải ra tay, bảo vệ lãnh thổ trước sự xâm lăng. Phim pha trộn hài hước, hành động võ thuật tinh tế và tinh thần yêu nước, đem lại trải nghiệm giải trí vui nhộn, hài hước nhưng vẫn tràn ngập khí thế hiệp nghĩa.",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://helvid.net/play/index/c4fd69b364fc"
+                }
+            ]
+        }
+    },
+    {
+        "id": "thien-tam-bien-bastard-swordsman-1983",
+        "title": "Thiên Tằm Biến - Bastard Swordsman",
+        "year": "1983",
+        "poster": "https://hkmdb.com/db/images/movies/6514/BastardSwordsman+1983-69-b.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Võ hiệp, Kỳ ảo",
+        "actor": "Từ Thiếu Cường, Lưu Tuyết Hoa, Vạn Tử Lương",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Yun Fei-Yang (Norman Chui) là con hoang của chưởng môn Võ Đang, sống trong sự khinh rẻ và bắt nạt từ các môn đồ khác. Song cha âm thầm truyền cho anh bí kíp “Thiên Tằm Thần Công” – một tuyệt kỹ võ công hiếm có nhưng phải giấu kín. Khi phái Võ Đang bị phản bội từ bên trong, Fei-Yang bị vu oan, phải bỏ trốn và tìm đến Môn Phái Vô Địch, nơi anh phát hiện thân thế cùng nguồn cội thực sự của mình. Dưới sự giúp đỡ của bạn bè và người thân, Fei-Yang luyện tinh thành Thiên Tằm Thần Công, quyết tâm trả thù, phục hồi danh dự và bảo toàn Võ Đang. Phim nổi bật với các pha đấu kiếm siêu thực, hiệu ứng wire-fu kỳ ảo, và những chiêu thức mang không khí thần thoại, khiến người xem mãn nhãn và khó quên",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/jna9IupRcG"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/372b59131a1d"
+                }
+            ]
+        }
+    },
+    {
+        "id": "hoa-chung-angel-terminators-ii-1993",
+        "title": "Hỏa Chủng - Angel Terminators II",
+        "year": "1993",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYzc4NTVlMjItN2EzNC00YmFmLTljOGItNDJiODAzZjU3NmFmXkEyXkFqcGc@._V1_.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành động",
+        "actor": "Lý Tái Phụng, Oshima Yukari, Hồ Tuệ Trung, Bạch Bưu, La Liệt",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Yukari Oshima thủ vai Bullet, một nữ triad vừa mới ra tù và tái ngộ với nhóm bạn cũ gồm Moon Lee (vai Chitty) và những thanh niên lêu lỏng khác. Cô bị từ chối tiền từ ông trùm cũ và nổi giận khi ông ta yêu cầu Chitty làm hostess, dẫn đến một cuộc xô xát khốc liệt. Khi một người bạn bị dụ dỗ vào ngành công nghiệp phim khiêu dâm, mọi chuyện trở nên tồi tệ hơn — các cô bạn bị bắt cóc, kéo theo sự tham gia của cảnh sát, bao gồm bố của Bullet và \"Big Aunt\" (Sibelle Hu), trong một cuộc chiến đầy đẫy hành động. Cốt truyện xoay quanh các yếu tố xã hội đen, mại dâm, báo thù và mối quan hệ căng thẳng giữa cảnh sát và Bullet. Cuối cùng, Bullet cùng nhóm bạn tiến hành nhiệm vụ giải cứu gay cấn, đẩy cao căng thẳng đến một cái kết cháy nổ đầy hành động. Đây là một trong những phim nổi bật của thể loại Girls With Guns, với hàng loạt cảnh đấu tay đôi, bạo lực, cháy nổ và cao trào đầy kịch tính.",
+        "sources": {
+            "Thuyết Minh": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/3sfkZXyJq"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/5a82935bcd36"
+                }
+            ]
+        }
+    },
+    {
+        "id": "thien-su-hanh-ong-2-hoa-phung-cuong-long-angel-ii-1988",
+        "title": "Thiên Sứ Hành Động 2 Hỏa Phụng Cuồng Long - Angel II",
+        "year": "1988",
+        "poster": "https://hkmdb.com/db/images/movies/7068/AngelII+1988-48-b.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành động",
+        "actor": "Lý Tái Phụng, Phương Trung Tín, Trần Đình Uy, Lã Thiếu Linh",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Bộ phim bắt đầu khi các đặc vụ Angel – Moon, Elaine và Alex – kết thúc một nhiệm vụ căng thẳng và quyết định đi nghỉ tại Kuala Lumpur, Malaysia. Tại đây, Alex gặp lại hai người bạn thời đại học là Peter và Marco, gây ra nhiều khoảnh khắc vui vẻ và thư giãn. Tuy nhiên, mọi thứ nhanh chóng thay đổi khi Elaine phải lòng Peter, không biết rằng anh ta thực chất là thủ lĩnh một phong trào cách mạng, âm mưu lật đổ chính phủ và loại bỏ ảnh hưởng phương Tây. Marco – bạn thân khác của Alex – lại là một đặc vụ CIA nằm vùng theo dõi Peter. Mâu thuẫn vỡ lẽ khi Elaine chứng kiến cảnh Marco bị giết, và cô cũng bị bắt. Alex cùng Moon và nữ đặc vụ Kharina hợp lực tấn công căn cứ trong rừng của Peter để giải cứu Elaine. Phim kết thúc bằng màn đọ sức căng thẳng, cháy nổ kịch tính tại khu rừng nhiệt đới",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/jSA13DWb2"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/9b7d5dfc9f45"
+                }
+            ]
+        }
+    },
+    {
         "id": "thien-su-hanh-ong-angel-1987",
         "title": "Thiên Sứ Hành Động - Angel",
         "year": "1987",
