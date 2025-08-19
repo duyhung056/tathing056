@@ -1,5 +1,499 @@
 const MOVIES_DATA = [
     {
+        "id": "phi-ho-hung-phong-2-thuong-than-hanh-ong-special-duties-unit-1996-1995",
+        "title": "Phi Hổ Hùng Phong 2 Thưởng Than Hành Động - Special Duties Unit 1996",
+        "year": "1995",
+        "poster": "https://img.tvb.com/mytvs/poster/1299/129884_v1_o.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành động, Hình sự",
+        "actor": "Ngô Nghị Tướng, Trần Chỉ Tinh, Mạc Gia Nghiêu, Trần Khải Thái, Hồng Thiên Minh",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Truyện phim tiếp nối về các đặc nhiệm trong đơn vị Special Duties Unit (SDU) thực thi một nhiệm vụ giải cứu trên bờ biển. Đội gồm Ngô Nghị Tướng, Mạc Gia Nghiêu cùng bạn bè phải đối mặt với một tên cầm đầu tội phạm nguy hiểm. Trong quá trình tác chiến, mối quan hệ giữa các thành viên rạn nứt do tranh giành quyền kế nhiệm. Khi họ cố gắng bảo vệ con tin và ngăn chặn kẻ xấu trốn thoát, một cuộc đọ súng căng thẳng nổ ra, với kết cục đầy kịch tính giữa tình đồng đội và mệnh lệnh cấp trên",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/OTPY8ubOa"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/802e1b6a5342"
+                }
+            ]
+        }
+    },
+    {
+        "id": "phi-ho-hung-phong-special-duties-unit-1994",
+        "title": "Phi Hổ Hùng Phong - Special Duties Unit",
+        "year": "1994",
+        "poster": "https://img.tvb.com/mytvs/poster/1295/129453_v1_o.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành động",
+        "actor": "Trịnh Hạo Nam, Trần Diệu Anh, Lâm Kính Cương",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Phim xoay quanh đội tinh nhuệ Special Duties Unit (SDU), một lực lượng đặc nhiệm của cảnh sát Hồng Kông chuyên thực hiện các nhiệm vụ khẩn cấp và nguy hiểm. Trịnh Hạo Nam và Trần Diệu Anh là các sĩ quan xuất sắc trong đội, được giao vai trò xử lý các tình huống bom nổ, bắt cóc và khủng bố. Trong quá trình hành động, họ không chỉ đối mặt với tội phạm tàn độc mà còn phải đương đầu với căng thẳng nội bộ, áp lực từ cấp trên và các mâu thuẫn giữa cá nhân. Bộ phim kết hợp các cảnh đột kích, đấu súng căng thẳng và chiến thuật trong urban warfare, khắc họa hình ảnh những người lính cảnh sát thi đấu như “chú hổ bay” bảo vệ thành phố. Sự đan xen giữa hành động dồn dập và tình huống tâm lý căng thẳng tạo nên sức hút riêng.",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/7BX1FvMeK"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/f9b971d7a8aa"
+                }
+            ]
+        }
+    },
+    {
+        "id": "long-ho-ac-canh-skinny-tiger-and-fatty-dragon-1990",
+        "title": "Long Hổ Đặc Cảnh - Skinny Tiger and Fatty Dragon",
+        "year": "1990",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOTc2NGZlZjItM2ZhNy00MDgwLWEwMjYtZmJjYzEwM2MxM2IzXkEyXkFqcGc@._V1_.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành Động, Hài Hước",
+        "actor": "Hồng Kim Bảo, Mạch Gia",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Hai cảnh sát Hồng Kông—“Fatty Dragon” (Sammo Hung) và “Skinny Tiger” (Karl Maka)—bất đắc dĩ trở thành cặp đôi truy quét tội phạm kỳ lạ. Trong khi phá một vụ bắt cóc và chặn cả một vụ buôn cocaine của băng đảng Prince Tak, họ còn làm xáo trộn lễ cưới của Phó Tổng thanh tra cảnh sát. Bị trục xuất sang Singapore để… hạ hỏa, hai người càng không chịu nổi cảnh yên bình—đến cả karaoke cũng phải “náo loạn”! Khi trở về Hồng Kông, và thấy bạn gái của Baldy bị tấn công, họ quyết định đối đầu trực tiếp với băng đảng. Cảm xúc được đẩy đến độ cao khi trận đấu cuối với Prince Tak và anh trai diễn ra tại nhà kho đầy bình gas—hỗn hợp giữa võ thuật gay cấn và hài kịch cao trào.",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/ycWL5CEZP"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/28deb1145b1c"
+                }
+            ]
+        }
+    },
+    {
+        "id": "can-am-tuong-chieu-sworn-brothers-1987",
+        "title": "Can Đảm Tương Chiếu - Sworn Brothers",
+        "year": "1987",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzIwZDg1ZTItNTNiMy00YWQwLWIyNjUtMTU3ZDRmMDNjZjNkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành động, Tội phạm",
+        "actor": "Lưu Đức Hoa, Trương Quốc Cường, Dương Quần, Đổng Biêu, Tiêu Hồng Mai, Tiền Gia Lạc",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Hai người bạn thanh mai trúc mã, Lâm Định Nhất (Andy Lau) và Thanh tra Ngạn Quách (Trương Quốc Cường), lớn lên như anh em ruột. Nhưng định mệnh đưa họ sang hai bờ đối nghịch: Định Nhất trở thành thuộc hạ triad, còn Quách là sĩ quan cảnh sát mới từ Scotland Yard hồi hương. Khi đầu nậu Yeung Tung-hoi dụ họ vào một phi vụ buôn lậu ma túy, mọi chuyện trở thành cạm bẫy khiến Định Nhất lãnh án, trong khi Quách đứng trước lựa chọn giữa công lý và tình nghĩa. Những xung đột tâm lý, cảm xúc và cả lý tưởng của hai người bị kéo căng tới đỉnh điểm. Tình anh em bị thử thách đến tận cùng, cuối cùng dẫn đến một kết cục bi kịch không thể tránh được. Phim thể hiện rõ phong cách heroic bloodshed của thập niên 80: bạo lực, bi tráng và cảm xúc mãnh liệt.",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/W3IF7_RJL"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/e00daaceb301"
+                }
+            ]
+        }
+    },
+    {
+        "id": "lap-bao-hanh-ong-cheetah-on-fire-1992",
+        "title": "Lạp Báo Hành Động - Cheetah on Fire",
+        "year": "1992",
+        "poster": "https://image.tmdb.org/t/p/w500/eI3zFkd9FLWtn1PKXtwxb7LrnWB.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành động",
+        "actor": "Chân Tử Đan, Ngô Gia Lệ, Trương Mẫn, Quan Lễ Kiệt, Thành Khuê An, Lưu Gia Huy, Lô Huệ Quang, Cao Hùng",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Một tay buôn vũ khí có trong tay một con chip máy tính bí mật dùng để chế tạo tên lửa tối tân. Trước âm mưu đem bán cho nước ngoài, CIA, cảnh sát địa phương và các tổ chức tội phạm khác cùng dấn thân vào cuộc truy đuổi khốc liệt để thu giữ chiếc chip. Donnie Yen vào vai Ronald – một đặc vụ CIA kiêu ngạo đầy kỹ năng, hợp tác với các cảnh sát bản địa như Ngô Gia Lệ và Sharla Cheung. Tuy nhiên, Long Hair (Gordon Liu) cùng một nhóm ác nhân khác cũng không dễ để bị bỏ qua. Phim dẫn dắt khán giả qua những màn đấu súng, kung-fu, nổ tung và đám hỗn loạn trong rừng nhiệt đới—đỉnh điểm là màn so tài martial arts giữa Donnie và Gordon, đại diện cho hai thế hệ khác nhau trong làng kung-fu.",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/QnaWwNFI9"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/f66d379d8162"
+                }
+            ]
+        }
+    },
+    {
+        "id": "kinh-thien-ai-tac-vuong-operation-billionaires-1998",
+        "title": "Kinh Thiên Đại Tặc Vương - Operation Billionaires",
+        "year": "1998",
+        "poster": "https://img.tvb.com/mytvs/poster/1225/122420_v1_o.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hình sự, Tội phạm",
+        "actor": "Nhậm Đạt Hoa, Diêu Lạc Di, Đàm Diệu Văn, Tào Vĩnh Liêm, Ngô Đình Diệp",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Cheung Chi-Ho (Simon Yam), một tên tội phạm siêu thông minh và táo bạo, lãnh đạo một tổ chức tội phạm chuyên bắt cóc con của những tỷ phú hùng mạnh, và đòi tiền chuộc khổng lồ. Khởi đầu thuận lợi, Chi-Ho hợp tác cùng kẻ tẩu thoát nguy hiểm Cyclone để thực hiện thêm một vụ bắt cóc lớn. Khi Cyclone bật lại và bị cảnh sát bắt giữ, Cheung lên kế hoạch liều lĩnh là bắt cóc một quan chức cấp cao trong chính phủ để cứu đồng bọn. Mặc dù có vẻ như một nhân vật xấu, Cheung Chi-Ho trong phim cũng thể hiện phẩm chất \"dân tình\" như yêu thương vợ và đối xử tử tế với người dân, tạo ra một diện mạo ly kỳ giữa tội ác và nhân tính.",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/6wGNBjk6P"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/2caec4804285"
+                }
+            ]
+        }
+    },
+    {
+        "id": "kinh-tam-ong-hon-astonishing-2004",
+        "title": "Kinh Tâm Động Hồn - Astonishing",
+        "year": "2004",
+        "poster": "https://hkmdb.com/db/images/movies/10637/Astonishing+2004-1-b.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Kinh dị, Tâm lý",
+        "actor": "Phương Trung Tín, Chung Lệ Đề, Hồng Kim Bảo, Lý Thái Hoa",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Mandy (Christy Chung) nhận được một chiếc DVD bí ẩn, trong đó một người đàn ông cảnh báo rằng cô sẽ mất chồng, cuộc sống hiện tại và cả bản dạng của mình. Dù hoảng sợ, cô vẫn bỏ qua và tiếp tục sống như bình thường. Tuy nhiên, một tai nạn xe nghiêm trọng xảy ra khiến cô hôn mê ba tuần. Khi tỉnh dậy, mọi thứ đều đảo lộn — cô không được ai nhận ra là Mandy, mà mọi người lại gọi cô là Fiona — trợ lý làm việc bên chồng cô. Ngay cả chồng cô, Kenny (Alex Fong), cũng không thể nhớ được cuộc sống chung của họ. Mandy bắt đầu nghi ngờ bản thân rơi vào một thế giới song song, ảo mộng hay thực tại hoán đảo tâm trí. Phim tràn ngập những nghi vấn siêu thực, đưa người xem vào một mê trận nhận diện mà chẳng thể tin nổi điều gì là thật.",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/Zoyq2WgXe"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/ba1b5f5598dd"
+                }
+            ]
+        }
+    },
+    {
+        "id": "kim-tien-e-quoc-i-corrupt-all-cops-2009",
+        "title": "Kim Tiền Đế Quốc - I Corrupt All Cops",
+        "year": "2009",
+        "poster": "https://hkmdb.com/db/images/movies/13777/ICorruptAllCops+2009-1-b.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành động, Tội phạm",
+        "actor": "Huỳnh Thu Sanh, Trần Dịch Tấn, Phương Lực Thân, Lương Gia Huy, Lâm Bảo Di, Từ Tử San",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Bối cảnh thập niên 1960–70 tại Hồng Kông dưới thời thuộc địa Anh, nơi tham nhũng ở lực lượng cảnh sát hoành hành như một thế lực ngầm. Đứng đầu là Thanh tra Trưởng Lak cùng đồng minh — Unicorn, Gale và Gold — họ rửa tiền và thao túng công lý. Khi không bắt được tội phạm, Unicorn sẵn sàng ép buộc người vô tội nhận tội thay để bảo vệ hệ thống tham nhũng. Sự tồn tại của chế độ này bị đe dọa khi chính quyền Anh thành lập Ủy ban chống tham nhũng độc lập (ICAC), do Thanh tra Yim (Lâm Bảo Di) điều hành. Bong (Alex Fong), sau khi từng bị oan, và Unicorn cũng gia nhập ICAC—dù bị đe dọa tấn công tâm lý và bạo lực, nhóm này vẫn quyết tâm phá vỡ đế chế tham nhũng.",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/6Wk3GH7ud"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/8b34c9b582f1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "kiem-no-slave-of-the-sword-1993",
+        "title": "Kiếm Nô - Slave of the Sword",
+        "year": "1993",
+        "poster": "https://hkmdb.com/db/images/movies/7766/SlaveoftheSword+1993-41-b.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Võ Hiệp, Tâm Lý",
+        "actor": "Mạc Thiếu Thông, Trần Bảo Liên, Nghê Thục Quân, Lưu Học An",
+        "category": "phim-le",
+        "age": "18+",
+        "slide": "0",
+        "description": "Mu-Lin (Pauline Chan), con gái một lão nghệ sĩ rong (street performer), được chuẩn bị một cuộc hôn nhân sắp đặt. Tuy nhiên, khi cha cô bị ám sát bởi một kẻ lạ, cô bị bán vào lầu xanh và rơi vào tay Madam Yeh Hong (Joyce Ngai) – người có ảnh hưởng lớn trong giới. Ở đó, Mu-Lin bị huấn luyện theo những cách tàn nhẫn cả về thể xác lẫn tinh thần. Cô gặp Kim (Jackson Lau), một sát thủ lạnh lùng, người cùng Madam Hong dường như có âm mưu sâu xa. Theo diễn biến, Mu-Lin dần nhận ra mối liên hệ kỳ quái giữa bản thân và hai nhân vật quyền lực kia – bao gồm một thái giám (Max Mok) đầy quyền lực và bí ẩn. Phim hội tụ giữa yếu tố hành động kiếm hiệp, tình dục khiêu gợi và bạo lực tâm lý, tạo ra một không khí u ám, căng thẳng và đầy tranh cãi.",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/c7dNdAJEL"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/f87dd2d27421"
+                }
+            ]
+        }
+    },
+    {
+        "id": "than-tu-ai-bang-gia-cul-de-sac-2002",
+        "title": "Thân Tử Đại Bang Giá - Cul-De-Sac",
+        "year": "2002",
+        "poster": "https://img.tvb.com/mytvs/poster/1299/129892_v1_o.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hình sự, Tội phạm",
+        "actor": "Mã Tuấn Vĩ, Ngô Nghị Tướng, Ngô Ỷ Lợi, Quảng Văn Tuân",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "ĐANG CẬP NHẬT",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/CF7fFxXAe"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/999a628c61e6"
+                }
+            ]
+        }
+    },
+    {
+        "id": "xuan-kieu-cuu-chi-minh-love-off-the-cuff-2017",
+        "title": "Xuân Kiều Cứu Chí Minh - Love Off the Cuff",
+        "year": "2017",
+        "poster": "https://www.hkmdb.com/db/images/movies/19367/LoveOfftheCuff+2017-1-b.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Tâm lý, Lãng mạn",
+        "actor": "Dương Thiên Hoa, Dư Văn Lạc, Tần Bái",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Jimmy và Cherie đã bên nhau bảy năm và mối quan hệ trở nên nhàm chán. Đối diện với nhiều thử thách: từ mệt mỏi về tình dục, hiểu lầm hài hước từ chú chó cưng đến bạn thời thơ ấu của Jimmy muốn xin tinh trùng để thụ tinh nhân tạo, và câu chuyện hôn nhân của cha Cherie với phụ nữ trẻ. Một trận động đất ở Đài Loan đã tạo ra bước ngoặt khiến Cherie quyết định chia tay. Qua thời gian xa nhau, cả hai mới nhận ra điều mình thực sự muốn, và Jimmy cuối cùng đã ngỏ lời cầu hôn Cherie. Đây là phần kết của bộ ba phim tình cảm hài nổi tiếng, mang đến cả giọt nước mắt và tiếng cười đầy chân thành.",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/UjSrtN_Og"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/368cba2c3935"
+                }
+            ]
+        }
+    },
+    {
+        "id": "da-luong-khuyen-the-pye-dog-2007",
+        "title": "Dã Lương Khuyển - The Pye-Dog",
+        "year": "2007",
+        "poster": "https://www.hkmdb.com/db/images/movies/12277/ThePyeDog+2007-1-b.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Chính kịch",
+        "actor": "Trần Dịch Tấn, Lâm Tử Tường, Trương Quốc Cường, Lý Lệ Trân, Lâu Nam Quang",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Wang, một cậu bé 12 tuổi với khuyết khuyết về học tập và gần như không nói, sống cùng bà ngoại trong niềm hy vọng cha mình – một đại ca xã hội đen – sẽ trở về khi hoa nhựa nở. Một ngày, Dui – vốn là tay sai triad – được cài làm lao công tại trường học của Wang với nhiệm vụ bắt cóc cậu bé để ép cha em. Tuy nhiên, Dui dần gắn kết với Wang và cô giáo thay thế Miss Cheung, người thực chất là một tay thiện xạ bảo vệ. Tình bạn kỳ lạ giữa ba người nảy nở trong sự hỗn loạn dưới bầu không khí truy sát khốc liệt. Khi buổi trình diễn Giáng Sinh đến gần, Wang bất ngờ hát – giọng nói trong sáng làm tan chảy bầu không khí căng thẳng, trước khi một cuộc đấu súng nổ ra giữa Dui, các tay sát thủ và Miss Cheung để bảo vệ người cha và tình thân mới hình thành",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/7dQJd8hHy"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/54f1f3d5acc8"
+                }
+            ]
+        }
+    },
+    {
+        "id": "hoang-ai-tien-o-thu-",
+        "title": "Hoàng Đại Tiên Ô Thử - Die Harder",
+        "year": "1995",
+        "poster": "https://image.enjoymovie.net/gwyYs3B3YDs_BpaZwbGol_SCb9E=/640x869/smart/core/p/QRpKlmgbN-.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành động",
+        "actor": "Chung Thục Tuệ, Ngô Nghị Tướng",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Một cảnh sát tham nhũng tên Fu (Ben Ng) bỏ trốn sang Trung Quốc đại lục để thoát khỏi vòng pháp luật. Sonia Chan (Lily Chung), một nữ cảnh sát cương trực, bất chấp lệnh ngăn cản từ cấp trên, quyết tâm truy bắt Fu bất chấp ranh giới quốc gia. Trong khi đó, hai người bị Fu hại trót lọt trước đó tình cờ gặp lại anh ta—họ quyết chí trả thù. Khi cả nhóm bị Fu nhốt trong một tòa nhà, một cuộc hỗn chiến nảy lửa xảy ra. Trong lúc căng thẳng tột độ, đặc nhiệm từ lục lượng an ninh khẩn cấp bất ngờ xuất hiện, mở ra một màn đấu súng ác liệt dẫn đến kết cục nghẹt thở",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/UHwBLILOT"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/74659ef3eb43"
+                }
+            ]
+        }
+    },
+    {
+        "id": "huynh-e-brotherhood-1986",
+        "title": "Huynh Đệ - Brotherhood",
+        "year": "1986",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNTA5NDYxNjAtYjBkNy00MDliLWI5NTctNDIzYTJjM2Y1MzlhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành động, Hình sự",
+        "actor": "Lý Tu Hiền, Vạn Tử Lương",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Bộ phim xoay quanh hai cảnh sát xuất sắc—Lưu và Cường—những người thân thiết như anh em. Khi Cường bị đuổi việc vì hành động quá khích với nghi phạm, anh ta rơi vào cảnh túng quẫn và bắt đầu bị lôi kéo vào đường dây tội phạm. Lưu, trong nỗ lực bảo vệ bạn, phải cung cấp lời khai sai, khiến chính người em trai là cảnh sát cao cấp của Lưu nghi ngờ. Căng thẳng càng dâng cao khi Cường dấn thân sâu hơn vào giới tội phạm, và Lưu bị đặt giữa tình bạn và nghĩa vụ nghề nghiệp. Khi em trai Lưu tiến hành điều tra gang và Lưu bị truy đuổi từ cả hai phía, xung đột đạt tới đỉnh điểm với một kết thúc bạo lực và đầy cảm xúc—vẽ nên bi kịch của sự hy sinh và lòng trung thành.",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/Sm2O9Lgg1B"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/3dd10a27694c"
+                }
+            ]
+        }
+    },
+    {
+        "id": "duy-nga-oc-ton-an-eye-for-an-eye-1990",
+        "title": "Duy Ngã Độc Tôn - An Eye for an Eye",
+        "year": "1990",
+        "poster": "https://www.hkmdb.com/db/images/movies/10368/AnEyeforanEye+1990-5-b.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành động, Hình sự",
+        "actor": "Vương Tổ Hiền, Mạc Thiếu Thông, Lâm Tuấn Hiền",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Trong thế giới xã hội đen khắc nghiệt, Fung – con gái của một đại ca triad – trở thành người lãnh đạo khi cha cô bị bắt bởi bạn trai là cảnh sát. Fung quyết tâm cải tổ băng đảng theo hướng hợp pháp, nhưng Cheong, thủ hạ thân tín, phản bội và thao túng cô bằng bạo lực và tống tiền. Trong khi đó, bạn trai cảnh sát của Fung cũng chịu áp lực và ghen tuông từ đồng nghiệp. Một mối tình rối ren giữa công lý và lòng tranh giành quyền lực khiến mọi căng thẳng dâng cao. Đến đỉnh điểm, một trận chiến với dao diễn ra trên đường phố, với cảnh máu me dữ dội và tàn phá mạnh mẽ hình ảnh triad của bộ phim",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/PNJX-0KoT"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/d425c07dd73a"
+                }
+            ]
+        }
+    },
+    {
+        "id": "that-hieu-si-quan-nightmares-in-precinct-7-2001",
+        "title": "Thất Hiệu Si Quán - Nightmares in Precinct 7",
+        "year": "2001",
+        "poster": "https://www.hkmdb.com/db/images/movies/9622/NightmaresinPrecinct7+2001-1-b.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Ma Quái",
+        "actor": "Hứa Chí An, Quan Lễ Kiệt, Lý Lệ Trân, Lôi Vũ Dương, Trương Đạt Minh, Viên Khiết Oánh",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Fong Jing (Andy Hui) là một cảnh sát xuất sắc nhưng kiêu ngạo, làm việc tại Đơn vị Điều tra Tội phạm Nghiêm trọng. Trong một cuộc vây bắt, anh bị bắn vào đầu và rơi vào hôn mê suốt hai năm. Khi tỉnh lại, anh phát hiện mình có khả năng nhìn thấy và trò chuyện với những linh hồn người chết",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/_GjJYONzq"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/9dabb5d6bf46"
+                }
+            ]
+        }
+    },
+    {
+        "id": "bao-luc-hinh-canh-violent-cop-1-2000",
+        "title": "Bạo Lực Hình Cảnh - Violent Cop (1)",
+        "year": "2000",
+        "poster": "https://a.ltrbxd.com/resized/film-poster/3/4/7/4/7/5/347475-violent-cop-0-1000-0-1500-crop.jpg?v=38d7e18bf1",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành động",
+        "actor": "Vương Mẫn Đức, Huỳnh Thu Sanh, Lê Diệu Tường, Hà Gia Câu",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Một cảnh sát cứng đầu, Cuba Koo, bất chấp kỷ luật để hợp tác cùng một tú bà lão luyện — Tai Pan-Kim — nhằm truy bắt kẻ sát nhân hàng loạt bệnh hoạn. Hung thủ tàn độc này cắt bỏ bộ phận sinh dục của các nạn nhân nam — nạn nhân đều là khách hàng của Tai Pan-Kim. Trong khi cuộc điều tra căng thẳng tiến triển, mối quan hệ phức tạp giữa Cuba và Kim dần hé lộ cả cảm xúc lẫn chia rẽ đạo đức. Một số cảnh mầm màng tình cảm giữa nhân vật cũng được khéo léo lồng vào giữa bầu không khí đen tối và căng thẳng. Phim khắc họa rõ nét sự mâu thuẫn giữa lý tưởng công lý và phương pháp điều tra phi truyền thống, đồng thời khai thác động cơ tâm lý bệnh lý của một kẻ giết người bí ẩn.",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/gqC-Zv5CB"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/2222575f3ea5"
+                }
+            ]
+        }
+    },
+    {
+        "id": "sat-chi-luyen-out-on-a-limb-1994",
+        "title": "Sát Chi Luyến - Out on a Limb",
+        "year": "1994",
+        "poster": "https://img.tvb.com/mytvs/poster/1295/129449_v1_o.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành động",
+        "actor": "La Gia Lương, Trần Pháp Dung, Lê Mỹ Nhàn",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "ĐANG CẬP NHẬT",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/2QY4E1Cro"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/081b8a836ba5"
+                }
+            ]
+        }
+    },
+    {
+        "id": "mat-lo-cuong-bon-the-fugitives-1991",
+        "title": "Mạt Lộ Cuồng Bôn - The Fugitives",
+        "year": "1991",
+        "poster": "https://img.tvb.com/mytvs/poster/1294/129340_v1_o.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành động",
+        "actor": "Trương Triệu Huy, Ôn Bích Hà, Phương Cang, Trần Bảo Nghi, Huỳnh Nhất Phi",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Ngô Chí Thu liều mạng xử lý các vụ án, điều này thường gây rắc rối cho cấp trên. Chí Thu vô tình gặp cô gái hộp đêm là  Anh, họ từ đôi oan gia trở thành người yêu của nhau. Trong một buổi tiệc Thu bị Christine dụ dỗ và đưa anh về biệt thự của cô ta, sau đó Thu nảy sinh quan hệ với Christine sau khi mất kiểm soát do uống rượu. Anh nhận được thông báo và chạy đến biệt thự, thấy Chính lặng lẽ lẻn vào nhưng Thu đã trốn thoát kịp thời. Khi gặp Christine, anh phát hiện ra rằng cô đang vui vẻ với một người đàn ông và anh đã vô tình giết chết cô trong cơn giận dữ. Chính cử Thu đi điều tra vụ sát hại Christine, và dần dần mọi chuyện được hé mở…",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/u3FQ7l2gN"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/f4f9e6990c43"
+                }
+            ]
+        }
+    },
+    {
         "id": "hao-giang-phong-van-casino-1998",
         "title": "Hào Giang Phong Vân - Casino",
         "year": "1998",
