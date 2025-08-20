@@ -1,5 +1,481 @@
 const MOVIES_DATA = [
     {
+        "id": "tuyet-ai-song-kieu-handsome-siblings-1992",
+        "title": "Tuyệt Đại Song Kiêu - Handsome Siblings",
+        "year": "1992",
+        "poster": "https://www.hkmdb.com/db/images/movies/7572/HandsomeSiblings+1992-118-b.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Võ hiệp",
+        "actor": "Lưu Đức Hoa, Lâm Thanh Hà, Trương Mẫn, Ngô Mạnh Đạt, Diệp Đức Nhàn, Ngô Trấn Vũ, Miêu Kiều Vỹ, Viên Vịnh Nghi",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Mỗi 18 năm, võ lâm tổ chức đấu trường chọn ra minh chủ mới. Nữ chủ Mộng Hoa Cung giành chiến thắng nhưng bị giao phó nhiệm vụ tiêu diệt “Mười Đại Ác Nhân”. Chồng bà — Ân Nam Thiện — tin rằng họ vô tội và phản đối, dẫn đến một trận chiến khiến ông bị liệt và mất tiếng. Bà nhận nuôi một cô gái giả trai tên Hoa Vô Khiết (Lâm Thanh Hà), trong khi Mười Ác Nhân nuôi dưỡng con trai của Ân Nam Thiện — Tiểu Ngư Nhi (Lưu Đức Hoa) — nhằm biến cậu thành đại ác nhân, 18 năm sau, Tiểu Ngư Nhi và Hoa Vô Khiết tình cờ gặp nhau tại đấu trường, phát sinh tình cảm, đồng thời dần hé lộ thân thế oan trắc",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/DwbQ-g4A3"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/7e0ff99c8efb"
+                }
+            ]
+        }
+    },
+    {
+        "id": "tuy-quyen-2-drunken-master-ii-1994",
+        "title": "Túy Quyền 2 - Drunken Master II",
+        "year": "1994",
+        "poster": "https://www.hkmdb.com/db/images/movies/7798/DrunkenMasterII+1994-22-b.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Võ thuật",
+        "actor": "Thành Long, Mai Diễm Phương, Địch Long, Huỳnh Nhật Hoa, Lưu Gia Lương, Lưu Đức Hoa, Tiền Gia Lạc, Ông Hồng, Lô Huệ Quang",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Wong Fei-hung dính líu vào một âm mưu buôn lậu cổ vật Trung Quốc do tổng lãnh sự Anh đạo diễn. Anh bị bắt, đòi bán đất Po Chi Lam để chuộc thân. Người dân cùng thợ thép chống lại, phát hiện hàng hóa thực chất là cổ vật giá trị. Fei-hung kết bè với họ, chiến đấu đòi công lý. Đỉnh điểm là trận đấu tại nhà máy thép: Fei-hung dùng chiến thuật “Drunken Boxing”, nhảy múa giữa sàn đầy cồn công nghiệp, đánh bại tên côn đồ John (Ken Lo) một cách ngoạn mục và hài hước",
+        "sources": {
+            "Thuyết Minh": [
+                {
+                    "name": "Server 1",
+                    "url": "https://helvid.net/play/index/04306327c68d"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://short.icu/cS0ovFPH-"
+                }
+            ]
+        }
+    },
+    {
+        "id": "tuy-quyen-3-drunken-master-iii-1994",
+        "title": "Túy Quyền 3 - Drunken Master III",
+        "year": "1994",
+        "poster": "https://a.ltrbxd.com/resized/film-poster/8/2/8/828-drunken-master-iii-0-1000-0-1500-crop.jpg?v=e2c00824b4",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Võ thuật",
+        "actor": "Lưu Đức Hoa, Lưu Gia Huy, Lý Gia Hân, Nhậm Đạt Hoa, Lưu Gia Lương, Trịnh Thiếu Thu, Hà Gia Câu",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Phim lấy bối cảnh đầu thế kỷ 20, xoay quanh âm mưu của Bạch Liên Giáo nhằm hỗ trợ nhà độc tài Viên Thế Khải lên làm hoàng đế Trung Hoa. Một chiếc nhẫn ngọc của công chúa Sum-yuk (Michelle Reis) là chìa khóa bảo đảm quyền lực ấy. Người cách mạng Yeung Kwan (Andy Lau) bắt giữ nàng, rồi tìm đến lương y Wong Kei-ying (Adam Cheng) và con trai Wong Fei-hung (Willie Chi) để lẩn trốn. Fei-hung học Dịch Côn Quyền (Drunken Boxing) từ lão sư tịch (Lau Kar-leung) để bảo vệ công chúa. Khi giáo phái Bạch Liên truy lùng, cả nhóm buộc phải chiến đấu bảo vệ danh dự cách mạng.",
+        "sources": {
+            "Vietsub": []
+        }
+    },
+    {
+        "id": "tuy-quyen-drunken-master-1978",
+        "title": "Túy Quyền - Drunken Master",
+        "year": "1978",
+        "poster": "https://www.hkmdb.com/db/images/movies/5923/DrunkenMaster+1978-59-b.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Võ Thuật, Hài Hước",
+        "actor": "Thành Long, Viên Tiểu Điền, Hoàng Chính Lợi, Thạch Thiên",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Wong Fei-hung, một thanh niên láu cá và ngang ngạnh, liên tục gây rắc rối. Để răn đe, cha cậu tìm đến “Quỷ Vũ” (Yuen Siu-tien) — người chú say khướt nhưng là bậc thầy trong môn phái võ rượu. Sau những buổi huấn luyện hà khắc và đầy tiếng cười, Fei-hung cuối cùng học được \"Bát Tiên Tửu Khí\" (Eight Drunken Immortals) và dùng chính phong cách rung lắc này để chiến thắng đại cao thủ Yim Tit-sam (Hoàng Tráng Lợi), một sát thủ Tàekwondo hùng mạnh. Phim không chỉ nổi bật ở những cảnh hành động tinh tế mà còn ở mối quan hệ hài hước – cảm động giữa sư đồ, đánh dấu bước ngoặt đưa tài tử trẻ Trương Học Hữu trở thành ngôi sao võ thuật hàng đầu.",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://helvid.net/play/index/295d6693590e"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://short.icu/hoqVpykqr"
+                }
+            ]
+        }
+    },
+    {
+        "id": "tung-hoanh-tu-hai-once-a-thief-1991",
+        "title": "Tung Hoành Tứ Hải - Once a Thief",
+        "year": "1991",
+        "poster": "https://www.hkmdb.com/db/images/movies/7466/OnceaThief+1991-35-b.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành động, Tội phạm",
+        "actor": "Châu Nhuận Phát, Trương Quốc Vinh, Chung Sở Hồng, Tăng Giang, Châu Giang",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Ba đứa trẻ mồ côi — Joe (Chow Yun-fat), Jim (Leslie Cheung) và Sherry (Cherie Chung) — được ông trùm Chow (Kenneth Tsang) nhận nuôi và huấn luyện thành những tên trộm nghệ thuật tinh vi. Khi thực hiện vụ trộm một bức tranh ma quái tại Pháp, mọi chuyện rối loạn: Joe mất tích và được cho là đã chết. Jim và Sherry lập gia đình, nhưng Joe lại bất ngờ xuất hiện trở lại trong điều kiện tay bị tê liệt. Sự xuất hiện này dẫn đến một kế hoạch tái hợp đầy mưu mẹo để thực hiện phi vụ cuối cùng — cùng bức tranh đã gây ra nhiều biến cố xưa kia. Trung tâm mâu thuẫn là tình cảm và lòng trung thành bị đứt gãy giữa họ.",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/AtoC-1MZ9"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/ebfd87be9e24"
+                }
+            ]
+        }
+    },
+    {
+        "id": "ban-nga-tung-hoanh-rhythm-of-destiny-1992",
+        "title": "Bạn Ngã Tung Hoành - Rhythm of Destiny",
+        "year": "1992",
+        "poster": "https://www.hkmdb.com/db/images/movies/7511/RhythmofDestiny+1992-4-b.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành động, Hình sự",
+        "actor": "Quách Phú Thành, Lý Tu Hiền, Trương Mẫn, Ngọ Mã, Thành Khuê An, Kha Thụ Lương",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Lee Ka-yin (Bee) từng là một tên buôn lậu kim cương và cựu triad vừa trở về Hồng Kông với mong muốn đoạn tuyệt quá khứ để sống cuộc đời lương thiện. Bee mở một phòng trà để hỗ trợ người em Kevin (Aaron Kwok) theo đuổi sự nghiệp ca hát. Khi Bee từ chối tham gia buôn lậu ma túy theo lệnh của trùm, anh bị gài vào tội và bị kết án. Người mẹ qua đời vì sốc, Kevin cũng quay lưng từ chối anh. Bee rơi vào tuyệt vọng khi tất cả những gì anh cố gắng xây dựng vụn vỡ trước mắt — tình anh em, tình mẫu tử và khát khao chuộc lỗi",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/pFo90PyQg"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/9fb14f67add8"
+                }
+            ]
+        }
+    },
+    {
+        "id": "truy-hung-fairy-tale-killer-2012",
+        "title": "Truy Hung - Fairy Tale Killer",
+        "year": "2012",
+        "poster": "https://www.hkmdb.com/db/images/movies/14520/PerfectFairyTale+2011-1-b.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành động, Hình sự",
+        "actor": "Lưu Thanh Vân, Giang Nhược Lâm, Vương Bảo Cường, Vạn Ỷ Văn, Lô Huệ Quang",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Thanh tra Wong Wai-han điều tra một vụ giết người nơi hung thủ – Wu Zaijun (Vương Bảo Cường) – vô tình được cảnh sát thả vì cho rằng hắn bất ổn tâm thần, sau khi tuyên bố giết người nhưng nạn nhân lại còn sống. Tuy nhiên, nạn nhân sau đó bị thực sự sát hại theo cách rùng rợn: bị nhét bảy viên đá vào bụng.\n\nQua điều tra, Wong phát hiện những vụ án không chỉ được dàn dựng theo các câu chuyện cổ tích, mà Wu có liên kết bí ẩn với một cô bé tự kỷ và có khả năng vẽ những câu chuyện kinh hoàng. Căng thẳng tăng dần khi Wong không chỉ phải đối phó với hung thủ mà còn với áp lực nghề nghiệp, mâu thuẫn gia đình—đặc biệt là với người con tự kỷ—và các nghi vấn tham nhũng trong nội bộ cảnh sát.",
+        "sources": {
+            "Thuyết Minh": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/FFqGqbwRN"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/477bbc6ebd4a"
+                }
+            ]
+        }
+    },
+    {
+        "id": "hoc-hieu-phong-van-school-on-fire-1988",
+        "title": "Học Hiệu Phong Vân - School on Fire",
+        "year": "1988",
+        "poster": "https://www.hkmdb.com/db/images/movies/7063/SchoolonFire+1988-1-b.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành động, Chính kịch",
+        "actor": "Trương Diệu Dương, Lâm Chánh Anh, Viên Khiết Oánh, Lý Lệ Nhị, Lưu Tùng Nhân, Hà Gia Câu",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Câu chuyện xoay quanh Yuen Fong, một nữ sinh gián tiếp rơi vào vòng xoáy bạo lực khi chứng kiến một vụ đánh nhau liên quan đến xã hội đen. Sau khi lời khai của cô được ba tam hoàng biết tới, thủ lĩnh Brother Smart (Roy Cheung) buộc cô phải nộp tiền bảo kê để giữ an toàn. Mọi thứ nhanh chóng trở nên tăm tối, khi trường học dần bị chi phối bởi bạo lực và kiểm soát ngầm. Yuen Fong và những người quanh cô bị kéo vào mối quan hệ quyền lực tàn khốc, dẫn đến một kết thúc đầy hỗn loạn và đẫm máu.",
+        "sources": {
+            "Vietsub": []
+        }
+    },
+    {
+        "id": "no-hoa-uy-long-crystal-hunt-1991",
+        "title": "Nộ Hỏa Uy Long - Crystal Hunt",
+        "year": "1991",
+        "poster": "https://d3tvwjfge35btc.cloudfront.net/Assets/43/022/L_p1021302243.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Võ thuật",
+        "actor": "Chân Tử Đan, Lô Huệ Quang, Ngô Gia Lệ, Hồ Tuệ Trung, Hà Gia Câu",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Lisa (Carrie Ng) thuê giáo sư khảo cổ Lau (Hsu Hsia) truy tìm “Tinh Thạch Vàng” — một vật thần bí có khả năng chữa bệnh hiểm nghèo cho cha cô, một cựu xã hội đen. Tuy nhiên, giáo sư bị nhóm xã hội đen Mỹ bắt cóc. Con gái của ông, Wendy (Fujimi Takado), cùng với cảnh sát từng là bạn trai – Brett (Donnie Yen) và đồng sự là nữ thanh tra Wu (Sibelle Hu), hợp sức đi cứu. Họ cũng bị Lisa và đàn em áp đảo và buộc phải dẫn đường lên núi Thái Lan. Từ truy đuổi, đấu súng, bom điều khiển từ xa đến bẫy chết người trong hang động, câu chuyện leo đến cao trào khi Lisa hy sinh để cứu mọi người. Brett kết liễu đầu đảng Stephen trong một trận combat gay cấn, trước khi cả nhóm bị bắt vì hành vi trộm tinh thạch—dù không xuất phát từ mục đích xấu.",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/B3uBSBylZ"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/24586f761b98"
+                }
+            ]
+        }
+    },
+    {
+        "id": "-pr-girls-thanh-xuan-vien-tro-giao-te-pr-girls-1998",
+        "title": "PR Girls Thanh Xuân Viện Trợ Giao Tế - PR Girls",
+        "year": "1998",
+        "poster": "https://img.tvb.com/mytvs/poster/1235/123474_v1_o.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Tâm lý, Tình cảm",
+        "actor": "Giang Hy Văn, Lâm Nhã Thi, Lê Diệu Tường, Thanh Doanh Doanh, Diêu Lạc Di, Trần Hào",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Phim xoay quanh cuộc sống của một nhóm PR girls—những cô gái làm nghề hostess trong các câu lạc bộ đêm. Phim theo chân Ah B (Grace Lam), một cô gái trẻ thích tiền, luôn dao động giữa tình yêu, quyền lực và tình bạn. Julia (Liz Kong), “mamasan” đã chai lì, mong tìm cơ hội kết hôn để thoát khỏi nghề. Hai người bạn khác, Kwan (Angela Tong) rối ren nợ nần, và Matilda (Sherming Yiu), cô gái rụt rè nhưng lại có ám ảnh ngại gợi cảm. Những khách hàng kỳ quặc, tình huống trớ trêu và các mâu thuẫn nội tâm khiến cuộc sống của họ trở nên vừa tàn nhẫn vừa trần trụi. Phim tập trung khai thác tâm lý nhân vật qua những cuộc vật lộn trong ngành giải trí đêm.",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/VhklG6Rb3"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/4d1c5dba28a3"
+                }
+            ]
+        }
+    },
+    {
+        "id": "nhiet-lang-me-tinh-a-secret-mission-1992",
+        "title": "Nhiệt Lãng Mê Tình - A Secret Mission",
+        "year": "1992",
+        "poster": "https://img.tvb.com/ti_img/mcm/97/56f67bd0625d2_1458994128.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hình sự",
+        "actor": "Viên Khiết Oánh, Lâm Tuấn Hiền, Thiệu Trọng Hành",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Hoàng Tử Hằng thuê vệ sĩ Trần Hiển bảo vệ vợ mình – Eva – khỏi nguy hiểm. Eva bị sát hại, và không ngờ thủ phạm lại chính là chồng cô, Hoàng Tử Hằng. Trong khi nhiệm vụ bảo vệ đầy mâu thuẫn diễn ra, Trần Hiển nảy sinh tình cảm với Eva — hai người rơi vào mối quan hệ đầy cấm kỵ và căng thẳng trong công việc và tình cảm",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/_UTBOmJXU"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/dad6b9b08034"
+                }
+            ]
+        }
+    },
+    {
+        "id": "vuong-giac-giam-nguc-to-live-and-die-in-mongkok-2009",
+        "title": "Vượng Giác Giám Ngục - To Live and Die in Mongkok",
+        "year": "2009",
+        "poster": "https://image.enjoymovie.net/qVZgGt1XURYIDOMRQE1AvcJDAOg=/600x800/smart/core/p/qoWr0rr7pB.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hình sự, Tội phạm",
+        "actor": "Trương Gia Huy, Bảo Khởi Tĩnh, Liêu Khải Trí, Mạc Tiểu Kỳ, Mạnh Dao, Đàm Diệu Văn",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Fai, một cựu anh chị xã hội đen lừng danh, được thả sau 30 năm tù nhờ một nhân vật hội đồng địa phương gián tiếp xin tại ngoại. Khi trở về Mông Cổ (Mongkok), nơi nay đã hoàn toàn đổi khác, tâm lý của Fai rạn nứt và anh nghi ngờ mình bị mắc kẹt trong vùng đất không lối thoát.\n\nTrong khi đó, băng nhóm đang có nhu cầu thay đổi vai trò lãnh đạo: Porky – đồng đội nhiều năm – và Peter – tên triad từng học hành đàng hoàng – đấu đá quyền lực. Họ đều tìm cách lợi dụng Fai như quân bài để thiết lập quyền lực trong nội bộ.\n\nBên cạnh đó, Porky có hành vi khiếm nhã với Pamela – một gái mại dâm – và chị gái cô, Penny (có khuyết tật tâm lý), khiến Fai nhiều lần can thiệp để bảo vệ họ. Cộng thêm áp lực từ quá khứ và nhân cách phân liệt, Fai đấu tranh để định hình bản thân giữa vòng cám dỗ, phản bội và tín nhiệm thấp từ cả hai phía. Tâm lý mong manh và biểu hiện mơ hồ khiến phim đậm chất nội tâm và kịch tính",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/4nZAmG4ONQ"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/52306a76041e"
+                }
+            ]
+        }
+    },
+    {
+        "id": "nu-sac-lang-indecent-woman-1999",
+        "title": "Nữ Sắc Lang - Indecent Woman",
+        "year": "1999",
+        "poster": "https://hkcinema.cn/photo/s/fw/540-999/2ccd3567.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Tâm lý, Tình cảm",
+        "actor": "Dương Phạm, Từ Cẩm Giang, Tào Tra Lý, Lâm Vĩ Kiện",
+        "category": "phim-le",
+        "age": "18+",
+        "slide": "0",
+        "description": "Irene (Yeung Fan) phát hiện chồng mình đã dùng thân thể cô để trao đổi lợi ích kinh doanh, dẫn đến sự phản bội ghê rợn. Hoảng loạn và tức giận, cô giết chồng rồi lên kế hoạch trả thù: dụ đối tác làm ăn của anh ta vào bẫy và ra tay sát hại tiếp. Irene còn ép bạn gái của đối tác tự sát, nhưng cô may mắn trốn được và thoát khỏi hiểm cảnh—trong khi cảnh sát tới thì thấy nạn nhân bị trói trên giường. Phim kết thúc bi kịch khi Irene bị bắt, chấm dứt một chuỗi hành động báo thù đầy tăm tối và hỗn loạn nội tâm",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/pbTH_jl39"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/102e39bb8f38"
+                }
+            ]
+        }
+    },
+    {
+        "id": "nguoi-cha-luu-manh-call-me-scoundrel-1992",
+        "title": "Người Cha Lưu Manh - Call Me Scoundrel",
+        "year": "1992",
+        "poster": "https://img.tvb.com/mytvs/poster/1294/129344_v1_o.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Tâm lý, Tình cảm",
+        "actor": "Hạ Vũ, Thiệu Mỹ Kỳ",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "ĐANG CẬP NHẬT",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/xQpSVdqyn"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/ff77394ba512"
+                }
+            ]
+        }
+    },
+    {
+        "id": "ngoa-ho-wo-hu-2006",
+        "title": "Ngọa Hổ - Wo Hu",
+        "year": "2006",
+        "poster": "https://d3tvwjfge35btc.cloudfront.net/Assets/05/816/L_p1004581605.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành động, Tội phạm",
+        "actor": "Trương Trí Lâm, Trần Tiểu Xuân, Tăng Chí Vĩ, Ngô Trấn Vũ, Dư Văn Lạc, Miêu Kiều Vỹ, Hoàng Đức Bân",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Thanh tra Wai (Michael Miu) tổ chức chiến dịch mật mang mật danh WO HU, triển khai hàng trăm cảnh sát chìm vào các băng đảng xã hội đen. Jim, một thủ lĩnh triad, nghi ngờ có nội gián sau khi một cảnh sát bị phát hiện và giết. Anh ta điều Killer (Shawn Yue) xử lý vụ việc, khiến nội bộ triad dậy sóng. Ngô Quốc Chân và Trương Trí Minh đóng vai hai triad khác là Walter và Tommy, đang âu lo giữa việc bảo vệ lợi ích và sinh tồn. Khi Tommy bị lộ và buộc chạy trốn, sự phân hóa và nghi ngờ dâng cao trong nhóm. Liên tiếp âm mưu và phản bội được dàn xếp thận trọng, khiến hệ thống ngầm dần sụp đổ. Bộ phim là bức tranh chân thực của thế giới ngầm Hồng Kông và cuộc chiến giữa luật pháp và lòng trung thành miệng lưỡi sát thủ.",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/YzgFU2IrP"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/d4daac035e2f"
+                }
+            ]
+        }
+    },
+    {
+        "id": "o-hoa-tuyen-the-deadly-sting-2002",
+        "title": "Đố Hỏa Tuyến - The Deadly Sting",
+        "year": "2002",
+        "poster": "https://img.tvb.com/mytvs/poster/1299/129894_v1_o.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành động, Hình sự",
+        "actor": "Lâm Bảo Di, Ngụy Tuấn Kiệt, Châu Lệ Kỳ",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Jun (林保怡) và Bin (魏骏杰) cùng học tại trường cảnh sát và đều có niềm say mê bắn súng. Jun luôn thể hiện vượt trội so với Bin, nhưng tình bạn vẫn được giữ vững. Khi Jun tiến đến giai đoạn đính hôn với bạn gái Qi (周丽淇), áp lực nội tâm càng đè nặng. Trong lúc điều tra một vụ án, Jun bị sắp xếp theo mưu kế khiến anh vô tình gây ra cái chết của Bin. Cảm giác tội lỗi đầy ám ảnh khiến Jun thường xuyên mất ngủ và phải đối diện với sự sụp đổ nội tâm. Phim khai thác tranh chấp tình bạn, lòng tham vọng và cảm giác tội lỗi sâu sắc",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/untD9miBU"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/86dc3c41cb36"
+                }
+            ]
+        }
+    },
+    {
+        "id": "that-nguyet-thap-tam-chi-long-ba-july-13th-1996",
+        "title": "Thất Nguyệt Thập Tam Chi Long Bà - July 13th",
+        "year": "1996",
+        "poster": "https://www.stephenau.com/works/movie/13th/13th_card_01.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Ma Quái",
+        "actor": "Ngô Đại Duy, Lý Gia Hân, La Lan, Huỳnh Tử Hoa, Âu Cẩm Đường, Lô Mẫn Nghi",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Trong thành phố hiện đại, một cô gái có vấn đề tinh thần tên Sugar chứng kiến một cụ bà bí ẩn tự sát và để lại “sổ tay tự vẫn”. Cảnh sát Alan (David Wu) cùng bạn gái cũ Lorna (Michelle Reis), hỗ trợ bởi thanh tra Pierre (Chi-Wah Wong), điều tra vụ việc. Khi họ càng đào sâu, Pierre bất ngờ mất tích, cả Alan và Lorna bị đình chỉ công tác. Họ bắt đầu gặp ác mộng về một bà lão ma quái — cảnh báo rằng đừng can thiệp sâu hơn. Bất chấp điềm gở, họ tiếp tục truy tìm sự thật và phát hiện ra một hiệu sách kỳ bí ẩn liên quan đến cái chết.",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/jr7_vT0dx"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/ec584e2d795c"
+                }
+            ]
+        }
+    },
+    {
+        "id": "my-nu-mat-lenh-beauty-on-duty-2010",
+        "title": "Mỹ Nữ Mật Lệnh - Beauty on Duty!",
+        "year": "2010",
+        "poster": "https://www.hkmdb.com/db/images/movies/14236/BeautyonDuty+2010-1-b.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hài Hước",
+        "actor": "Ngô Quân Như, Thái Trác Nghiên, Trần Vĩ Đình, Hứa Thiệu Hùng, Vương Tinh, Uyển Quỳnh Đan, Trương Đạt Minh",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Chung (Thái Trác Nghiên), một nữ cảnh sát mới, trong buổi tuần tra đầu tiên, vô tình cứu thoát nhân chứng duy nhất của một vụ án giết người. Người này chỉ chịu ra làm chứng nếu con gái ông, June (Maggie Lý), được đảm bảo an toàn — cô đang chuẩn bị tham gia cuộc thi Miss Asia Beauty Pageant. Chung buộc phải cải trang thành thí sinh để bảo vệ June từ bên trong. Cô được hỗ trợ bởi “Iron Mary” (Ngô Quân Như), cảnh sát cứng rắn đầy hài hước, cùng các đồng nghiệp Lục Nghị và Fan Siu-Wong. Bộ phim là chuỗi những tình huống dở khóc dở cười giữa làm đẹp, bảo vệ nhân chứng và những màn hành động nhẹ kiểu TVB",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/yOLFFxLwP"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/3193fad462fa"
+                }
+            ]
+        }
+    },
+    {
+        "id": "huyet-nhiem-le-minh-fire-on-ice-1991",
+        "title": "Huyết Nhiễm Lê Minh - Fire On Ice",
+        "year": "1991",
+        "poster": "https://img.tvb.com/mytvs/poster/1294/129345_v1_o.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Chính kịch, Tâm lý",
+        "actor": "Quan Lễ Kiệt, Châu Tuệ Mẫn",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Bộ phim kể về câu chuyện xảy ra vào năm 1894, khi quân Nhật chiếm đóng Lữ Thuận. Thiền vì cứu Quý mà liên lụy đến Lệ bị cưỡng hiếp. Quý bị thương, được sĩ quan Nhật Bản là Thương Điền cứu và đưa về Nhật. Vài năm sau, Quý trở về nước, trung thành phục vụ trong việc chế tạo vũ khí. Anh gặp lại Thiền và Lệ, ba người vướng vào mối tình tay ba phức tạp. Về sau, Quý mất niềm tin vào Nghĩa Hòa Đoàn, cùng Lệ ẩn cư nhưng lại bị Đại sư huynh bắt và kết án tử hình.",
+        "sources": {
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/qBX4oDplo"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://helvid.net/play/index/ad4ebe72fafc"
+                }
+            ]
+        }
+    },
+    {
         "id": "phi-ho-hung-phong-2-thuong-than-hanh-ong-special-duties-unit-1996-1995",
         "title": "Phi Hổ Hùng Phong 2 Thưởng Than Hành Động - Special Duties Unit 1996",
         "year": "1995",
