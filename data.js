@@ -65,7 +65,12 @@ const MOVIES_DATA = [
         "slide": "0",
         "description": "Phim lấy bối cảnh đầu thế kỷ 20, xoay quanh âm mưu của Bạch Liên Giáo nhằm hỗ trợ nhà độc tài Viên Thế Khải lên làm hoàng đế Trung Hoa. Một chiếc nhẫn ngọc của công chúa Sum-yuk (Michelle Reis) là chìa khóa bảo đảm quyền lực ấy. Người cách mạng Yeung Kwan (Andy Lau) bắt giữ nàng, rồi tìm đến lương y Wong Kei-ying (Adam Cheng) và con trai Wong Fei-hung (Willie Chi) để lẩn trốn. Fei-hung học Dịch Côn Quyền (Drunken Boxing) từ lão sư tịch (Lau Kar-leung) để bảo vệ công chúa. Khi giáo phái Bạch Liên truy lùng, cả nhóm buộc phải chiến đấu bảo vệ danh dự cách mạng.",
         "sources": {
-            "Vietsub": []
+            "Lồng Tiếng": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/1I6YeWEK7"
+                }
+            ]
         }
     },
     {
