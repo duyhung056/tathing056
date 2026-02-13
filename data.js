@@ -10,7 +10,7 @@ const MOVIES_DATA = [
         "actor": "Lương Triều Vỹ, Đoàn Dịch Hoành, Olga Kurylenko",
         "category": "phim-le",
         "age": "",
-        "slide": "0",
+        "slide": "1",
         "description": "​Lấy cảm hứng từ những sự kiện có thật trong chiến dịch chống tội phạm kinh tế quy mô lớn của Bộ Công an Trung Quốc, \"Săn Cáo\" (2025) là một tác phẩm hành động - tội phạm kịch tính, khắc họa cuộc đấu trí nghẹt thở giữa lực lượng cảnh sát và những kẻ tội phạm cổ cồn trắng lẩn trốn tại nước ngoài.\n​Câu chuyện xoay quanh Đeo Dật Thần (do Lương Triều Vỹ thủ vai), một \"con cáo già\" trong giới tài chính, kẻ chủ mưu vụ lừa đảo chấn động trị giá hơn 17,4 tỷ Nhân dân tệ. Sau khi đẩy hàng ngàn gia đình vào cảnh khánh kiệt, Đeo Dật Thần đã ôm tiền bỏ trốn suốt 7 năm, tẩy trắng thân phận và trở thành một doanh nhân thượng lưu với cái tên giả William James tại Paris, Pháp. Hắn tin rằng tiền bạc và sự am hiểu luật pháp quốc tế sẽ là tấm khiên bất khả xâm phạm, giúp hắn mãi mãi sống ngoài vòng pháp luật.\n​Đối đầu với hắn là Diệp Quân (do Đoàn Dịch Hoành thủ vai), Đội trưởng Đội Săn Cáo. Mang theo quyết tâm sắt đá, Diệp Quân cùng các đồng đội trẻ như Triệu Nghị và chuyên gia công nghệ Quách Tiểu Giai lên đường sang Paris.",
         "sources": {
             "Vietsub": [
