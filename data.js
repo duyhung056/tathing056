@@ -39,6 +39,10 @@ const MOVIES_DATA = [
                 {
                     "name": "Server 1",
                     "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.dailymotion.com%2Fvideo%2Fk1lVHROh9HHhF8EZWaO%3Ffbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBEyRWsyM1N2dDhTT0hGUmFBVHNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR5bD1EywX_a4mlnttGk9zoCjIk2srOSdKmNNYvdGRNgVh4Dvt-zkyasUJpuEw_aem_9sxHCmspa73fvl-V03Cc3A&h=AT7NFU0ecDw6KqoUEJiAy-eXFAt9id5KhDLShojnsIVYRzu_61QkMmj8fCM84Z-ecHoivqt-yGFndvwuEAKm1vTNGBHu592eChtv_J5ylzrOMHCOZq_zvFGU75PIA6xcuzNBk--U993N0SIS5u_ufgLEQmSYM0pG&__tn__=R*F"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://short.icu/XjqJVGhrc"
                 }
             ]
         }
