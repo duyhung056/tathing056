@@ -1,5 +1,225 @@
 const MOVIES_DATA = [
     {
+        "id": "rule-number-one-e-nhat-gioi-2008",
+        "title": "Rule Number One - Đệ Nhất Giới",
+        "year": "2008",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzYyZGU2YzMtMDQxOC00Y2I0LTgzOGQtN2M2YmQ0MzQ5NTlkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Kinh Dị, Hành Động",
+        "actor": "Trịnh Y Kiện, Dư Văn Lạc, Xa Uyển Uyển, Tạ Uyển Dụ",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/VtBOZ4iAP"
+                }
+            ]
+        }
+    },
+    {
+        "id": "the-first-time-is-the-last-time-e-nhat-kien-1989",
+        "title": "The First Time Is the Last Time - Đệ Nhất Kiển",
+        "year": "1989",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNDM1MWZjOWMtMjI0Mi00OGU2LWIzMWItN2ViNzk2N2U2YmMyXkEyXkFqcGc@._V1_.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành Động, Tâm Lý",
+        "actor": "Lưu Đức Hoa, Ngô Gia Lệ, Mã Tư Thần, Nghê Tuyết, Tăng Giang, Lâm Kiến Minh, Đới Chí Vĩ",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/glwZLEm8_"
+                }
+            ]
+        }
+    },
+    {
+        "id": "operation-scorpio-kung-fu-bo-cap-1992",
+        "title": "Operation Scorpio - Kung Fu Bọ Cạp",
+        "year": "1992",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNDgyYjU4ZjQtNTVhMS00MTA2LWE5NGEtNzdhODlkZDE4OWFhXkEyXkFqcGc@._V1_.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành Động",
+        "actor": "Tiền Gia Lạc, Lưu Gia Lương, La Mỹ Vi, Nguyên Chấn, Hồ Phong",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/HYVcg_2W9"
+                }
+            ]
+        }
+    },
+    {
+        "id": "beyond-hypothermia-nu-sat-thu-32-do-1996",
+        "title": "Beyond Hypothermia - Nữ Sát Thủ 32 độ",
+        "year": "1996",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOTYzM2RmYTgtYjEzMS00MzJkLTlmYzctMDRhZDk2M2QyZTNmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành Động, Tâm lý",
+        "actor": "Ngô Thanh Liên, Lưu Thanh Vân, Han Jae Suk, Shirley Wong",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/4Cy1tzLJI"
+                }
+            ]
+        }
+    },
+    {
+        "id": "triangle-thiet-tam-giac-2007",
+        "title": "Triangle - Thiết Tam Giác",
+        "year": "2007",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYjI4NGI3ZjgtYzJiOS00YzMwLWE2NWYtMTRmNjZkMDRhM2M5XkEyXkFqcGc@._V1_.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành Động",
+        "actor": "Cổ Thiên Lạc, Nhậm Đạt Hoa, Tôn Hồng Lôi, Lâm Gia Đống, Lâm Hi Lôi, Lâm Tuyết, Vưu Dũng",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/uVJETrA96"
+                }
+            ]
+        }
+    },
+    {
+        "id": "full-throttle-liet-hoa-chien-xa-1995",
+        "title": "Full Throttle - Liệt Hỏa Chiến Xa",
+        "year": "1995",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZjY3ZjA1YTEtZDFjOC00NjZlLWJkZDUtZWNhNGFiZGU2NzA1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành Động",
+        "actor": "Lưu Đức Hoa, Ngô Đại Duy, Lương Vịnh Kỳ, Tiền Gia Lạc, La Chí Lương, Từ Cẩm Giang, Tần Bái",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/zvdW_HhVS"
+                }
+            ]
+        }
+    },
+    {
+        "id": "queen-of-underworld-nu-hoang-the-gioi-ngam-1991",
+        "title": "Queen of Underworld - Nữ Hoàng Thế Giới Ngầm",
+        "year": "1991",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOGJmMmI2NmQtZDE0OS00NDcwLWFhZWYtYzRmYjMwOTk3NDJiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "poster-slide": "https://image.tmdb.org/t/p/w780/eHsTQKDbRkdUcragXIltZ6oZUAo.jpg",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành Động, Tâm Lý",
+        "actor": "Diệp Tử My, Thành Khuê An, Lê Tư, Lữ Lương Vỹ, Ngô Mạnh Đạt, Đan Lập Văn, Trần Bảo Liên, Hàn Tuấn, Kha Thụ Lương",
+        "category": "phim-le",
+        "age": "",
+        "slide": "1",
+        "description": "",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/3nM9M_dKR"
+                }
+            ]
+        }
+    },
+    {
+        "id": "point-of-no-return-sat-thu-vo-danh-1990",
+        "title": "Point Of No Return - Sát Thủ Vô Danh",
+        "year": "1990",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNWQ2MDU4YjUtYzk3ZC00MWIyLWFmNTktZWRlZTUwNjNiNjBmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành Động",
+        "actor": "Trương Học Hữu, Đàm Diệu Văn, Vương Tổ Hiền, Tăng Giang, Dương Quần, Thái Lập Nhi, Lô Huệ Quang",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/OIDLissuh"
+                }
+            ]
+        }
+    },
+    {
+        "id": "the-avenging-fist-quyen-than-1991",
+        "title": "The Avenging Fist - Quyền Thần",
+        "year": "1991",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTc3MzQ0Mjc5N15BMl5BanBnXkFtZTgwOTg3ODQ5NjE@._V1_.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành Động",
+        "actor": "Vương Lực Hoành, Phùng Đức Luân, Tiền Gia Lạc, Lương Vịnh Kỳ, Dương Cung Như, Trịnh Y Kiện, Hồng Kim Bảo, Nguyên Bưu",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/JqkT6lkg4e"
+                }
+            ]
+        }
+    },
+    {
+        "id": "bursting-point-iem-bung-no-2023",
+        "title": "Bursting Point - Điểm Bùng Nổ",
+        "year": "2023",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNGYwNjA4YzMtMjIwZC00OGZiLTlmNmUtNTMyMDQ0MjQwNGY5XkEyXkFqcGc@._V1_.jpg",
+        "poster-slide": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy2RtIVcLkPL9a_Lj1KO4tCtB6vwu0PrxIgQ&s",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành Động",
+        "actor": "Trương Gia Huy, Trần Vỹ Đình, Đàm Tuấn Ngạn, Khương Hạo Văn, Lương Lạc Thi, Châu Tú Na, Lô Huệ Quang, Đường Thi Vịnh, Trương Vĩnh Khang, Dương Hữu Trữ",
+        "category": "phim-le",
+        "age": "",
+        "slide": "1",
+        "description": "Chánh thanh tra chống ma túy Lí Chấn Bang phái đặc vụ chìm Giang Minh thâm nhập vào các tổ chức buôn bán ma túy và thề sẽ bắt giữ tên trùm đứng đằng sau tất cả. Không ngờ Giang Minh bị tình thế đẩy vào bóng tối, Lý Chấn Bang đã cố gắng hết sức để giải cứu anh ta ra nhưng vô ích, mối quan hệ giữa hai người trở nên mâu thuẫn đến mức khó cứu vãn...",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/f7uBb7jH1"
+                }
+            ]
+        }
+    },
+    {
         "id": "zodiac-killers-cuc-ao-truy-tung-1991",
         "title": "Zodiac Killers - Cực Đạo Truy Tung",
         "year": "1991",
@@ -202,13 +422,13 @@ const MOVIES_DATA = [
         "title": "Man Wanted 2: Those Were The Days - Dưới Trời Truy Nã 2: Hình Nhân Nam",
         "year": "1996",
         "poster": "https://m.media-amazon.com/images/M/MV5BYjA5NGEzY2MtNjFhMi00ZTA5LTgxMTktOWM0NmY0NTFmNzYwXkEyXkFqcGc@._V1_.jpg",
-        "poster-slide": "",
+        "poster-slide": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdqfuz_ZsIyeXFIurVRZX3hkhaPKhaOIbSLQ&s",
         "country": "Hồng Kông",
         "movie-genre": "Hành Động, Ma, Kinh Dị",
         "actor": "Cổ Thiên Lạc, Trương Ngọc San, Trương Diệu Dương, La Gia Anh, La Lan",
         "category": "phim-le",
         "age": "",
-        "slide": "0",
+        "slide": "1",
         "description": "",
         "sources": {
             "Vietsub": [
