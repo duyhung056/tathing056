@@ -1,5 +1,203 @@
 const MOVIES_DATA = [
     {
+        "id": "zodiac-killers-cuc-ao-truy-tung-1991",
+        "title": "Zodiac Killers - Cực Đạo Truy Tung",
+        "year": "1991",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZGQ4NTRkODItYjkyNi00MzBmLTkyZTctMmJiNTNmNGYwZWJiXkEyXkFqcGc@._V1_.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành Động",
+        "actor": "Lưu Đức Hoa, Chung Sở Hồng, Ishida Junichi, Kishida Kyoko, Takazawa Zunko",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/a1lNOqtfQ"
+                }
+            ]
+        }
+    },
+    {
+        "id": "against-all-bang-huu-1990",
+        "title": "Against All - Bằng Hữu",
+        "year": "1990",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMDY0MTQ1YTQtMGM4ZC00NGMxLWI5N2QtOTUyOGFmMzVjODY4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành Động",
+        "actor": "Lý Tu Hiền, Trương Gia Huy, Ngô Tuyết Văn, Lâm Kính Cương, Thành Khuê An",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/GNJEAjf0V"
+                }
+            ]
+        }
+    },
+    {
+        "id": "eye-in-the-sky-san-uoi-muc-tieu-2007",
+        "title": "Eye In The Sky - Săn Đuổi Mục Tiêu",
+        "year": "2007",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZDZhZWQ4YTEtMGVjMS00ZWNlLTk1YjQtZWRlMjg2OWU4ZTJiXkEyXkFqcGc@._V1_.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành Động",
+        "actor": "Nhậm Đạt Hoa, Lương Gia Huy, Từ Tử San, Thiệu Mỹ Kỳ, Trương Triệu Huy, Lâm Tuyết, Ngô Đình Diệp, Lê Diệu Tường",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/uKnqsTaLc"
+                }
+            ]
+        }
+    },
+    {
+        "id": "shopaholics-co-gai-thich-mua-sam-2006",
+        "title": "Shopaholics - Cô Gái Thích Mua Sắm",
+        "year": "2006",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTM2Mzk3MjQ4MF5BMl5BanBnXkFtZTcwNDc0MjMzMQ@@._V1_.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hài",
+        "actor": "Trương Bá Chi, Lưu Thanh Vân, Trần Tiểu Xuân, Thiệu Mỹ Kỳ, Quách Ái Minh, Quan Ân Na, Trần Dật Ninh",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/IXzV3fIUq"
+                }
+            ]
+        }
+    },
+    {
+        "id": "secret-police-canh-vong-hung-phong-1992",
+        "title": "Secret Police - Cảnh Võng Hùng Phong",
+        "year": "1992",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNzJlN2MzNmQtZDNhZi00YjQ0LWI5YzMtMGQ3OGQ1M2FjZjljXkEyXkFqcGc@._V1_.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành Động",
+        "actor": "Lý Thái Phụng, Phương Trung Tín, Diệp Thần, Chu Tỉ Lợi, Thẩm Uy, Long Phương",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/cijT_Ewkg"
+                }
+            ]
+        }
+    },
+    {
+        "id": "fox-hunter-san-cao-1995",
+        "title": "Fox Hunter - Săn Cáo",
+        "year": "1995",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZDllMDc4NDgtNjI5My00YWY0LWFkYTYtNGE2N2ZkMmQ1MDI1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành Động",
+        "actor": "Lương Tranh, Trần Tiểu Xuân, Vu Vinh Quang",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/9PHpkfkTs"
+                }
+            ]
+        }
+    },
+    {
+        "id": "how-to-meet-the-lucky-stars-van-hanh-ngu-phuc-tinh-1996",
+        "title": "How to Meet the Lucky Stars - Vận Hạnh Ngũ Phúc Tinh",
+        "year": "1996",
+        "poster": "https://m.media-amazon.com/images/M/MV5BM2M5M2EyMDEtNjBkZS00OTM5LTk0YmUtM2M4YmE3N2Q4ZWM1XkEyXkFqcGc@._V1_.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hài",
+        "actor": "Hồng Kim Bảo, Phùng Thối Phàm, Tăng Chí Vỹ, Ngô Diệu Hán, Miêu Kiều Vỹ, Bàng Đơn, Trần Bách Tường, Lưu Tích Minh, Trần Quan Thái",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/rezAZ1ZaS"
+                }
+            ]
+        }
+    },
+    {
+        "id": "web-of-deception-kinh-hon-ky-1989",
+        "title": "Web Of Deception - Kinh Hồn Ký",
+        "year": "1989",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZjEyYTExYWQtMzQyMC00NzgyLWE4OTYtZWZmY2NjN2VlMGM1XkEyXkFqcGc@._V1_.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Kinh Dị",
+        "actor": "Lâm Thanh Hà, Vương Tổ Hiền, Vương Tiểu Phượng, Lý Mỹ Phượng, Lý Tử Hùng",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/pJ6xychmg"
+                }
+            ]
+        }
+    },
+    {
+        "id": "no-more-love-no-more-death-truyen-ky-thai-tu--1993",
+        "title": "No More Love, No More Death - Truyền Kỳ Thái Tử",
+        "year": "1993",
+        "poster": "https://m.media-amazon.com/images/M/MV5BODI2MzA1MDYtZTYxOS00NDJjLTg5MTktOWJmZTJjYjZjZWJjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành Động",
+        "actor": "Trương Học Hữu, Quan Chi Lâm, Lưu Gia Linh, Lý Khắc Cần, Trần Huệ Mẫn",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/nn-UEObC_"
+                }
+            ]
+        }
+    },
+    {
         "id": "man-wanted-2-those-were-the-days-duoi-troi-truy-na-2-hinh-nhan-nam-1996",
         "title": "Man Wanted 2: Those Were The Days - Dưới Trời Truy Nã 2: Hình Nhân Nam",
         "year": "1996",
