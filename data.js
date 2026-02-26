@@ -1,5 +1,49 @@
 const MOVIES_DATA = [
     {
+        "id": "man-wanted-2-those-were-the-days-duoi-troi-truy-na-2-hinh-nhan-nam-1996",
+        "title": "Man Wanted 2: Those Were The Days - Dưới Trời Truy Nã 2: Hình Nhân Nam",
+        "year": "1996",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYjA5NGEzY2MtNjFhMi00ZTA5LTgxMTktOWM0NmY0NTFmNzYwXkEyXkFqcGc@._V1_.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành Động, Ma, Kinh Dị",
+        "actor": "Cổ Thiên Lạc, Trương Ngọc San, Trương Diệu Dương, La Gia Anh, La Lan",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://short.icu/bDwxLyn2X7"
+                }
+            ]
+        }
+    },
+    {
+        "id": "under-current-noi-mac--2025",
+        "title": "Under Current - Nội Mạc",
+        "year": "2025",
+        "poster": "https://m.media-amazon.com/images/M/MV5BM2ZmZjEwZDEtOTYzZC00OWJhLTk4ZTctN2NlYTA2Y2ZmOWQzXkEyXkFqcGc@._V1_.jpg",
+        "poster-slide": "",
+        "country": "Hồng Kông",
+        "movie-genre": "Hành Động",
+        "actor": "Quách Phú Thành, Ngô Trấn Vũ, Nhậm Đạt Hoa, Phương Trung Tín, Lạc Ứng Quân, Khương Đại Vệ, Châu Lệ Kỳ, Tang Di, Trần Quốc Bang",
+        "category": "phim-le",
+        "age": "",
+        "slide": "0",
+        "description": "Nội Mạc là một tác phẩm hình sự giật gân đánh dấu sự trở lại đỉnh cao của đạo diễn kỳ cựu Mạch Triệu Huy, đi sâu bóc trần những góc khuất tăm tối và sự tha hóa đạo đức đằng sau bức bình phong từ thiện hào nhoáng của giới thượng lưu Hồng Kông. Bằng những màn đấu trí căng thẳng, những pha hành động sinh tử và các thủ pháp luật pháp tinh vi, bộ đôi luật sư - cảnh sát đã giăng một mẻ lưới cuối cùng để thanh trừng tổ chức ngầm, giành lại số tiền quyên góp trả về cho mục đích thiện nguyện. Bộ phim là một tiếng chuông cảnh tỉnh về ranh giới mong manh giữa lòng tham và cái thiện, nơi công lý chỉ thực sự tỏa sáng khi con người giữ vững được lương tri của chính mình.",
+        "sources": {
+            "Vietsub": [
+                {
+                    "name": "Server 1",
+                    "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.dailymotion.com%2Fvideo%2Fk1lVHROh9HHhF8EZWaO%3Ffbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBEyRWsyM1N2dDhTT0hGUmFBVHNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR5bD1EywX_a4mlnttGk9zoCjIk2srOSdKmNNYvdGRNgVh4Dvt-zkyasUJpuEw_aem_9sxHCmspa73fvl-V03Cc3A&h=AT7NFU0ecDw6KqoUEJiAy-eXFAt9id5KhDLShojnsIVYRzu_61QkMmj8fCM84Z-ecHoivqt-yGFndvwuEAKm1vTNGBHu592eChtv_J5ylzrOMHCOZq_zvFGU75PIA6xcuzNBk--U993N0SIS5u_ufgLEQmSYM0pG&__tn__=R*F"
+                }
+            ]
+        }
+    },
+    {
         "id": "chien-dich-san-cao-2025",
         "title": "Chiến Dịch Săn Cáo",
         "year": "2025",
